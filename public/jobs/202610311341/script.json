@@ -1,0 +1,115 @@
+{
+  "title": "Cube Poop Karne Wala Anokha Jaanwar! 🐻 #shorts",
+  "idea": "Explaining how wombats naturally produce cube-shaped poop and other incredible biological facts about them in Hinglish.",
+  "lines": [
+    {
+      "text": "Dunya mein ek aisa jaanwar hai jo chaukona yani cube shape poop karta hai!",
+      "highlight": "cube shape poop",
+      "scene": {
+        "type": "hook",
+        "emoji": "📦",
+        "big": "CUBE POOP ANIMAL"
+      }
+    },
+    {
+      "text": "Ye hai Australia ka Wombat, jo har ek raat 80 se 100 cubes banata hai!",
+      "highlight": "80 se 100",
+      "scene": {
+        "type": "counter",
+        "emoji": "💩",
+        "from": 0,
+        "to": 100,
+        "prefix": "",
+        "suffix": " Cubes",
+        "label": "Poop Cubes Per Night"
+      }
+    },
+    {
+      "text": "Inka khana hazam hone mein poore 8 se 14 din lagte hain!",
+      "highlight": "8 se 14 din",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🧔",
+          "label": "Insaan",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐻",
+          "label": "Wombat",
+          "value": 14
+        },
+        "unit": "din"
+      }
+    },
+    {
+      "text": "Puraane zamaane ke Wombat 360 kg tak bhaari hote the!",
+      "highlight": "360 kg",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐻",
+          "label": "Aaj Ka Wombat",
+          "value": 35
+        },
+        "right": {
+          "emoji": "🦣",
+          "label": "Purana Wombat",
+          "value": 360
+        },
+        "unit": "kg"
+      }
+    },
+    {
+      "text": "Aur toh aur, UV light mein ye jaanwar neon tarah chamakta hai!",
+      "highlight": "neon tarah chamakta",
+      "scene": {
+        "type": "fact",
+        "emoji": "💡",
+        "big": "GLOW IN UV LIGHT",
+        "small": "Bio-fluorescent Skin"
+      }
+    },
+    {
+      "text": "Kya aapne pehle kabhi cube poop karne wale jaanwar ke baare mein suna tha?",
+      "highlight": "cube poop",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "CUBE POOP SECRET!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Cube Poop Karne Wala Anokha Jaanwar! 🐻 #shorts",
+    "description": "Kya aapne kabhi aise jaanwar ke baare mein suna hai jo square ya cube shape poop karta hai? Jaaniye Australia ke Wombat ke surprising facts!\n\n#wombat #animalfacts #hinglish #wildlife #factshindi",
+    "tags": [
+      "wombat facts",
+      "cube poop animal",
+      "australian animals",
+      "wombat",
+      "amazing animal facts",
+      "hinglish facts",
+      "wildlife facts",
+      "interesting facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Produces 80 to 100 cube-shaped pieces of feces in a single night",
+      "source": "https://en.wikipedia.org/wiki/Wombat"
+    },
+    {
+      "claim": "Digestion takes 8 to 14 days",
+      "source": "https://en.wikipedia.org/wiki/Wombat"
+    },
+    {
+      "claim": "Extinct wombats weighed up to 360 kg",
+      "source": "https://en.wikipedia.org/wiki/Wombat"
+    },
+    {
+      "claim": "Bio-fluorescence under UV light",
+      "source": "https://en.wikipedia.org/wiki/Wombat"
+    }
+  ]
+}

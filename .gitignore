@@ -11,3 +11,4 @@ youtube-client.json
 public/jobs/**/*.wav
 public/jobs/**/voice-raw
 .wrangler
+.webhook-secret

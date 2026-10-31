@@ -1,0 +1,91 @@
+{
+  "title": "Cube Poop Karne Wala Anokha Jaanwar! 🐻 #shorts",
+  "accent": "#db2777",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Dunya mein ek aisa jaanwar hai jo chaukona yani cube shape poop karta hai!",
+      "highlight": "cube shape poop",
+      "scene": {
+        "type": "hook",
+        "emoji": "📦",
+        "big": "CUBE POOP ANIMAL"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Ye hai Australia ka Wombat, jo har ek raat 80 se 100 cubes banata hai!",
+      "highlight": "80 se 100",
+      "scene": {
+        "type": "counter",
+        "emoji": "💩",
+        "from": 0,
+        "to": 100,
+        "prefix": "",
+        "suffix": " Cubes",
+        "label": "Poop Cubes Per Night"
+      },
+      "durationInFrames": 180
+    },
+    {
+      "text": "Inka khana hazam hone mein poore 8 se 14 din lagte hain!",
+      "highlight": "8 se 14 din",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🧔",
+          "label": "Insaan",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐻",
+          "label": "Wombat",
+          "value": 14
+        },
+        "unit": "din"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Puraane zamaane ke Wombat 360 kg tak bhaari hote the!",
+      "highlight": "360 kg",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐻",
+          "label": "Aaj Ka Wombat",
+          "value": 35
+        },
+        "right": {
+          "emoji": "🦣",
+          "label": "Purana Wombat",
+          "value": 360
+        },
+        "unit": "kg"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Aur toh aur, UV light mein ye jaanwar neon tarah chamakta hai!",
+      "highlight": "neon tarah chamakta",
+      "scene": {
+        "type": "fact",
+        "emoji": "💡",
+        "big": "GLOW IN UV LIGHT",
+        "small": "Bio-fluorescent Skin"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapne pehle kabhi cube poop karne wale jaanwar ke baare mein suna tha?",
+      "highlight": "cube poop",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "CUBE POOP SECRET!"
+      },
+      "durationInFrames": 169
+    }
+  ]
+}
