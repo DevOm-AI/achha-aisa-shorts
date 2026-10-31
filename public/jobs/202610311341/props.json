@@ -1,8 +1,8 @@
 {
   "title": "Cube Poop Karne Wala Anokha Jaanwar! 🐻 #shorts",
   "accent": "#db2777",
-  "voice": null,
-  "voiceTrimBefore": 0,
+  "voice": "jobs/202610311341/voice.wav",
+  "voiceTrimBefore": 5,
   "lines": [
     {
       "text": "Dunya mein ek aisa jaanwar hai jo chaukona yani cube shape poop karta hai!",
@@ -12,7 +12,13 @@
         "emoji": "📦",
         "big": "CUBE POOP ANIMAL"
       },
-      "durationInFrames": 169
+      "durationInFrames": 154,
+      "speech": [
+        [
+          5,
+          141
+        ]
+      ]
     },
     {
       "text": "Ye hai Australia ka Wombat, jo har ek raat 80 se 100 cubes banata hai!",
@@ -26,7 +32,17 @@
         "suffix": " Cubes",
         "label": "Poop Cubes Per Night"
       },
-      "durationInFrames": 180
+      "durationInFrames": 148,
+      "speech": [
+        [
+          0,
+          76
+        ],
+        [
+          83,
+          131
+        ]
+      ]
     },
     {
       "text": "Inka khana hazam hone mein poore 8 se 14 din lagte hain!",
@@ -45,7 +61,13 @@
         },
         "unit": "din"
       },
-      "durationInFrames": 148
+      "durationInFrames": 106,
+      "speech": [
+        [
+          0,
+          89
+        ]
+      ]
     },
     {
       "text": "Puraane zamaane ke Wombat 360 kg tak bhaari hote the!",
@@ -64,7 +86,13 @@
         },
         "unit": "kg"
       },
-      "durationInFrames": 126
+      "durationInFrames": 119,
+      "speech": [
+        [
+          0,
+          101
+        ]
+      ]
     },
     {
       "text": "Aur toh aur, UV light mein ye jaanwar neon tarah chamakta hai!",
@@ -75,7 +103,17 @@
         "big": "GLOW IN UV LIGHT",
         "small": "Bio-fluorescent Skin"
       },
-      "durationInFrames": 148
+      "durationInFrames": 133,
+      "speech": [
+        [
+          0,
+          21
+        ],
+        [
+          28,
+          113
+        ]
+      ]
     },
     {
       "text": "Kya aapne pehle kabhi cube poop karne wale jaanwar ke baare mein suna tha?",
@@ -85,7 +123,17 @@
         "emoji": "🤯",
         "big": "CUBE POOP SECRET!"
       },
-      "durationInFrames": 169
+      "durationInFrames": 160,
+      "speech": [
+        [
+          0,
+          101
+        ],
+        [
+          110,
+          133
+        ]
+      ]
     }
   ]
 }
