@@ -1,0 +1,115 @@
+{
+  "title": "Venus pe Din, Saal Se Bhi Lamba!",
+  "idea": "Venus spins so slowly (243 Earth days per rotation) that its day is longer than its 225-day year, and it spins backwards so the Sun rises in the west.",
+  "lines": [
+    {
+      "text": "Ek planet aisa hai jahan ek din, poore saal se bhi lamba hota hai!",
+      "highlight": "din, saal",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪐",
+        "big": "DIN > SAAL"
+      }
+    },
+    {
+      "text": "Venus ko apni dhuri pe ek chakkar lagane mein 243 Earth din lagte hain.",
+      "highlight": "243 Earth din",
+      "scene": {
+        "type": "counter",
+        "emoji": "🪐",
+        "from": 0,
+        "to": 243,
+        "prefix": "",
+        "suffix": " din",
+        "label": "Venus ka ek din"
+      }
+    },
+    {
+      "text": "Lekin Sooraj ka poora round woh sirf 225 din mein kar leta hai.",
+      "highlight": "225 din",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🔄",
+          "label": "Venus ka din",
+          "value": 243
+        },
+        "right": {
+          "emoji": "☀️",
+          "label": "Venus ka saal",
+          "value": 225
+        },
+        "unit": "din"
+      }
+    },
+    {
+      "text": "Wajah? Uski zameen sirf 6.5 km/h se ghoomti hai, bas tez walk jitna!",
+      "highlight": "6.5 km/h",
+      "scene": {
+        "type": "fact",
+        "emoji": "🚶",
+        "big": "6.5 KM/H",
+        "small": "Venus ki zameen ki speed"
+      }
+    },
+    {
+      "text": "Aur hamari Earth? Equator pe lagbhag 1670 km/h, Mumbai local se kai guna tez!",
+      "highlight": "1670 km/h",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🪐",
+          "label": "Venus",
+          "value": 6.5
+        },
+        "right": {
+          "emoji": "🌍",
+          "label": "Earth",
+          "value": 1670
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Aur ulta ghoomne se wahan Sooraj west se ugta hai! Pehle pata tha?",
+      "highlight": "west se ugta",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🌅",
+        "big": "SOORAJ WEST SE!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Is Planet Pe Din, Saal Se Bhi Lamba Hai! 🪐 #shorts",
+    "description": "Venus apni dhuri pe itna slow ghoomta hai ki wahan ek din 243 Earth din ka hota hai, aur saal sirf 225 din ka!\nUpar se wahan Sooraj west se ugta hai. Kya aapko ye pehle pata tha? Comment mein batao!\n#venus #space #facts #hinglish #shorts",
+    "tags": [
+      "venus facts",
+      "space facts hindi",
+      "solar system",
+      "venus day longer than year",
+      "hinglish facts",
+      "amazing facts",
+      "science shorts",
+      "planet facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "A day (one rotation) on Venus lasts about 243 Earth days, and a year on Venus lasts about 225 Earth days.",
+      "source": "https://spaceplace.nasa.gov/all-about-venus/en/"
+    },
+    {
+      "claim": "Venus rotates retrograde (east to west), so the Sun would rise in the west and set in the east.",
+      "source": "https://www.nasa.gov/sites/default/files/files/Venus_Lithograph.pdf"
+    },
+    {
+      "claim": "Venus's equatorial rotation speed is about 6.52 km/h (radius 6,051.8 km, rotation period 5,832.5 hours).",
+      "source": "https://castor2.ca/16_Calc/03_Rotation/index.html"
+    },
+    {
+      "claim": "Earth's surface at the equator rotates at about 1,674 km/h (roughly 1,670 km/h).",
+      "source": "https://www.spacecentre.nz/resources/faq/solar-system/earth/rotation-speed.html"
+    }
+  ]
+}

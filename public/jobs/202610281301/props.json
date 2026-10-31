@@ -1,0 +1,97 @@
+{
+  "title": "Octopus: 3 Dil, 9 Dimaag, Neela Khoon!",
+  "accent": "#0891b2",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Is jaanwar ke teen dil hain, nau dimaag, aur khoon neela!",
+      "highlight": "teen dil, neela",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐙",
+        "big": "3 DIL, NEELA KHOON"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Do dil sirf gills ko khoon bhejte hain, teesra poori body ko.",
+      "highlight": "gills, poori body",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "❤️",
+            "text": "Dil 1: Gills"
+          },
+          {
+            "emoji": "❤️",
+            "text": "Dil 2: Gills"
+          },
+          {
+            "emoji": "❤️",
+            "text": "Dil 3: Poori body"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Tairte waqt teesra dil pal bhar ruk jaata hai, shayad isliye kam tairta!",
+      "highlight": "ruk jaata",
+      "scene": {
+        "type": "fact",
+        "emoji": "💔",
+        "big": "DIL RUK GAYA!",
+        "small": "Tairte waqt kuch pal ke liye"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Khoon mein iron nahi, copper wala hemocyanin hai, isliye rang neela!",
+      "highlight": "copper, neela",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🐙",
+          "label": "Octopus"
+        },
+        "orbiter": {
+          "emoji": "💙",
+          "label": "Copper khoon"
+        },
+        "big": "NEELA KHOON"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Iske 50 crore neurons mein se do-tihai dimaag nahi, haathon mein hain!",
+      "highlight": "50 crore, haathon",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧠",
+          "label": "Dimaag",
+          "value": 18
+        },
+        "right": {
+          "emoji": "🐙",
+          "label": "8 Haath",
+          "value": 32
+        },
+        "unit": "crore"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Matlab har haath kaafi had tak khud sochta hai! Sabse ajeeb kya laga?",
+      "highlight": "khud sochta",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "HAATH BHI SOCHTE"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}

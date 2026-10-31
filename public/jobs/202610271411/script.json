@@ -1,0 +1,117 @@
+{
+  "title": "Body Har Second 20 Lakh Khoon Cells Banata Hai!",
+  "idea": "Your bone marrow makes about 2 million new red blood cells every second, roughly India's whole population in about 12 minutes, because each one lives only about 120 days.",
+  "lines": [
+    {
+      "text": "Aapka body har second 20 lakh naye khoon ke cells banata hai!",
+      "highlight": "20 lakh",
+      "scene": {
+        "type": "hook",
+        "emoji": "🩸",
+        "big": "20 LAKH / SECOND"
+      }
+    },
+    {
+      "text": "Sirf 12 minute mein 144 crore, lagbhag poore India ki aabaadi jitne!",
+      "highlight": "144 crore",
+      "scene": {
+        "type": "counter",
+        "emoji": "🩸",
+        "from": 0,
+        "to": 1440000000,
+        "prefix": "",
+        "suffix": "",
+        "label": "12 MINUTE MEIN CELLS"
+      }
+    },
+    {
+      "text": "Aapke 30 trillion cells mein se 25 trillion sirf yahi laal cells hain!",
+      "highlight": "25 trillion",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧬",
+          "label": "Baaki cells",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🩸",
+          "label": "Red cells",
+          "value": 25
+        },
+        "unit": "trillion"
+      }
+    },
+    {
+      "text": "Har cell sirf 120 din jeeta hai, aur lagatar dil se ghoomta rehta hai.",
+      "highlight": "120 din",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "❤️",
+          "label": "Dil"
+        },
+        "orbiter": {
+          "emoji": "🩸",
+          "label": "Red cell"
+        },
+        "big": "SIRF 120 DIN"
+      }
+    },
+    {
+      "text": "Isliye ek din mein 17,000 crore se zyada naye cells, bina ruke!",
+      "highlight": "17,000 crore",
+      "scene": {
+        "type": "stack",
+        "emoji": "🩸",
+        "count": 40,
+        "label": "17,000+ CRORE CELLS / DIN"
+      }
+    },
+    {
+      "text": "Aur ye factory aapki haddiyon ke andar hai! Aapko pata tha? Comment karo!",
+      "highlight": "haddiyon",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🦴",
+        "big": "HADDI = FACTORY"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Aapka Body Har Second 20 Lakh Khoon Cells Banata Hai! 🩸 #shorts",
+    "description": "Aapki haddiyon ke andar ek factory hai jo kabhi band nahi hoti. Har second 20 lakh naye red blood cells, aur sirf 12 minute mein poore India ki aabaadi jitne!\nAapko ye pata tha? Comment mein batao! 👇\n#shorts #facts #hindifacts #humanbody #science",
+    "tags": [
+      "human body facts",
+      "red blood cells",
+      "hindi facts",
+      "hinglish facts",
+      "science facts in hindi",
+      "bone marrow",
+      "amazing facts",
+      "mind blowing facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Bone marrow makes red blood cells at about 2 million per second, and they live about 120 days.",
+      "source": "https://stanfordbloodcenter.org/how_long_do_red/"
+    },
+    {
+      "claim": "2 million/sec × 720 seconds (12 minutes) = 1.44 billion (144 crore), close to India's UN-estimated mid-2026 population of about 147.7 crore.",
+      "source": "https://www.statisticstimes.com/m/demographics/country/india-population.php"
+    },
+    {
+      "claim": "The human body has about 30 trillion human cells. Red blood cells make up about 84% of them (about 25 trillion), leaving about 5 trillion other cells.",
+      "source": "https://bionumbers.hms.harvard.edu/bionumber.aspx?id=113005"
+    },
+    {
+      "claim": "2 million/sec × 86,400 seconds = about 172.8 billion (about 17,280 crore) new red blood cells per day.",
+      "source": "https://stanfordbloodcenter.org/how_long_do_red/"
+    },
+    {
+      "claim": "Red blood cells are made in the bone marrow of large bones.",
+      "source": "https://stanfordbloodcenter.org/how_long_do_red/"
+    }
+  ]
+}

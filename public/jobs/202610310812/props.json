@@ -1,0 +1,141 @@
+{
+  "title": "Aap Abhi 1 Lakh Km/h Se Bhaag Rahe Ho!",
+  "accent": "#dc2626",
+  "voice": "jobs/202610310812/voice.wav",
+  "voiceTrimBefore": 2,
+  "lines": [
+    {
+      "text": "Aap abhi baithe ho, phir bhi 1 lakh km/h se bhaag rahe ho!",
+      "highlight": "1 lakh km/h",
+      "scene": {
+        "type": "hook",
+        "emoji": "🌍",
+        "big": "1,07,000 KM/H"
+      },
+      "durationInFrames": 139,
+      "speech": [
+        [
+          5,
+          125
+        ]
+      ]
+    },
+    {
+      "text": "Dharti Sooraj ke chakkar har second lagbhag 30 kilometre ki speed se lagati hai.",
+      "highlight": "30 kilometre",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "☀️",
+          "label": "Sooraj"
+        },
+        "orbiter": {
+          "emoji": "🌍",
+          "label": "Dharti"
+        },
+        "big": "30 KM HAR SECOND"
+      },
+      "durationInFrames": 136,
+      "speech": [
+        [
+          0,
+          67
+        ],
+        [
+          72,
+          121
+        ]
+      ]
+    },
+    {
+      "text": "Bullet train 320 pe chalegi, Dharti usse 300 guna se bhi zyada tez!",
+      "highlight": "300 guna",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚄",
+          "label": "Bullet Train",
+          "value": 320
+        },
+        "right": {
+          "emoji": "🌍",
+          "label": "Dharti",
+          "value": 107208
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 138,
+      "speech": [
+        [
+          0,
+          116
+        ]
+      ]
+    },
+    {
+      "text": "Mumbai se Delhi? Dharti ye doori sirf 38 second mein tay kar leti hai!",
+      "highlight": "38 second",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 38,
+        "prefix": "",
+        "suffix": " sec",
+        "label": "Mumbai se Delhi"
+      },
+      "durationInFrames": 131,
+      "speech": [
+        [
+          0,
+          23
+        ],
+        [
+          34,
+          115
+        ]
+      ]
+    },
+    {
+      "text": "Ek din mein 25 lakh km, yaani Chaand tak 6 baar se zyada!",
+      "highlight": "25 lakh km, Chaand",
+      "scene": {
+        "type": "stack",
+        "emoji": "🌕",
+        "count": 6,
+        "label": "Roz Chaand tak 6+ baar!"
+      },
+      "durationInFrames": 133,
+      "speech": [
+        [
+          0,
+          80
+        ],
+        [
+          87,
+          115
+        ]
+      ]
+    },
+    {
+      "text": "Phir bhi kuch mehsoos nahi hota! Bolo, aaj aapne kitna safar kiya?",
+      "highlight": "mehsoos nahi",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "PATA BHI NAHI!"
+      },
+      "durationInFrames": 136,
+      "speech": [
+        [
+          0,
+          40
+        ],
+        [
+          52,
+          109
+        ]
+      ]
+    }
+  ]
+}

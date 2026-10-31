@@ -1,0 +1,154 @@
+{
+  "title": "Shark Pedon Se Bhi Purani Hai!",
+  "accent": "#ea580c",
+  "voice": "jobs/202610280701/voice.wav",
+  "voiceTrimBefore": 11,
+  "lines": [
+    {
+      "text": "Shark is duniya mein pedon se bhi pehle aa gayi thi!",
+      "highlight": "pedon se bhi pehle",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦈",
+        "big": "PEDON SE PURANI!"
+      },
+      "durationInFrames": 101,
+      "speech": [
+        [
+          5,
+          90
+        ]
+      ]
+    },
+    {
+      "text": "Shark lagbhag 45 crore saal se samundar mein tair rahi hai.",
+      "highlight": "45 crore saal",
+      "scene": {
+        "type": "counter",
+        "emoji": "🦈",
+        "from": 0,
+        "to": 450000000,
+        "prefix": "",
+        "suffix": " saal",
+        "label": "Shark ki umar"
+      },
+      "durationInFrames": 109,
+      "speech": [
+        [
+          0,
+          97
+        ]
+      ]
+    },
+    {
+      "text": "Pehle ped aaye 38.5 crore saal pehle, aur dinosaur sirf 23 crore!",
+      "highlight": "38.5 crore, 23 crore",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🦖",
+            "label": "23 crore"
+          },
+          {
+            "emoji": "🌳",
+            "label": "38.5 crore"
+          },
+          {
+            "emoji": "🦈",
+            "label": "45 crore"
+          }
+        ]
+      },
+      "durationInFrames": 159,
+      "speech": [
+        [
+          0,
+          133
+        ]
+      ]
+    },
+    {
+      "text": "Himalaya banna shuru hua sirf 5 crore saal pehle. Shark usse 9 guna purani!",
+      "highlight": "9 guna purani",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏔️",
+          "label": "Himalaya",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🦈",
+          "label": "Shark",
+          "value": 45
+        },
+        "unit": "crore saal"
+      },
+      "durationInFrames": 184,
+      "speech": [
+        [
+          0,
+          87
+        ],
+        [
+          101,
+          169
+        ]
+      ]
+    },
+    {
+      "text": "Dharti pe paanch baar mahavinash aaya, dinosaur mit gaye, shark bach gayi!",
+      "highlight": "paanch baar, bach gayi",
+      "scene": {
+        "type": "stack",
+        "emoji": "☄️",
+        "count": 5,
+        "label": "5 mass extinctions jheli!"
+      },
+      "durationInFrames": 162,
+      "speech": [
+        [
+          0,
+          67
+        ],
+        [
+          77,
+          109
+        ],
+        [
+          117,
+          151
+        ]
+      ]
+    },
+    {
+      "text": "Hum insaan sirf 3 lakh saal purane! Shark se bhi purana kaun? Comment karo!",
+      "highlight": "3 lakh saal",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "HUM TOH BACCHE!"
+      },
+      "durationInFrames": 222,
+      "speech": [
+        [
+          0,
+          77
+        ],
+        [
+          98,
+          112
+        ],
+        [
+          118,
+          161
+        ],
+        [
+          169,
+          195
+        ]
+      ]
+    }
+  ]
+}

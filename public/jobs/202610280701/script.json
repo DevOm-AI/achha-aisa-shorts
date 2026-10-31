@@ -1,0 +1,126 @@
+{
+  "title": "Shark Pedon Se Bhi Purani Hai!",
+  "idea": "Sharks have been around for about 450 million years. That makes them older than trees, dinosaurs and even the Himalayas, and they lived through all five mass extinctions.",
+  "lines": [
+    {
+      "text": "Shark is duniya mein pedon se bhi pehle aa gayi thi!",
+      "highlight": "pedon se bhi pehle",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦈",
+        "big": "PEDON SE PURANI!"
+      }
+    },
+    {
+      "text": "Shark lagbhag 45 crore saal se samundar mein tair rahi hai.",
+      "highlight": "45 crore saal",
+      "scene": {
+        "type": "counter",
+        "emoji": "🦈",
+        "from": 0,
+        "to": 450000000,
+        "prefix": "",
+        "suffix": " saal",
+        "label": "Shark ki umar"
+      }
+    },
+    {
+      "text": "Pehle ped aaye 38.5 crore saal pehle, aur dinosaur sirf 23 crore!",
+      "highlight": "38.5 crore, 23 crore",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🦖",
+            "label": "23 crore"
+          },
+          {
+            "emoji": "🌳",
+            "label": "38.5 crore"
+          },
+          {
+            "emoji": "🦈",
+            "label": "45 crore"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Himalaya banna shuru hua sirf 5 crore saal pehle. Shark usse 9 guna purani!",
+      "highlight": "9 guna purani",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏔️",
+          "label": "Himalaya",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🦈",
+          "label": "Shark",
+          "value": 45
+        },
+        "unit": "crore saal"
+      }
+    },
+    {
+      "text": "Dharti pe paanch baar mahavinash aaya, dinosaur mit gaye, shark bach gayi!",
+      "highlight": "paanch baar, bach gayi",
+      "scene": {
+        "type": "stack",
+        "emoji": "☄️",
+        "count": 5,
+        "label": "5 mass extinctions jheli!"
+      }
+    },
+    {
+      "text": "Hum insaan sirf 3 lakh saal purane! Shark se bhi purana kaun? Comment karo!",
+      "highlight": "3 lakh saal",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "HUM TOH BACCHE!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Shark Pedon Aur Himalaya Se Bhi Purani Hai! 🦈 #shorts",
+    "description": "Shark lagbhag 45 crore saal se samundar mein hai. Yeh pedon, dinosaurs aur Himalaya se bhi pehle aa gayi thi!\nPaanch mass extinctions jheli, phir bhi aaj tak zinda. Aapko pata tha? Comment mein batao!\n#shorts #facts #hindifacts #shark #amazingfacts",
+    "tags": [
+      "shark facts",
+      "sharks older than trees",
+      "hindi facts",
+      "hinglish facts",
+      "amazing facts",
+      "himalaya facts",
+      "dinosaur facts",
+      "mind blowing facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The earliest shark-like fossils (scales) are about 450 million years old",
+      "source": "https://www.discoverwildlife.com/prehistoric-life/are-sharks-older-than-trees"
+    },
+    {
+      "claim": "The first true trees (Archaeopteris) appeared about 385 million years ago, so sharks are older than trees",
+      "source": "https://dutchsharksociety.org/are-sharks-older-than-trees/"
+    },
+    {
+      "claim": "The oldest well-known dinosaurs date to about 230 million years ago",
+      "source": "https://australian.museum/publications/sharks/ancient-ones/"
+    },
+    {
+      "claim": "The Himalayas began forming 40-50 million years ago when India collided with Eurasia",
+      "source": "https://pubs.usgs.gov/gip/dynamic/himalaya.html"
+    },
+    {
+      "claim": "Sharks as a group have survived all five major mass extinctions",
+      "source": "https://www.syfy.com/syfy-wire/how-sharks-survived-all-5-global-mass-extinction-events"
+    },
+    {
+      "claim": "Homo sapiens has existed for about 300,000 years (Jebel Irhoud fossils)",
+      "source": "https://www.nhm.ac.uk/discover/news/2017/june/oldest-fossils-of-homo-sapiens-found-in-morocco.html"
+    }
+  ]
+}

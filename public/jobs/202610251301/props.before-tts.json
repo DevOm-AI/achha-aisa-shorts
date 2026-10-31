@@ -1,0 +1,89 @@
+{
+  "title": "Kaagaz 42 Baar Fold Karo, Chaand Tak Pahunch Jaoge!",
+  "accent": "#dc2626",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Ek kaagaz ko sirf 42 baar fold karo, woh Chaand tak pahunch jaayega!",
+      "highlight": "42 baar, Chaand",
+      "scene": {
+        "type": "hook",
+        "emoji": "📄",
+        "big": "42 FOLD = CHAAND!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Kaagaz sirf 0.1 mm mota hota hai, par har fold pe double!",
+      "highlight": "0.1 mm, double",
+      "scene": {
+        "type": "stack",
+        "emoji": "📄",
+        "count": 16,
+        "label": "Sirf 4 fold = 16 parat"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Sirf 23 fold mein 839 metre, Burj Khalifa se bhi uncha!",
+      "highlight": "23 fold, Burj Khalifa",
+      "scene": {
+        "type": "counter",
+        "emoji": "🏙️",
+        "from": 0,
+        "to": 839,
+        "prefix": "",
+        "suffix": " m",
+        "label": "23 fold = Burj se upar"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "27 fold pe 13 km, Mount Everest bhi chhota pad gaya!",
+      "highlight": "27 fold, Mount Everest",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "📄",
+          "label": "27 fold kaagaz",
+          "value": 13.4
+        },
+        "right": {
+          "emoji": "🏔️",
+          "label": "Mount Everest",
+          "value": 8.85
+        },
+        "unit": "km"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Aur 42 fold pe 4.4 lakh km, Chaand sirf 3.84 lakh km door hai!",
+      "highlight": "4.4 lakh km, Chaand",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌍",
+          "label": "Dharti"
+        },
+        "orbiter": {
+          "emoji": "🌕",
+          "label": "Chaand"
+        },
+        "big": "4.4 LAKH KM"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Par asli duniya ka record sirf 12 fold hai, aap kitne kar paoge?",
+      "highlight": "sirf 12 fold",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "RECORD: SIRF 12!"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}

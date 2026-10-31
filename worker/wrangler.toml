@@ -1,0 +1,13 @@
+# Telegram webhook + daily timer for the Shorts bot. Heavy work runs in GitHub Actions (.github/workflows/shorts.yml).
+# Secrets (wrangler secret put): TELEGRAM_BOT_TOKEN, GH_TOKEN, WEBHOOK_SECRET
+name = "shorts-bot"
+main = "index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+REPO = "DevOm-AI/achha-aisa-shorts"
+OWNER_CHAT_ID = "2050550779"
+
+[triggers]
+# 12:30 PM and 6:30 PM IST
+crons = ["0 7 * * *", "0 13 * * *"]

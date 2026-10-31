@@ -1,0 +1,146 @@
+{
+  "title": "Saturn Paani Mein Tair Sakta Hai!",
+  "accent": "#db2777",
+  "voice": "jobs/202610290701/voice.wav",
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Saturn itna halka hai ki paani mein tair sakta hai!",
+      "highlight": "tair sakta",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪐",
+        "big": "SATURN TAIRTA HAI!"
+      },
+      "durationInFrames": 113,
+      "speech": [
+        [
+          2,
+          7
+        ],
+        [
+          16,
+          100
+        ]
+      ]
+    },
+    {
+      "text": "Aur size? Itna bada ki andar 764 Prithvi samaa jaayein!",
+      "highlight": "764 Prithvi",
+      "scene": {
+        "type": "stack",
+        "emoji": "🌍",
+        "count": 764,
+        "label": "764 Prithvi andar fit!"
+      },
+      "durationInFrames": 129,
+      "speech": [
+        [
+          0,
+          107
+        ]
+      ]
+    },
+    {
+      "text": "Par wajan Prithvi se sirf 95 guna, size 764 guna hone par bhi!",
+      "highlight": "sirf 95 guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🌍",
+          "label": "Prithvi",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🪐",
+          "label": "Saturn",
+          "value": 95
+        },
+        "unit": "guna wajan"
+      },
+      "durationInFrames": 181,
+      "speech": [
+        [
+          0,
+          68
+        ],
+        [
+          79,
+          154
+        ]
+      ]
+    },
+    {
+      "text": "Wahan hawa 1800 km/h chalti hai, sabse tez cricket ball se 11 guna!",
+      "highlight": "1800 km/h",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🏏",
+          "label": "Fastest ball",
+          "value": 161
+        },
+        "right": {
+          "emoji": "💨",
+          "label": "Saturn ki hawa",
+          "value": 1800
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 177,
+      "speech": [
+        [
+          0,
+          161
+        ]
+      ]
+    },
+    {
+      "text": "Aur yeh vishaal gola sirf 10.7 ghante mein ek chakkar ghoom jaata hai!",
+      "highlight": "10.7 ghante",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🪐",
+          "label": "Saturn"
+        },
+        "orbiter": {
+          "emoji": "⏰",
+          "label": "10.7 ghante"
+        },
+        "big": "DIN: 10.7 GHANTE"
+      },
+      "durationInFrames": 136,
+      "speech": [
+        [
+          0,
+          109
+        ]
+      ]
+    },
+    {
+      "text": "Bas itna bada bathtub mil jaaye, Saturn tairne lagega! Kisi ko pata tha?",
+      "highlight": "tairne lagega",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🛁",
+        "big": "PAANI PE TAIRTA!"
+      },
+      "durationInFrames": 199,
+      "speech": [
+        [
+          0,
+          10
+        ],
+        [
+          16,
+          98
+        ],
+        [
+          112,
+          172
+        ]
+      ]
+    }
+  ]
+}

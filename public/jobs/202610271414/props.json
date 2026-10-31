@@ -1,0 +1,181 @@
+{
+  "title": "Ek Chammach Taara = 100 Crore Ton!",
+  "accent": "#059669",
+  "voice": "jobs/202610271414/voice.wav",
+  "voiceTrimBefore": 16,
+  "lines": [
+    {
+      "text": "Ek taara aisa hai jiska ek chammach 100 crore ton ka hai!",
+      "highlight": "100 crore ton",
+      "scene": {
+        "type": "hook",
+        "emoji": "🥄",
+        "big": "100 CRORE TON!"
+      },
+      "durationInFrames": 116,
+      "speech": [
+        [
+          5,
+          66
+        ],
+        [
+          71,
+          101
+        ]
+      ]
+    },
+    {
+      "text": "Iska naam Neutron Star — Sooraj se bhaari, par sirf 20 km chauda!",
+      "highlight": "Neutron Star, 20 km",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "⭐",
+          "label": "Neutron Star",
+          "value": 20
+        },
+        "right": {
+          "emoji": "☀️",
+          "label": "Sooraj",
+          "value": 1392000
+        },
+        "unit": "km"
+      },
+      "durationInFrames": 157,
+      "speech": [
+        [
+          0,
+          40
+        ],
+        [
+          53,
+          77
+        ],
+        [
+          84,
+          95
+        ],
+        [
+          106,
+          136
+        ]
+      ]
+    },
+    {
+      "text": "Uska sirf ek chammach maal — wajan poore 100 crore ton!",
+      "highlight": "ek chammach",
+      "scene": {
+        "type": "counter",
+        "emoji": "🥄",
+        "from": 0,
+        "to": 1000000000,
+        "prefix": "",
+        "suffix": " ton",
+        "label": "1 chammach ka wajan"
+      },
+      "durationInFrames": 134,
+      "speech": [
+        [
+          0,
+          43
+        ],
+        [
+          56,
+          78
+        ],
+        [
+          91,
+          110
+        ]
+      ]
+    },
+    {
+      "text": "Ghar ka pankha minute mein 350 chakkar lagata hai, ye 43,000!",
+      "highlight": "350, 43,000",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🌀",
+          "label": "Ghar ka Pankha",
+          "value": 350
+        },
+        "right": {
+          "emoji": "⭐",
+          "label": "Neutron Star",
+          "value": 42981
+        },
+        "unit": "RPM"
+      },
+      "durationInFrames": 159,
+      "speech": [
+        [
+          0,
+          79
+        ],
+        [
+          89,
+          103
+        ],
+        [
+          116,
+          139
+        ]
+      ]
+    },
+    {
+      "text": "Yaani ek second mein 716 chakkar, satah pe roshni ki 24% speed!",
+      "highlight": "716 chakkar, 24%",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "⭐",
+          "label": "Neutron Star"
+        },
+        "orbiter": {
+          "emoji": "💫",
+          "label": "1 Chakkar"
+        },
+        "big": "716 / SECOND"
+      },
+      "durationInFrames": 190,
+      "speech": [
+        [
+          0,
+          72
+        ],
+        [
+          88,
+          120
+        ],
+        [
+          133,
+          161
+        ]
+      ]
+    },
+    {
+      "text": "Ek chammach 100 crore ton ka! Kaunsa fact zyada pagal hai — wajan ya speed?",
+      "highlight": "wajan ya speed",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "WAJAN YA SPEED?"
+      },
+      "durationInFrames": 180,
+      "speech": [
+        [
+          0,
+          49
+        ],
+        [
+          65,
+          118
+        ],
+        [
+          125,
+          153
+        ]
+      ]
+    }
+  ]
+}

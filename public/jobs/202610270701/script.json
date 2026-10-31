@@ -1,0 +1,117 @@
+{
+  "title": "Madhumakkhi Ki Poori Zindagi = Sirf 1/12 Chammach Shahad!",
+  "idea": "A worker honeybee makes only about 1/12 of a teaspoon of honey in her whole life, so one spoonful takes about 12 bees' lifetimes, and a pound of honey takes about 2 million flowers and 55,000 miles of flying.",
+  "lines": [
+    {
+      "text": "Ek madhumakkhi apni poori zindagi mein sirf 1/12 chammach shahad banati hai!",
+      "highlight": "1/12 chammach",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐝",
+        "big": "SIRF 1/12 CHAMMACH"
+      }
+    },
+    {
+      "text": "Matlab ek chammach shahad mein 12 madhumakkhiyon ki poori zindagi lagti hai!",
+      "highlight": "12 madhumakkhiyon",
+      "scene": {
+        "type": "stack",
+        "emoji": "🐝",
+        "count": 12,
+        "label": "12 zindagiyan = 1 chammach"
+      }
+    },
+    {
+      "text": "Woh 24 km/h se udti hai, paidal insaan se lagbhag 5 guna tez!",
+      "highlight": "24 km/h, 5 guna",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚶",
+          "label": "Paidal insaan",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🐝",
+          "label": "Madhumakkhi",
+          "value": 24
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Aadha kilo shahad ke liye madhumakkhiyan 20 lakh phoolon ka ras choosti hain!",
+      "highlight": "20 lakh phoolon",
+      "scene": {
+        "type": "counter",
+        "emoji": "🌸",
+        "from": 0,
+        "to": 2000000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Phool = 454g shahad"
+      }
+    },
+    {
+      "text": "Aur saath milke 88,000 km udti hain, Dharti ke do chakkar se zyada!",
+      "highlight": "88,000 km, do chakkar",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌍",
+          "label": "Dharti"
+        },
+        "orbiter": {
+          "emoji": "🐝",
+          "label": "Madhumakkhi"
+        },
+        "big": "88,000 KM!"
+      }
+    },
+    {
+      "text": "Agli baar shahad khao toh 12 zindagiyan yaad karna! Aap roz kitna khaate ho?",
+      "highlight": "12 zindagiyan",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🍯",
+        "big": "12 ZINDAGIYAN!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Ek Chammach Shahad = 12 Madhumakkhiyon Ki Poori Zindagi! 🐝 #shorts",
+    "description": "Ek madhumakkhi apni poori zindagi mein sirf 1/12 chammach shahad banati hai! 🍯\nAadha kilo shahad ke liye 20 lakh phool aur 88,000 km ki udaan lagti hai. Comment mein batao, aap roz kitna shahad khaate ho?\n#shorts #factsinhindi #honeybee #amazingfacts #hinglish",
+    "tags": [
+      "honey bee facts",
+      "madhumakkhi facts",
+      "shahad kaise banta hai",
+      "amazing facts hindi",
+      "hinglish facts",
+      "animal facts",
+      "mind blowing facts",
+      "youtube shorts india"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "In her lifetime, a worker honeybee produces about 1/12 of a teaspoon of honey (so about 12 bee lifetimes make 1 teaspoon).",
+      "source": "https://dipsy.pbs.org/wgbh/nova/bees/buzz.html"
+    },
+    {
+      "claim": "To make one pound (~454 g) of honey, the workers in a hive visit about 2 million flowers and fly about 55,000 miles (~88,500 km).",
+      "source": "https://dipsy.pbs.org/wgbh/nova/bees/buzz.html"
+    },
+    {
+      "claim": "Honeybees fly at an average of about 15 mph (~24 km/h) and can reach about 20 mph.",
+      "source": "https://ucanr.edu/blog/bug-squad/article/how-fast-can-honey-bee-fly"
+    },
+    {
+      "claim": "Earth's equatorial circumference is about 40,075 km, so 88,500 km is about 2.2 trips around Earth.",
+      "source": "https://science.nasa.gov/earth/facts/"
+    },
+    {
+      "claim": "Typical human walking speed is about 5 km/h, so 24 km/h is about 4.8 times faster.",
+      "source": "https://en.wikipedia.org/wiki/Preferred_walking_speed"
+    }
+  ]
+}

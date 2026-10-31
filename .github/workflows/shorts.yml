@@ -1,0 +1,86 @@
+# Runs one Shorts bot action. Triggered by the Cloudflare Worker (worker/) via workflow_dispatch.
+name: shorts
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: generate | redo | voice | approve | discard
+        required: true
+      file_id:
+        description: Telegram file id of the voice note (voice only)
+        required: false
+        default: ""
+
+# One job at a time, in order: the bot's state lives in this repo.
+concurrency:
+  group: shorts
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      OWNER_CHAT_ID: ${{ secrets.OWNER_CHAT_ID }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install (renders only)
+        if: inputs.action == 'voice'
+        run: npm ci --loglevel=error
+
+      - name: Cache Remotion browser
+        if: inputs.action == 'voice'
+        uses: actions/cache@v4
+        with:
+          path: node_modules/.remotion
+          key: remotion-browser-${{ hashFiles('package-lock.json') }}
+
+      - name: YouTube credentials
+        if: inputs.action == 'approve'
+        env:
+          YOUTUBE_CLIENT_JSON: ${{ secrets.YOUTUBE_CLIENT_JSON }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          printf '%s' "$YOUTUBE_CLIENT_JSON" > youtube-client.json
+          printf '{"refresh_token":"%s"}' "$YOUTUBE_REFRESH_TOKEN" > automation/youtube-token.json
+
+      - name: Run ${{ inputs.action }}
+        env:
+          ACTION: ${{ inputs.action }}
+          FILE_ID: ${{ inputs.file_id }}
+        run: node automation/remote.mjs "$ACTION" "$FILE_ID"
+
+      - name: Keep final video for approval
+        if: inputs.action == 'voice' && success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: final
+          path: out/jobs/*-final.mp4
+          retention-days: 7
+
+      - name: Save bot state
+        if: always()
+        env:
+          ACTION: ${{ inputs.action }}
+        run: |
+          git config user.name "shorts-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add automation/state.json automation/history.json public/jobs
+          git diff --cached --quiet && exit 0
+          git commit -m "bot: $ACTION"
+          git pull --rebase
+          git push

@@ -1,0 +1,121 @@
+{
+  "title": "Astronaut Roz 16 Baar Sooraj Ugte Dekhte Hain!",
+  "idea": "The ISS circles Earth about every 90 minutes at ~28,000 km/h, so astronauts see about 16 sunrises and sunsets every day.",
+  "lines": [
+    {
+      "text": "Space Station ke astronaut roz 16 baar sooraj ugte dekhte hain!",
+      "highlight": "16 baar sooraj",
+      "scene": {
+        "type": "hook",
+        "emoji": "🌅",
+        "big": "ROZ 16 SUNRISE!"
+      }
+    },
+    {
+      "text": "Kyunki ISS sirf 90 minute mein poori Prithvi ka ek chakkar lagata hai.",
+      "highlight": "90 minute",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌍",
+          "label": "Prithvi"
+        },
+        "orbiter": {
+          "emoji": "🛰️",
+          "label": "ISS"
+        },
+        "big": "90 MIN/CHAKKAR"
+      }
+    },
+    {
+      "text": "Speed? 28,000 km per hour, hawai jahaz se lagbhag 30 guna tez!",
+      "highlight": "28,000 km, 30 guna",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "✈️",
+          "label": "Hawai Jahaz",
+          "value": 900
+        },
+        "right": {
+          "emoji": "🛰️",
+          "label": "ISS",
+          "value": 28000
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Mumbai se Delhi? ISS ko lagenge bas dhai minute se bhi kam!",
+      "highlight": "dhai minute",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 1140,
+        "prefix": "",
+        "suffix": " km",
+        "label": "Mumbai→Delhi: 2.5 min"
+      }
+    },
+    {
+      "text": "Aur ye udta hai 400 km upar, yaani 45 Mount Everest ek ke upar ek!",
+      "highlight": "400 km, 45 Mount Everest",
+      "scene": {
+        "type": "stack",
+        "emoji": "⛰️",
+        "count": 45,
+        "label": "45 Everest = ISS ki oonchai"
+      }
+    },
+    {
+      "text": "Wahan lagbhag har 45 minute mein din-raat badalta hai! Aap wahan so paoge?",
+      "highlight": "45 minute, so paoge",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "45 MIN KA DIN!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Astronaut Roz 16 Baar Sooraj Ugte Dekhte Hain! 🌅 #shorts",
+    "description": "Space Station 28,000 km/h ki speed se sirf 90 minute mein Prithvi ka ek chakkar laga leta hai! Isliye wahan astronaut roz 16 sunrise aur 16 sunset dekhte hain. Aap wahan neend le paoge? Comment karo! 👇\n#shorts #space #ISS #hindifacts #sciencefacts",
+    "tags": [
+      "ISS facts in hindi",
+      "space station",
+      "astronaut life",
+      "16 sunrise",
+      "space facts hindi",
+      "hinglish facts",
+      "science shorts",
+      "amazing facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The ISS makes 16 orbits of Earth in 24 hours, so the crew passes through 16 sunrises and 16 sunsets. This is a rounded average; the real figure is about 15.5–16.",
+      "source": "https://www.discoverspace.org/wp-content/uploads/2020/07/NASA-ISS-Diagram-and-Facts-4.2020.pdf"
+    },
+    {
+      "claim": "The ISS completes one orbit roughly every 90–92 minutes, about half in daylight and half in darkness. That gives a day-night switch about every 45 minutes.",
+      "source": "https://eol.jsc.nasa.gov/Collections/EarthObservatory/articles/SunrisetoSunsetaboardtheSpaceStation.htm"
+    },
+    {
+      "claim": "The ISS travels at about 17,500 mph (about 28,000 km/h) at an altitude of about 400 km.",
+      "source": "https://spaceflight-tracker.vercel.app/iss"
+    },
+    {
+      "claim": "The Mumbai–Delhi great-circle distance is about 1,138 km. At 28,000 km/h (about 467 km per minute), that takes about 2.4 minutes.",
+      "source": "https://www.airmilescalculator.com/distance/bom-to-del/"
+    },
+    {
+      "claim": "Mount Everest's official height is 8,848.86 m (Nepal–China joint announcement, Dec 2020). 400 km ÷ 8.85 km ≈ 45 Everests.",
+      "source": "https://www.australiangeographic.com.au/news/2020/12/turns-out-everest-is-higher-than-we-thought/"
+    },
+    {
+      "claim": "Commercial jets cruise at about 900 km/h, so the ISS at about 28,000 km/h is about 31× faster ('lagbhag 30 guna'). This jet speed is general knowledge and was not checked with a web search.",
+      "source": "https://spaceflight-tracker.vercel.app/iss"
+    }
+  ]
+}

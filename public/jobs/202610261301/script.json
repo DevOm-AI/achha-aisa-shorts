@@ -1,0 +1,125 @@
+{
+  "title": "Phone Charger Apollo 11 Se Tez!",
+  "idea": "A modern USB-C charger chip runs about 48x faster than the 1.024 MHz Apollo 11 Guidance Computer that landed humans on the Moon with roughly 4 KB of RAM.",
+  "lines": [
+    {
+      "text": "Aapka phone charger Apollo 11 ke computer se zyada smart hai!",
+      "highlight": "phone charger",
+      "scene": {
+        "type": "hook",
+        "emoji": "🔌",
+        "big": "CHARGER > NASA!"
+      }
+    },
+    {
+      "text": "1969 mein insaan chaand pe utra, sirf 4 KB RAM wale computer se.",
+      "highlight": "4 KB RAM",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌕",
+          "label": "Chaand"
+        },
+        "orbiter": {
+          "emoji": "🚀",
+          "label": "Apollo 11"
+        },
+        "big": "Sirf 4 KB RAM"
+      }
+    },
+    {
+      "text": "Uski speed sirf 1 MHz thi, aur ek USB-C charger chip 48 MHz!",
+      "highlight": "48 MHz",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚀",
+          "label": "Apollo 1969",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🔌",
+          "label": "USB-C Charger",
+          "value": 48
+        },
+        "unit": "MHz"
+      }
+    },
+    {
+      "text": "Aur aapke 8 GB phone mein uske 20 lakh guna se zyada RAM!",
+      "highlight": "20 lakh guna",
+      "scene": {
+        "type": "counter",
+        "emoji": "📱",
+        "from": 0,
+        "to": 2000000,
+        "prefix": "",
+        "suffix": "×",
+        "label": "Guna zyada RAM"
+      }
+    },
+    {
+      "text": "Aapki ek selfie bhi us poore computer mein fit nahi hoti!",
+      "highlight": "ek selfie",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🚀",
+          "label": "Apollo Memory",
+          "value": 76
+        },
+        "right": {
+          "emoji": "📸",
+          "label": "Ek Selfie",
+          "value": 3000
+        },
+        "unit": "KB"
+      }
+    },
+    {
+      "text": "Phir bhi NASA chaand tak pahunch gaya! Aap apne phone se kya karte ho?",
+      "highlight": "chaand tak",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "4 KB SE CHAAND!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Aapka Charger NASA Ke Apollo 11 Computer Se Tez! 🚀 #shorts",
+    "description": "1969 mein insaan sirf 4 KB RAM aur 1 MHz wale computer se chaand pe utra tha! Aaj ek USB-C charger ki chip usse 48 guna tez hai, aur aapke phone mein 20 lakh guna zyada RAM hai 🤯\nComment karo: aap apne phone se kya karte ho?\n#shorts #apollo11 #nasa #hindifacts #technology",
+    "tags": [
+      "apollo 11",
+      "apollo guidance computer",
+      "nasa facts",
+      "usb c charger",
+      "hinglish facts",
+      "amazing facts hindi",
+      "technology facts",
+      "moon landing"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The Apollo Guidance Computer had 2,048 words of erasable RAM (about 4 KB) and 36,864 words of fixed ROM, with 16-bit words, so total memory was about 76 KB",
+      "source": "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer"
+    },
+    {
+      "claim": "The AGC's 2.048 MHz oscillator was halved to a 1.024 MHz clock for internal operations",
+      "source": "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer"
+    },
+    {
+      "claim": "The Anker PowerPort Atom PD 2 USB-C charger's Cypress CYPD4225 chip runs at 48 MHz, about 48x the AGC's 1.024 MHz clock (Forrest Heller's analysis; some other chargers are weaker than the AGC)",
+      "source": "https://www.eejournal.com/article/apollo-11-vs-the-usb-charger/"
+    },
+    {
+      "claim": "Apollo 11's computer was less powerful than a USB-C charger chip",
+      "source": "https://www.sciencealert.com/apollo-11-s-computer-was-less-powerful-than-a-usb-c-charger-programmer-discovers"
+    },
+    {
+      "claim": "8 GB of RAM ÷ ~4 KB of AGC RAM = 8,388,608 KB ÷ 4 KB ≈ 2.1 million (over 20 lakh) times more (arithmetic)",
+      "source": "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer"
+    }
+  ]
+}

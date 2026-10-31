@@ -1,0 +1,140 @@
+{
+  "title": "Eiffel Tower Ko Har 7 Saal Mein 60 Ton Paint!",
+  "accent": "#ea580c",
+  "voice": "jobs/202610291301/voice.wav",
+  "voiceTrimBefore": 11,
+  "lines": [
+    {
+      "text": "Eiffel Tower ko har 7 saal mein naya make-up lagta hai!",
+      "highlight": "7 saal",
+      "scene": {
+        "type": "hook",
+        "emoji": "🗼",
+        "big": "7 SAAL = 60 TON"
+      },
+      "durationInFrames": 102,
+      "speech": [
+        [
+          5,
+          90
+        ]
+      ]
+    },
+    {
+      "text": "Ek baar mein lagta hai 60 ton paint, lagbhag 10 haathiyon jitna!",
+      "highlight": "60 ton",
+      "scene": {
+        "type": "stack",
+        "emoji": "🐘",
+        "count": 10,
+        "label": "60 ton = ~10 haathi"
+      },
+      "durationInFrames": 145,
+      "speech": [
+        [
+          0,
+          59
+        ],
+        [
+          65,
+          125
+        ]
+      ]
+    },
+    {
+      "text": "Koi machine nahi, 50 painters brush se haath se paint karte hain!",
+      "highlight": "haath se",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "✋",
+            "text": "Sirf haath se"
+          },
+          {
+            "emoji": "👷",
+            "text": "~50 painters"
+          },
+          {
+            "emoji": "🎨",
+            "text": "1,500 brushes"
+          }
+        ]
+      },
+      "durationInFrames": 122,
+      "speech": [
+        [
+          0,
+          106
+        ]
+      ]
+    },
+    {
+      "text": "Itna area rangna padta hai jitne 35 football ground, 2.5 lakh square meter!",
+      "highlight": "35 football ground",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚽",
+        "from": 0,
+        "to": 250000,
+        "prefix": "",
+        "suffix": " m²",
+        "label": "= ~35 football ground"
+      },
+      "durationInFrames": 148,
+      "speech": [
+        [
+          0,
+          82
+        ],
+        [
+          97,
+          133
+        ]
+      ]
+    },
+    {
+      "text": "136 saal mein yeh tower 20 baar repaint ho chuka hai!",
+      "highlight": "20 baar",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🗼",
+          "label": "Eiffel Tower"
+        },
+        "orbiter": {
+          "emoji": "🎨",
+          "label": "Naya paint"
+        },
+        "big": "20 BAAR REPAINT"
+      },
+      "durationInFrames": 112,
+      "speech": [
+        [
+          0,
+          99
+        ]
+      ]
+    },
+    {
+      "text": "Kyunki bina paint ke lohe ko jung kha jaayega! Aap kaunsa color choose karoge?",
+      "highlight": "jung",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "JUNG SE BACHAAV!"
+      },
+      "durationInFrames": 175,
+      "speech": [
+        [
+          0,
+          61
+        ],
+        [
+          77,
+          148
+        ]
+      ]
+    }
+  ]
+}

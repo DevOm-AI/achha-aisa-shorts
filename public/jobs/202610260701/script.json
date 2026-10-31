@@ -1,0 +1,128 @@
+{
+  "title": "Cleopatra Chaand Ke Zyada Kareeb Thi, Pyramid Ke Nahi!",
+  "idea": "Cleopatra was born about 2,490 years after the Great Pyramid was finished, but only about 2,040 years before the Moon landing, so she lived closer in time to Apollo 11 than to the pyramid's construction.",
+  "lines": [
+    {
+      "text": "Cleopatra Chaand landing ke zyada kareeb thi, pyramid banne ke nahi!",
+      "highlight": "Chaand landing",
+      "scene": {
+        "type": "hook",
+        "emoji": "👑",
+        "big": "CHAAND > PYRAMID?"
+      }
+    },
+    {
+      "text": "Giza ka Great Pyramid bana 2560 BC mein, Taj Mahal se 4000+ saal pehle!",
+      "highlight": "4000+ saal pehle",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏳",
+        "from": 0,
+        "to": 4000,
+        "prefix": "",
+        "suffix": "+ saal",
+        "label": "Taj Mahal se pehle"
+      }
+    },
+    {
+      "text": "146 metre ooncha, aur 3800 saal tak duniya ki sabse oonchi building!",
+      "highlight": "3800 saal",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "☀️",
+          "label": "Sooraj"
+        },
+        "orbiter": {
+          "emoji": "🌍",
+          "label": "Dharti"
+        },
+        "big": "3800 SAAL No.1"
+      }
+    },
+    {
+      "text": "Cleopatra 69 BC mein paida hui, tab pyramid lagbhag 2500 saal purana tha!",
+      "highlight": "2500 saal purana",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🧱",
+            "label": "2560 BC"
+          },
+          {
+            "emoji": "👑",
+            "label": "69 BC"
+          },
+          {
+            "emoji": "🚀",
+            "label": "1969 AD"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Aur Cleopatra se Chaand landing 1969 tak? Sirf 2038 saal ka gap!",
+      "highlight": "Sirf 2038",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🚀",
+          "label": "Cleo→Chaand",
+          "value": 2038
+        },
+        "right": {
+          "emoji": "🧱",
+          "label": "Pyramid→Cleo",
+          "value": 2491
+        },
+        "unit": "saal"
+      }
+    },
+    {
+      "text": "Cleopatra pyramid walon se zyada hamare kareeb thi! Yakeen hua? Comment karo!",
+      "highlight": "hamare kareeb",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "CHAAND JEETA!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Cleopatra Pyramid Se Zyada Chaand Ke Kareeb Thi?! 🤯 #shorts",
+    "description": "Great Pyramid 2560 BC mein bana, Cleopatra 69 BC mein paida hui, aur insaan 1969 mein Chaand pe pahuncha. 🚀\nMatlab Cleopatra pyramid banane walon se zyada Moon landing ke kareeb thi! Aapko yakeen hua? Comment mein batao 👇\n#shorts #hinglishfacts #history #egypt #mindblowingfacts",
+    "tags": [
+      "cleopatra",
+      "great pyramid of giza",
+      "moon landing",
+      "history facts hindi",
+      "hinglish facts",
+      "mind blowing facts",
+      "egypt history",
+      "amazing facts shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The Great Pyramid of Giza was completed around 2560 BC and was originally about 146.6 m tall",
+      "source": "https://dlab.epfl.ch/wikispeedia/wpcd/wp/g/Great_Pyramid_of_Giza.htm"
+    },
+    {
+      "claim": "The Great Pyramid stayed the tallest man-made structure until England's Lincoln Cathedral passed it in the early 1300s, which is more than 3,800 years",
+      "source": "https://kolibri.teacherinabox.org.au/modules/en-olpc/wikislice-en/files/articles/Great_Pyramid_of_Giza.htm"
+    },
+    {
+      "claim": "Cleopatra was born in 69 BC, about 2,491 years after the pyramid, and the Moon landing in 1969 came about 2,038 years after her birth",
+      "source": "https://www.worldatlas.com/articles/so-cleopatra-lived-closer-in-time-to-the-first-lunar-landing-than-the-great-pyramids.html"
+    },
+    {
+      "claim": "No credible pyramid date (scholarly range about 2480–2580 BCE) reverses the comparison",
+      "source": "https://lenz.io/c/3a1e5240"
+    },
+    {
+      "claim": "Taj Mahal construction began in 1632, more than 4,000 years after the Great Pyramid was completed around 2560 BC",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    }
+  ]
+}

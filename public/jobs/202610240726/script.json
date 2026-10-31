@@ -1,0 +1,123 @@
+{
+  "title": "Blue Whale ka Dil Minute Mein Sirf 2 Baar",
+  "idea": "While diving, a blue whale's heart can slow to about 2 beats per minute. The Short builds to that with its size, weight and elephant-sized tongue.",
+  "lines": [
+    {
+      "text": "Duniya ke sabse bade jaanwar ka dil minute mein sirf 2 baar dhadakta hai!",
+      "highlight": "sirf 2 baar",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐋",
+        "big": "2 BEATS PER MINUTE"
+      }
+    },
+    {
+      "text": "Blue whale 30 meter tak lambi hoti hai, cricket pitch se dedh guna!",
+      "highlight": "30 meter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏏",
+          "label": "Cricket Pitch",
+          "value": 20
+        },
+        "right": {
+          "emoji": "🐋",
+          "label": "Blue Whale",
+          "value": 30
+        },
+        "unit": "m"
+      }
+    },
+    {
+      "text": "Wazan? Lagbhag 150 tonne, matlab kareeb 30 haathiyon jitna!",
+      "highlight": "150 tonne",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚖️",
+        "from": 0,
+        "to": 150,
+        "prefix": "",
+        "suffix": " tonne",
+        "label": "Blue whale ka wazan"
+      }
+    },
+    {
+      "text": "Aur sirf iski jeebh ka wazan ek poore haathi jitna, kareeb 2.5 tonne!",
+      "highlight": "jeebh, haathi",
+      "scene": {
+        "type": "fact",
+        "emoji": "👅",
+        "big": "JEEBH = HAATHI",
+        "small": "Sirf tongue ~2.5 tonne ka!"
+      }
+    },
+    {
+      "text": "Hamara dil minute mein 60 se 100 baar dhadakta hai, whale ka dive mein sirf 2!",
+      "highlight": "sirf 2",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧍",
+          "label": "Insaan",
+          "value": 72
+        },
+        "right": {
+          "emoji": "🐋",
+          "label": "Blue Whale",
+          "value": 2
+        },
+        "unit": "beats/min"
+      }
+    },
+    {
+      "text": "Itna bada dil, phir bhi itni dheemi dhadkan! Aapko sabse shocking kya laga?",
+      "highlight": "dheemi dhadkan",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "DHEEMA SUPER-DIL"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Blue Whale ka Dil Minute Mein Sirf 2 Baar Dhadakta Hai?! 🐋 #shorts",
+    "description": "Duniya ke sabse bade jaanwar ka dil dive ke time minute mein sirf 2 baar dhadak sakta hai! 🤯\nIski jeebh ka wazan hi ek haathi jitna hai. Comment karo, aapko kaunsa fact sabse shocking laga?\n#bluewhale #amazingfacts #hindifacts #animalfacts #shorts",
+    "tags": [
+      "blue whale",
+      "blue whale heart",
+      "amazing facts hindi",
+      "animal facts",
+      "hinglish facts",
+      "biggest animal",
+      "ocean facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "A tagged blue whale's heart slowed to 4-8 beats per minute on dives and as low as 2 bpm (Goldbogen et al., PNAS 2019).",
+      "source": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate"
+    },
+    {
+      "claim": "The same study measured 2 bpm at its lowest and up to about 37 bpm at the surface.",
+      "source": "https://www.smithsonianmag.com/smart-news/researchers-measure-blue-whales-heart-rate-first-time-180973662/"
+    },
+    {
+      "claim": "Blue whales grow up to about 30 m (record about 33.5 m) and weigh up to about 150 metric tonnes.",
+      "source": "https://www.mass.gov/info-details/blue-whale"
+    },
+    {
+      "claim": "A blue whale's tongue weighs about 2.5 tonnes, roughly the weight of an elephant.",
+      "source": "https://hypertextbook.com/facts/2003/MichaelShmukler.shtml"
+    },
+    {
+      "claim": "A cricket pitch is 20.12 m long, so 30 m is about 1.5 pitches (Laws of Cricket).",
+      "source": "https://www.lords.org/mcc/the-laws-of-cricket/the-pitch"
+    },
+    {
+      "claim": "A normal adult resting heart rate is 60-100 beats per minute (American Heart Association).",
+      "source": "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse"
+    }
+  ]
+}

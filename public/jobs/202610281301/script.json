@@ -1,0 +1,125 @@
+{
+  "title": "Octopus: 3 Dil, 9 Dimaag, Neela Khoon!",
+  "idea": "An octopus has three hearts and copper-based blue blood, one heart pauses briefly when it swims, and about two-thirds of its 500 million neurons are in its arms.",
+  "lines": [
+    {
+      "text": "Is jaanwar ke teen dil hain, nau dimaag, aur khoon neela!",
+      "highlight": "teen dil, neela",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐙",
+        "big": "3 DIL, NEELA KHOON"
+      }
+    },
+    {
+      "text": "Do dil sirf gills ko khoon bhejte hain, teesra poori body ko.",
+      "highlight": "gills, poori body",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "❤️",
+            "text": "Dil 1: Gills"
+          },
+          {
+            "emoji": "❤️",
+            "text": "Dil 2: Gills"
+          },
+          {
+            "emoji": "❤️",
+            "text": "Dil 3: Poori body"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Tairte waqt teesra dil pal bhar ruk jaata hai, shayad isliye kam tairta!",
+      "highlight": "ruk jaata",
+      "scene": {
+        "type": "fact",
+        "emoji": "💔",
+        "big": "DIL RUK GAYA!",
+        "small": "Tairte waqt kuch pal ke liye"
+      }
+    },
+    {
+      "text": "Khoon mein iron nahi, copper wala hemocyanin hai, isliye rang neela!",
+      "highlight": "copper, neela",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🐙",
+          "label": "Octopus"
+        },
+        "orbiter": {
+          "emoji": "💙",
+          "label": "Copper khoon"
+        },
+        "big": "NEELA KHOON"
+      }
+    },
+    {
+      "text": "Iske 50 crore neurons mein se do-tihai dimaag nahi, haathon mein hain!",
+      "highlight": "50 crore, haathon",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧠",
+          "label": "Dimaag",
+          "value": 18
+        },
+        "right": {
+          "emoji": "🐙",
+          "label": "8 Haath",
+          "value": 32
+        },
+        "unit": "crore"
+      }
+    },
+    {
+      "text": "Matlab har haath kaafi had tak khud sochta hai! Sabse ajeeb kya laga?",
+      "highlight": "khud sochta",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "HAATH BHI SOCHTE"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Octopus Ke 3 Dil Aur Neela Khoon?! 🐙 #shorts",
+    "description": "Octopus ke 3 dil hain, khoon neela hai, aur iske zyada tar neurons dimaag mein nahi, haathon mein hain! 🤯\nTairte waqt iska ek dil kuch pal ke liye ruk jaata hai. Comment karo, sabse ajeeb fact kaunsa laga?\n#shorts #octopus #animalfacts #hindifacts #amazingfacts",
+    "tags": [
+      "octopus facts",
+      "octopus 3 hearts",
+      "blue blood animal",
+      "animal facts hindi",
+      "amazing facts hinglish",
+      "ocean animals",
+      "science facts hindi",
+      "shorts facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "An octopus has three hearts: two branchial hearts pump blood through the gills, and one systemic heart pumps it to the rest of the body.",
+      "source": "https://www.livescience.com/how-many-hearts-does-an-octopus-have"
+    },
+    {
+      "claim": "Octopus hearts stop for a few moments when it swims; one researcher thinks this may be why octopuses don't swim much.",
+      "source": "https://www.livescience.com/how-many-hearts-does-an-octopus-have"
+    },
+    {
+      "claim": "Octopus blood is blue because it uses copper-based hemocyanin instead of iron-based hemoglobin.",
+      "source": "https://www.livescience.com/how-many-hearts-does-an-octopus-have"
+    },
+    {
+      "claim": "Octopuses are often described as having nine brains: one central brain plus a cluster of nerve cells in each of the eight arms that helps control movement.",
+      "source": "https://www.ksl.com/article/46473376/9-brains-3-hearts-some-wild-facts-about-octopuses"
+    },
+    {
+      "claim": "The common octopus has about 500 million neurons, and about two-thirds are in its arms (about 180 million in the central brain, more than 40 million in each arm).",
+      "source": "https://a-z-animals.com/blog/how-many-brains-does-an-octopus-have/"
+    }
+  ]
+}

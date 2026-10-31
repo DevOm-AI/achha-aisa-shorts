@@ -1,0 +1,89 @@
+{
+  "title": "Body Har Second 20 Lakh Khoon Cells Banata Hai!",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Aapka body har second 20 lakh naye khoon ke cells banata hai!",
+      "highlight": "20 lakh",
+      "scene": {
+        "type": "hook",
+        "emoji": "🩸",
+        "big": "20 LAKH / SECOND"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Sirf 12 minute mein 144 crore, lagbhag poore India ki aabaadi jitne!",
+      "highlight": "144 crore",
+      "scene": {
+        "type": "counter",
+        "emoji": "🩸",
+        "from": 0,
+        "to": 1440000000,
+        "prefix": "",
+        "suffix": "",
+        "label": "12 MINUTE MEIN CELLS"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Aapke 30 trillion cells mein se 25 trillion sirf yahi laal cells hain!",
+      "highlight": "25 trillion",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧬",
+          "label": "Baaki cells",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🩸",
+          "label": "Red cells",
+          "value": 25
+        },
+        "unit": "trillion"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Har cell sirf 120 din jeeta hai, aur lagatar dil se ghoomta rehta hai.",
+      "highlight": "120 din",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "❤️",
+          "label": "Dil"
+        },
+        "orbiter": {
+          "emoji": "🩸",
+          "label": "Red cell"
+        },
+        "big": "SIRF 120 DIN"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Isliye ek din mein 17,000 crore se zyada naye cells, bina ruke!",
+      "highlight": "17,000 crore",
+      "scene": {
+        "type": "stack",
+        "emoji": "🩸",
+        "count": 40,
+        "label": "17,000+ CRORE CELLS / DIN"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Aur ye factory aapki haddiyon ke andar hai! Aapko pata tha? Comment karo!",
+      "highlight": "haddiyon",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🦴",
+        "big": "HADDI = FACTORY"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}

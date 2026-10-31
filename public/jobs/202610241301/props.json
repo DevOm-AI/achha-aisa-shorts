@@ -1,0 +1,94 @@
+{
+  "title": "Venus pe Din, Saal Se Bhi Lamba!",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Ek planet aisa hai jahan ek din, poore saal se bhi lamba hota hai!",
+      "highlight": "din, saal",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪐",
+        "big": "DIN > SAAL"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Venus ko apni dhuri pe ek chakkar lagane mein 243 Earth din lagte hain.",
+      "highlight": "243 Earth din",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "☀️",
+          "label": "Sooraj"
+        },
+        "orbiter": {
+          "emoji": "🪐",
+          "label": "Venus"
+        },
+        "big": "225 DIN = 1 SAAL"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Lekin Sooraj ka poora round woh sirf 225 din mein kar leta hai.",
+      "highlight": "225 din",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🔄",
+          "label": "Venus ka din",
+          "value": 243
+        },
+        "right": {
+          "emoji": "☀️",
+          "label": "Venus ka saal",
+          "value": 225
+        },
+        "unit": "din"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Wajah? Uski zameen sirf 6.5 km/h se ghoomti hai, bas tez walk jitna!",
+      "highlight": "6.5 km/h",
+      "scene": {
+        "type": "stack",
+        "emoji": "🚶",
+        "count": 12,
+        "label": "Venus ki zameen = tez walk"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Aur hamari Earth? Equator pe lagbhag 1670 km/h, Mumbai local se kai guna tez!",
+      "highlight": "1670 km/h",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🪐",
+          "label": "Venus",
+          "value": 6.5
+        },
+        "right": {
+          "emoji": "🌍",
+          "label": "Earth",
+          "value": 1670
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Aur ulta ghoomne se wahan Sooraj west se ugta hai! Pehle pata tha?",
+      "highlight": "west se ugta",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🌅",
+        "big": "SOORAJ WEST SE!"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}

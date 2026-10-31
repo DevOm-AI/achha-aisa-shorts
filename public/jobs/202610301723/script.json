@@ -1,0 +1,124 @@
+{
+  "title": "100 Crore Second = Poore 31 Saal!",
+  "idea": "How hugely different 1 million, 10 million, 1 billion and 1 trillion seconds are when counted in days and years, shown in lakh and crore.",
+  "lines": [
+    {
+      "text": "100 crore second ginne baitho, toh poore 31 saal lag jayenge!",
+      "highlight": "31 saal",
+      "scene": {
+        "type": "hook",
+        "emoji": "⏳",
+        "big": "31 SAAL LAGENGE!"
+      }
+    },
+    {
+      "text": "Shuru karte hain: 10 lakh second? Sirf 11 din mein khatam!",
+      "highlight": "11 din",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 1000000,
+        "prefix": "",
+        "suffix": " sec",
+        "label": "= sirf 11.5 din"
+      }
+    },
+    {
+      "text": "1 crore second mein Chaand Prithvi ke 4 chakkar laga leta hai!",
+      "highlight": "4 chakkar",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌍",
+          "label": "Prithvi"
+        },
+        "orbiter": {
+          "emoji": "🌕",
+          "label": "Chaand"
+        },
+        "big": "4 CHAKKAR!"
+      }
+    },
+    {
+      "text": "Aur 100 crore second? Seedha 100 guna, yaani 11,574 din!",
+      "highlight": "11,574 din",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "⏱️",
+          "label": "1 crore sec",
+          "value": 116
+        },
+        "right": {
+          "emoji": "⏳",
+          "label": "100 crore sec",
+          "value": 11574
+        },
+        "unit": "din"
+      }
+    },
+    {
+      "text": "Aur 1 lakh crore second? Seedha 31,700 saal peeche pahunch jaoge!",
+      "highlight": "31,700 saal",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "31,700 SAAL!"
+      }
+    },
+    {
+      "text": "Lakh aur crore mein itna bada fark! Aapka guess kya tha? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "📅",
+            "text": "10 lakh = 11 din"
+          },
+          {
+            "emoji": "🌕",
+            "text": "1 crore = 4 mahine"
+          },
+          {
+            "emoji": "👴",
+            "text": "100 cr = 31 saal"
+          }
+        ]
+      }
+    }
+  ],
+  "youtube": {
+    "title": "100 Crore Second = 31 Saal?! Lakh vs Crore Ka Asli Fark 🤯 #shorts",
+    "description": "10 lakh second sirf 11 din ke hote hain, lekin 100 crore second ginne mein poore 31 saal lag jayenge! Aur 1 lakh crore second? 31,700 saal! Numbers ka ye scale dekh ke dimaag hil jayega.\n#shorts #hindifacts #amazingfacts #mathfacts #hinglish",
+    "tags": [
+      "100 crore seconds",
+      "1 billion seconds in years",
+      "million vs billion",
+      "lakh vs crore",
+      "math facts hindi",
+      "amazing facts hinglish",
+      "mind blowing facts",
+      "hindi shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "1 million (10 lakh) seconds = 1,000,000 / 86,400 ≈ 11.57 days",
+      "source": "https://www.math.utoronto.ca/barbeau/fn50.pdf"
+    },
+    {
+      "claim": "10 million (1 crore) seconds ≈ 115.7 days; at a Moon sidereal orbital period of about 27.3 days, that is about 4.2 orbits of Earth",
+      "source": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question32.html"
+    },
+    {
+      "claim": "1 billion (100 crore) seconds ≈ 11,574 days ≈ 31.7 years",
+      "source": "https://origin-exchange.autodesk.com/how-many-years-is-1-billion-seconds"
+    },
+    {
+      "claim": "1 trillion (1 lakh crore) seconds ≈ 31,688 years, which rounds to about 31,700",
+      "source": "https://ava.ead.domalberto.edu.br/1-trillion-seconds-years"
+    }
+  ]
+}

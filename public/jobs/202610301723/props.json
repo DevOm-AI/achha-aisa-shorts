@@ -1,0 +1,160 @@
+{
+  "title": "100 Crore Second = Poore 31 Saal!",
+  "accent": "#0891b2",
+  "voice": "jobs/202610301723/voice.wav",
+  "voiceTrimBefore": 11,
+  "lines": [
+    {
+      "text": "100 crore second ginne baitho, toh poore 31 saal lag jayenge!",
+      "highlight": "31 saal",
+      "scene": {
+        "type": "hook",
+        "emoji": "⏳",
+        "big": "31 SAAL LAGENGE!"
+      },
+      "durationInFrames": 120,
+      "speech": [
+        [
+          5,
+          33
+        ],
+        [
+          40,
+          111
+        ]
+      ]
+    },
+    {
+      "text": "Shuru karte hain: 10 lakh second? Sirf 11 din mein khatam!",
+      "highlight": "11 din",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 1000000,
+        "prefix": "",
+        "suffix": " sec",
+        "label": "= sirf 11.5 din"
+      },
+      "durationInFrames": 128,
+      "speech": [
+        [
+          0,
+          23
+        ],
+        [
+          31,
+          60
+        ],
+        [
+          73,
+          109
+        ]
+      ]
+    },
+    {
+      "text": "1 crore second mein Chaand Prithvi ke 4 chakkar laga leta hai!",
+      "highlight": "4 chakkar",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌍",
+          "label": "Prithvi"
+        },
+        "orbiter": {
+          "emoji": "🌕",
+          "label": "Chaand"
+        },
+        "big": "4 CHAKKAR!"
+      },
+      "durationInFrames": 160,
+      "speech": [
+        [
+          0,
+          100
+        ],
+        [
+          110,
+          147
+        ]
+      ]
+    },
+    {
+      "text": "Aur 100 crore second? Seedha 100 guna, yaani 11,574 din!",
+      "highlight": "11,574 din",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "⏱️",
+          "label": "1 crore sec",
+          "value": 116
+        },
+        "right": {
+          "emoji": "⏳",
+          "label": "100 crore sec",
+          "value": 11574
+        },
+        "unit": "din"
+      },
+      "durationInFrames": 113,
+      "speech": [
+        [
+          0,
+          99
+        ]
+      ]
+    },
+    {
+      "text": "Aur 1 lakh crore second? Seedha 31,700 saal peeche pahunch jaoge!",
+      "highlight": "31,700 saal",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "31,700 SAAL!"
+      },
+      "durationInFrames": 155,
+      "speech": [
+        [
+          0,
+          44
+        ],
+        [
+          56,
+          138
+        ]
+      ]
+    },
+    {
+      "text": "Lakh aur crore mein itna bada fark! Aapka guess kya tha? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "📅",
+            "text": "10 lakh = 11 din"
+          },
+          {
+            "emoji": "🌕",
+            "text": "1 crore = 4 mahine"
+          },
+          {
+            "emoji": "👴",
+            "text": "100 cr = 31 saal"
+          }
+        ]
+      },
+      "durationInFrames": 134,
+      "speech": [
+        [
+          0,
+          49
+        ],
+        [
+          62,
+          107
+        ]
+      ]
+    }
+  ]
+}

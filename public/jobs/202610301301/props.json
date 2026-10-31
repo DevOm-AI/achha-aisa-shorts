@@ -1,0 +1,149 @@
+{
+  "title": "Astronaut Roz 16 Baar Sooraj Ugte Dekhte Hain!",
+  "accent": "#7c3aed",
+  "voice": "jobs/202610301301/voice.wav",
+  "voiceTrimBefore": 6,
+  "lines": [
+    {
+      "text": "Space Station ke astronaut roz 16 baar sooraj ugte dekhte hain!",
+      "highlight": "16 baar sooraj",
+      "scene": {
+        "type": "hook",
+        "emoji": "🌅",
+        "big": "ROZ 16 SUNRISE!"
+      },
+      "durationInFrames": 120,
+      "speech": [
+        [
+          5,
+          110
+        ]
+      ]
+    },
+    {
+      "text": "Kyunki ISS sirf 90 minute mein poori Prithvi ka ek chakkar lagata hai.",
+      "highlight": "90 minute",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌍",
+          "label": "Prithvi"
+        },
+        "orbiter": {
+          "emoji": "🛰️",
+          "label": "ISS"
+        },
+        "big": "90 MIN/CHAKKAR"
+      },
+      "durationInFrames": 133,
+      "speech": [
+        [
+          0,
+          118
+        ]
+      ]
+    },
+    {
+      "text": "Speed? 28,000 km per hour, hawai jahaz se lagbhag 30 guna tez!",
+      "highlight": "28,000 km, 30 guna",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "✈️",
+          "label": "Hawai Jahaz",
+          "value": 900
+        },
+        "right": {
+          "emoji": "🛰️",
+          "label": "ISS",
+          "value": 28000
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 157,
+      "speech": [
+        [
+          0,
+          15
+        ],
+        [
+          22,
+          72
+        ],
+        [
+          85,
+          139
+        ]
+      ]
+    },
+    {
+      "text": "Mumbai se Delhi? ISS ko lagenge bas dhai minute se bhi kam!",
+      "highlight": "dhai minute",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 1140,
+        "prefix": "",
+        "suffix": " km",
+        "label": "Mumbai→Delhi: 2.5 min"
+      },
+      "durationInFrames": 116,
+      "speech": [
+        [
+          0,
+          27
+        ],
+        [
+          34,
+          98
+        ]
+      ]
+    },
+    {
+      "text": "Aur ye udta hai 400 km upar, yaani 45 Mount Everest ek ke upar ek!",
+      "highlight": "400 km, 45 Mount Everest",
+      "scene": {
+        "type": "stack",
+        "emoji": "⛰️",
+        "count": 45,
+        "label": "45 Everest = ISS ki oonchai"
+      },
+      "durationInFrames": 160,
+      "speech": [
+        [
+          0,
+          68
+        ],
+        [
+          76,
+          143
+        ]
+      ]
+    },
+    {
+      "text": "Wahan lagbhag har 45 minute mein din-raat badalta hai! Aap wahan so paoge?",
+      "highlight": "45 minute, so paoge",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "45 MIN KA DIN!"
+      },
+      "durationInFrames": 190,
+      "speech": [
+        [
+          0,
+          19
+        ],
+        [
+          24,
+          84
+        ],
+        [
+          100,
+          163
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Ek Chammach Taara = 100 Crore Ton!",
+  "idea": "A teaspoon of neutron star matter would weigh about a billion tons on Earth. The star holds more mass than the Sun in a ball about 20 km wide, and the fastest one spins 716 times per second.",
+  "lines": [
+    {
+      "text": "Ek taara aisa hai jiska ek chammach 100 crore ton ka hai!",
+      "highlight": "100 crore ton",
+      "scene": {
+        "type": "hook",
+        "emoji": "🥄",
+        "big": "100 CRORE TON!"
+      }
+    },
+    {
+      "text": "Iska naam Neutron Star — Sooraj se bhaari, par sirf 20 km chauda!",
+      "highlight": "Neutron Star, 20 km",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "⭐",
+          "label": "Neutron Star",
+          "value": 20
+        },
+        "right": {
+          "emoji": "☀️",
+          "label": "Sooraj",
+          "value": 1392000
+        },
+        "unit": "km"
+      }
+    },
+    {
+      "text": "Uska sirf ek chammach maal — wajan poore 100 crore ton!",
+      "highlight": "ek chammach",
+      "scene": {
+        "type": "counter",
+        "emoji": "🥄",
+        "from": 0,
+        "to": 1000000000,
+        "prefix": "",
+        "suffix": " ton",
+        "label": "1 chammach ka wajan"
+      }
+    },
+    {
+      "text": "Ghar ka pankha minute mein 350 chakkar lagata hai, ye 43,000!",
+      "highlight": "350, 43,000",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🌀",
+          "label": "Ghar ka Pankha",
+          "value": 350
+        },
+        "right": {
+          "emoji": "⭐",
+          "label": "Neutron Star",
+          "value": 42981
+        },
+        "unit": "RPM"
+      }
+    },
+    {
+      "text": "Yaani ek second mein 716 chakkar, satah pe roshni ki 24% speed!",
+      "highlight": "716 chakkar, 24%",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "⭐",
+          "label": "Neutron Star"
+        },
+        "orbiter": {
+          "emoji": "💫",
+          "label": "1 Chakkar"
+        },
+        "big": "716 / SECOND"
+      }
+    },
+    {
+      "text": "Ek chammach 100 crore ton ka! Kaunsa fact zyada pagal hai — wajan ya speed?",
+      "highlight": "wajan ya speed",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "WAJAN YA SPEED?"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Is Taare Ka 1 Chammach 100 Crore Ton Ka! 🤯 #shorts",
+    "description": "Neutron Star mein Sooraj se zyada maal sirf 20 km ki ball mein bhara hai! Iska ek chammach 100 crore ton ka hai, aur sabse tez wala ek second mein 716 baar ghoomta hai. Comment karo: wajan zyada pagal hai ya speed?\n#shorts #space #neutronstar #hindifacts #amazingfacts",
+    "tags": [
+      "neutron star",
+      "neutron star hindi",
+      "space facts hindi",
+      "pulsar",
+      "amazing facts hinglish",
+      "universe facts",
+      "science shorts hindi",
+      "mind blowing facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "On Earth, one teaspoon of neutron star matter would weigh about a billion tons (100 crore ton). Some estimates go as high as 3–4 billion tons.",
+      "source": "https://spacedaily.com/t-neutron-star-can-pack-more-mass-than-our-entire-sun-into-a-sphere-only-about-20-kilometres-across-roughly-the-size-of-a-city-and-a-teaspoon-of-its-material-would-weigh-about-a-bill/"
+    },
+    {
+      "claim": "A neutron star is about 20 km across, roughly the size of a city, and holds 1.4 to 2 times the Sun's mass.",
+      "source": "https://apod.nasa.gov/apod/lib/ns.html"
+    },
+    {
+      "claim": "The Sun's diameter is about 1.39 million km.",
+      "source": "https://science.nasa.gov/sun/facts/"
+    },
+    {
+      "claim": "The fastest-spinning known pulsar, PSR J1748-2446ad, spins at 716 Hz (about 42,981 RPM), and its equator moves at about 24% of the speed of light.",
+      "source": "https://en.wikipedia.org/wiki/PSR_J1748%E2%88%922446ad"
+    },
+    {
+      "claim": "McGill University's team discovered the 716-rotations-per-second pulsar.",
+      "source": "https://mcgill.ca/newsroom/node/14444"
+    },
+    {
+      "claim": "A typical 1200 mm Indian ceiling fan runs at about 350 RPM, per the listed spec of the Usha Swift 1200 mm.",
+      "source": "https://www.ushafans.com/swift-1200-mm"
+    }
+  ]
+}

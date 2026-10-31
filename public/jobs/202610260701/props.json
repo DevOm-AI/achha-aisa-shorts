@@ -1,0 +1,168 @@
+{
+  "title": "Cleopatra Chaand Ke Zyada Kareeb Thi, Pyramid Ke Nahi!",
+  "accent": "#9333ea",
+  "voice": "jobs/202610260701/voice.wav",
+  "voiceTrimBefore": 10,
+  "lines": [
+    {
+      "text": "Cleopatra Chaand landing ke zyada kareeb thi, pyramid banne ke nahi!",
+      "highlight": "Chaand landing",
+      "scene": {
+        "type": "hook",
+        "emoji": "👑",
+        "big": "CHAAND > PYRAMID?"
+      },
+      "durationInFrames": 132,
+      "speech": [
+        [
+          5,
+          71
+        ],
+        [
+          80,
+          110
+        ]
+      ]
+    },
+    {
+      "text": "Giza ka Great Pyramid bana 2560 BC mein, Taj Mahal se 4000+ saal pehle!",
+      "highlight": "4000+ saal pehle",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏳",
+        "from": 0,
+        "to": 4000,
+        "prefix": "",
+        "suffix": "+ saal",
+        "label": "Taj Mahal se pehle"
+      },
+      "durationInFrames": 161,
+      "speech": [
+        [
+          0,
+          81
+        ],
+        [
+          89,
+          147
+        ]
+      ]
+    },
+    {
+      "text": "146 metre ooncha, aur 3800 saal tak duniya ki sabse oonchi building!",
+      "highlight": "3800 saal",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "☀️",
+          "label": "Sooraj"
+        },
+        "orbiter": {
+          "emoji": "🌍",
+          "label": "Dharti"
+        },
+        "big": "3800 SAAL No.1"
+      },
+      "durationInFrames": 155,
+      "speech": [
+        [
+          0,
+          47
+        ],
+        [
+          53,
+          139
+        ]
+      ]
+    },
+    {
+      "text": "Cleopatra 69 BC mein paida hui, tab pyramid lagbhag 2500 saal purana tha!",
+      "highlight": "2500 saal purana",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🧱",
+            "label": "2560 BC"
+          },
+          {
+            "emoji": "👑",
+            "label": "69 BC"
+          },
+          {
+            "emoji": "🚀",
+            "label": "1969 AD"
+          }
+        ]
+      },
+      "durationInFrames": 164,
+      "speech": [
+        [
+          0,
+          60
+        ],
+        [
+          70,
+          141
+        ]
+      ]
+    },
+    {
+      "text": "Aur Cleopatra se Chaand landing 1969 tak? Sirf 2038 saal ka gap!",
+      "highlight": "Sirf 2038",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🚀",
+          "label": "Cleo→Chaand",
+          "value": 2038
+        },
+        "right": {
+          "emoji": "🧱",
+          "label": "Pyramid→Cleo",
+          "value": 2491
+        },
+        "unit": "saal"
+      },
+      "durationInFrames": 182,
+      "speech": [
+        [
+          0,
+          53
+        ],
+        [
+          61,
+          106
+        ],
+        [
+          113,
+          157
+        ]
+      ]
+    },
+    {
+      "text": "Cleopatra pyramid walon se zyada hamare kareeb thi! Yakeen hua? Comment karo!",
+      "highlight": "hamare kareeb",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "CHAAND JEETA!"
+      },
+      "durationInFrames": 186,
+      "speech": [
+        [
+          0,
+          35
+        ],
+        [
+          42,
+          96
+        ],
+        [
+          104,
+          159
+        ]
+      ]
+    }
+  ]
+}

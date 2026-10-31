@@ -1,0 +1,124 @@
+{
+  "title": "Eiffel Tower Ko Har 7 Saal Mein 60 Ton Paint!",
+  "idea": "Every ~7 years the Eiffel Tower gets repainted by hand. Each job uses about 60 tonnes of paint, roughly 50 painters and covers 250,000 m². It has been repainted 20 times in 136 years.",
+  "lines": [
+    {
+      "text": "Eiffel Tower ko har 7 saal mein naya make-up lagta hai!",
+      "highlight": "7 saal",
+      "scene": {
+        "type": "hook",
+        "emoji": "🗼",
+        "big": "7 SAAL = 60 TON"
+      }
+    },
+    {
+      "text": "Ek baar mein lagta hai 60 ton paint, lagbhag 10 haathiyon jitna!",
+      "highlight": "60 ton",
+      "scene": {
+        "type": "stack",
+        "emoji": "🐘",
+        "count": 10,
+        "label": "60 ton = ~10 haathi"
+      }
+    },
+    {
+      "text": "Koi machine nahi, 50 painters brush se haath se paint karte hain!",
+      "highlight": "haath se",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "✋",
+            "text": "Sirf haath se"
+          },
+          {
+            "emoji": "👷",
+            "text": "~50 painters"
+          },
+          {
+            "emoji": "🎨",
+            "text": "1,500 brushes"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Itna area rangna padta hai jitne 35 football ground, 2.5 lakh square meter!",
+      "highlight": "35 football ground",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚽",
+        "from": 0,
+        "to": 250000,
+        "prefix": "",
+        "suffix": " m²",
+        "label": "= ~35 football ground"
+      }
+    },
+    {
+      "text": "136 saal mein yeh tower 20 baar repaint ho chuka hai!",
+      "highlight": "20 baar",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🗼",
+          "label": "Eiffel Tower"
+        },
+        "orbiter": {
+          "emoji": "🎨",
+          "label": "Naya paint"
+        },
+        "big": "20 BAAR REPAINT"
+      }
+    },
+    {
+      "text": "Kyunki bina paint ke lohe ko jung kha jaayega! Aap kaunsa color choose karoge?",
+      "highlight": "jung",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "JUNG SE BACHAAV!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Eiffel Tower Ko Har 7 Saal Mein 60 Ton Paint Lagta Hai! 🗼 #shorts",
+    "description": "Eiffel Tower ko har 7 saal mein 60 ton paint lagta hai, aur woh bhi haath se! 😳\n50 painters milke 35 football ground jitna area rangte hain. Aap tower ko kaunsa color doge? Comment karo! 👇\n#EiffelTower #FactsInHindi #HinglishFacts #MindBlowingFacts #shorts",
+    "tags": [
+      "eiffel tower facts",
+      "eiffel tower paint",
+      "amazing facts hindi",
+      "hinglish facts",
+      "mind blowing facts",
+      "paris facts",
+      "science facts hindi",
+      "youtube shorts facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The Eiffel Tower has been repainted 20 times in 136 years, about once every 7 years.",
+      "source": "https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower"
+    },
+    {
+      "claim": "Each repainting campaign uses about 60 tonnes of paint and about 50 painters, and covers 250,000 m².",
+      "source": "https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower"
+    },
+    {
+      "claim": "Repainting needs about 1,500 brushes, and the paint is applied by hand.",
+      "source": "https://www.washingtontimes.com/news/2009/mar/31/eiffel-tower-to-be-repainted/"
+    },
+    {
+      "claim": "Several coats of paint protect the tower's iron from oxidation (rust).",
+      "source": "https://www.ipcm.it/en/article/the-corrosion-of-the-eiffel-tower.aspx"
+    },
+    {
+      "claim": "FIFA's recommended pitch is 105 m x 68 m = 7,140 m², so 250,000 m² is about 35 pitches.",
+      "source": "https://publications.fifa.com/fr/football-stadiums-guidelines/technical-guideline/stadium-guidelines/pitch-dimensions-and-surrounding-areas"
+    },
+    {
+      "claim": "Adult male African elephants weigh up to about 6 tonnes, so 60 tonnes is about 10 elephants.",
+      "source": "https://africafreak.com/how-much-does-an-elephant-weigh"
+    }
+  ]
+}

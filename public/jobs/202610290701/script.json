@@ -1,0 +1,126 @@
+{
+  "title": "Saturn Paani Mein Tair Sakta Hai!",
+  "idea": "Saturn's average density (0.687 g/cm³) is lower than water's, so in theory it would float, even though 764 Earths could fit inside it.",
+  "lines": [
+    {
+      "text": "Saturn itna halka hai ki paani mein tair sakta hai!",
+      "highlight": "tair sakta",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪐",
+        "big": "SATURN TAIRTA HAI!"
+      }
+    },
+    {
+      "text": "Aur size? Itna bada ki andar 764 Prithvi samaa jaayein!",
+      "highlight": "764 Prithvi",
+      "scene": {
+        "type": "stack",
+        "emoji": "🌍",
+        "count": 764,
+        "label": "764 Prithvi andar fit!"
+      }
+    },
+    {
+      "text": "Par wajan Prithvi se sirf 95 guna, size 764 guna hone par bhi!",
+      "highlight": "sirf 95 guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🌍",
+          "label": "Prithvi",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🪐",
+          "label": "Saturn",
+          "value": 95
+        },
+        "unit": "guna wajan"
+      }
+    },
+    {
+      "text": "Wahan hawa 1800 km/h chalti hai, sabse tez cricket ball se 11 guna!",
+      "highlight": "1800 km/h",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🏏",
+          "label": "Fastest ball",
+          "value": 161
+        },
+        "right": {
+          "emoji": "💨",
+          "label": "Saturn ki hawa",
+          "value": 1800
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Aur yeh vishaal gola sirf 10.7 ghante mein ek chakkar ghoom jaata hai!",
+      "highlight": "10.7 ghante",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🪐",
+          "label": "Saturn"
+        },
+        "orbiter": {
+          "emoji": "⏰",
+          "label": "10.7 ghante"
+        },
+        "big": "DIN: 10.7 GHANTE"
+      }
+    },
+    {
+      "text": "Bas itna bada bathtub mil jaaye, Saturn tairne lagega! Kisi ko pata tha?",
+      "highlight": "tairne lagega",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🛁",
+        "big": "PAANI PE TAIRTA!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Saturn Paani Mein Tair Sakta Hai?! 🪐 #shorts",
+    "description": "764 Prithvi iske andar samaa jaayein, phir bhi Saturn paani se halka hai! 🪐\nIski density paani se kam hai, matlab itna bada bathtub mile toh yeh tairega. Comment mein batao, aapko pata tha?\n#saturn #space #facts #hindifacts #shorts",
+    "tags": [
+      "saturn facts",
+      "saturn float on water",
+      "space facts hindi",
+      "hinglish facts",
+      "amazing facts",
+      "solar system",
+      "planet facts",
+      "science shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Saturn's mean density is 0.687 g/cm³, lower than water's (about 1 g/cm³), making it the only planet less dense than water",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html"
+    },
+    {
+      "claim": "Saturn's volume is about 763.59 times Earth's (about 764 Earths)",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html"
+    },
+    {
+      "claim": "Saturn's mass is about 95.16 times Earth's",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html"
+    },
+    {
+      "claim": "A day on Saturn lasts 10.656 hours (about 10 h 39 min)",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html"
+    },
+    {
+      "claim": "Saturn has winds of about 1,800 km/h",
+      "source": "https://science.gsfc.nasa.gov/attic/huygensgcms/Saturn.htm"
+    },
+    {
+      "claim": "The fastest recorded cricket delivery is 161.3 km/h, bowled by Shoaib Akhtar in 2003; 1800/161 is about 11 times faster",
+      "source": "https://en.wikipedia.org/wiki/Shoaib_Akhtar"
+    }
+  ]
+}

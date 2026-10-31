@@ -1,0 +1,153 @@
+{
+  "title": "Phone Charger Apollo 11 Se Tez!",
+  "accent": "#dc2626",
+  "voice": "jobs/202610261301/voice.wav",
+  "voiceTrimBefore": 5,
+  "lines": [
+    {
+      "text": "Aapka phone charger Apollo 11 ke computer se zyada smart hai!",
+      "highlight": "phone charger",
+      "scene": {
+        "type": "hook",
+        "emoji": "🔌",
+        "big": "CHARGER > NASA!"
+      },
+      "durationInFrames": 125,
+      "speech": [
+        [
+          5,
+          113
+        ]
+      ]
+    },
+    {
+      "text": "1969 mein insaan chaand pe utra, sirf 4 KB RAM wale computer se.",
+      "highlight": "4 KB RAM",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌕",
+          "label": "Chaand"
+        },
+        "orbiter": {
+          "emoji": "🚀",
+          "label": "Apollo 11"
+        },
+        "big": "Sirf 4 KB RAM"
+      },
+      "durationInFrames": 161,
+      "speech": [
+        [
+          0,
+          74
+        ],
+        [
+          87,
+          145
+        ]
+      ]
+    },
+    {
+      "text": "Uski speed sirf 1 MHz thi, aur ek USB-C charger chip 48 MHz!",
+      "highlight": "48 MHz",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚀",
+          "label": "Apollo 1969",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🔌",
+          "label": "USB-C Charger",
+          "value": 48
+        },
+        "unit": "MHz"
+      },
+      "durationInFrames": 209,
+      "speech": [
+        [
+          0,
+          54
+        ],
+        [
+          66,
+          77
+        ],
+        [
+          82,
+          192
+        ]
+      ]
+    },
+    {
+      "text": "Aur aapke 8 GB phone mein uske 20 lakh guna se zyada RAM!",
+      "highlight": "20 lakh guna",
+      "scene": {
+        "type": "counter",
+        "emoji": "📱",
+        "from": 0,
+        "to": 2000000,
+        "prefix": "",
+        "suffix": "×",
+        "label": "Guna zyada RAM"
+      },
+      "durationInFrames": 135,
+      "speech": [
+        [
+          0,
+          118
+        ]
+      ]
+    },
+    {
+      "text": "Aapki ek selfie bhi us poore computer mein fit nahi hoti!",
+      "highlight": "ek selfie",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🚀",
+          "label": "Apollo Memory",
+          "value": 76
+        },
+        "right": {
+          "emoji": "📸",
+          "label": "Ek Selfie",
+          "value": 3000
+        },
+        "unit": "KB"
+      },
+      "durationInFrames": 97,
+      "speech": [
+        [
+          0,
+          82
+        ]
+      ]
+    },
+    {
+      "text": "Phir bhi NASA chaand tak pahunch gaya! Aap apne phone se kya karte ho?",
+      "highlight": "chaand tak",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "4 KB SE CHAAND!"
+      },
+      "durationInFrames": 187,
+      "speech": [
+        [
+          0,
+          64
+        ],
+        [
+          85,
+          137
+        ],
+        [
+          152,
+          160
+        ]
+      ]
+    }
+  ]
+}

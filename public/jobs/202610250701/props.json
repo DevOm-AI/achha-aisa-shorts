@@ -1,0 +1,170 @@
+{
+  "title": "Bijli Sooraj Se 5 Guna Garam!",
+  "accent": "#059669",
+  "voice": "jobs/202610250701/voice.wav",
+  "voiceTrimBefore": 13,
+  "lines": [
+    {
+      "text": "Ek bijli Sooraj ki surface se paanch guna zyada garam hoti hai!",
+      "highlight": "paanch guna",
+      "scene": {
+        "type": "hook",
+        "emoji": "⚡",
+        "big": "SURAJ SE 5× GARAM"
+      },
+      "durationInFrames": 115,
+      "speech": [
+        [
+          5,
+          100
+        ]
+      ]
+    },
+    {
+      "text": "Sooraj ki surface lagbhag 5,500 degree, aur bijli? Lagbhag 27,700 degree Celsius!",
+      "highlight": "27,700 degree",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🌞",
+          "label": "Sooraj surface",
+          "value": 5500
+        },
+        "right": {
+          "emoji": "⚡",
+          "label": "Bijli",
+          "value": 27700
+        },
+        "unit": "°C"
+      },
+      "durationInFrames": 176,
+      "speech": [
+        [
+          0,
+          70
+        ],
+        [
+          77,
+          159
+        ]
+      ]
+    },
+    {
+      "text": "Record todne wali bijli 829 km lambi thi, Mumbai se Bengaluru jitni!",
+      "highlight": "829 km",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 829,
+        "prefix": "",
+        "suffix": " km",
+        "label": "Duniya ki sabse lambi bijli"
+      },
+      "durationInFrames": 169,
+      "speech": [
+        [
+          0,
+          92
+        ],
+        [
+          104,
+          149
+        ]
+      ]
+    },
+    {
+      "text": "Yeh Mount Everest se 90 guna lambi, yaani lagbhag 1000 Burj Khalifa!",
+      "highlight": "1000 Burj Khalifa",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🏙️",
+            "label": "Burj 828m"
+          },
+          {
+            "emoji": "🏔️",
+            "label": "Everest"
+          },
+          {
+            "emoji": "⚡",
+            "label": "829 km"
+          }
+        ]
+      },
+      "durationInFrames": 155,
+      "speech": [
+        [
+          0,
+          70
+        ],
+        [
+          81,
+          142
+        ]
+      ]
+    },
+    {
+      "text": "Roshni turant pahunchti hai, par aawaz ko har km mein 3 second lagte.",
+      "highlight": "3 second",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🔊",
+          "label": "Aawaz",
+          "value": 1235
+        },
+        "right": {
+          "emoji": "💡",
+          "label": "Roshni",
+          "value": 1079252849
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 168,
+      "speech": [
+        [
+          0,
+          43
+        ],
+        [
+          57,
+          145
+        ]
+      ]
+    },
+    {
+      "text": "Toh garaj tak seconds gino, 3 se divide karo, kitne km door? Try karoge?",
+      "highlight": "3 se divide",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SECONDS ÷ 3 = KM"
+      },
+      "durationInFrames": 256,
+      "speech": [
+        [
+          0,
+          30
+        ],
+        [
+          40,
+          61
+        ],
+        [
+          67,
+          105
+        ],
+        [
+          124,
+          194
+        ],
+        [
+          210,
+          229
+        ]
+      ]
+    }
+  ]
+}

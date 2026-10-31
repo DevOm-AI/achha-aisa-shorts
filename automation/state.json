@@ -1,0 +1,153 @@
+{
+  "ownerChatId": 2050550779,
+  "offset": 555451805,
+  "jobs": {
+    "202610240726": {
+      "status": "uploaded",
+      "title": "Blue Whale ka Dil Minute Mein Sirf 2 Baar",
+      "createdAt": 1792826893747,
+      "youtube": {
+        "id": "rS0BpzONowo",
+        "url": "https://youtube.com/shorts/rS0BpzONowo",
+        "privacy": "public"
+      }
+    },
+    "202610241301": {
+      "status": "awaiting_voice",
+      "title": "Venus pe Din, Saal Se Bhi Lamba!",
+      "createdAt": 1792847002073
+    },
+    "202610250701": {
+      "status": "uploaded",
+      "title": "Bijli Sooraj Se 5 Guna Garam!",
+      "createdAt": 1792911699953,
+      "youtube": {
+        "id": "8kZKZEDwSbA",
+        "url": "https://youtube.com/shorts/8kZKZEDwSbA",
+        "privacy": "public"
+      }
+    },
+    "202610251301": {
+      "status": "uploaded",
+      "title": "Kaagaz 42 Baar Fold Karo, Chaand Tak Pahunch Jaoge!",
+      "createdAt": 1792933292409,
+      "youtube": {
+        "id": "eHVMGowsaLg",
+        "url": "https://youtube.com/shorts/eHVMGowsaLg",
+        "privacy": "public"
+      },
+      "voice": "elevenlabs"
+    },
+    "202610260701": {
+      "status": "uploaded",
+      "title": "Cleopatra Chaand Ke Zyada Kareeb Thi, Pyramid Ke Nahi!",
+      "createdAt": 1792998083314,
+      "youtube": {
+        "id": "4z5_SCaJyqs",
+        "url": "https://youtube.com/shorts/4z5_SCaJyqs",
+        "privacy": "public"
+      }
+    },
+    "202610261301": {
+      "status": "uploaded",
+      "title": "Phone Charger Apollo 11 Se Tez!",
+      "createdAt": 1793019682661,
+      "youtube": {
+        "id": "ViS2RZp4wwU",
+        "url": "https://youtube.com/shorts/ViS2RZp4wwU",
+        "privacy": "public"
+      }
+    },
+    "202610270701": {
+      "status": "uploaded",
+      "title": "Madhumakkhi Ki Poori Zindagi = Sirf 1/12 Chammach Shahad!",
+      "createdAt": 1793084466012,
+      "youtube": {
+        "id": "xhFS777uHak",
+        "url": "https://youtube.com/shorts/xhFS777uHak",
+        "privacy": "public"
+      }
+    },
+    "202610271411": {
+      "status": "awaiting_voice",
+      "title": "Body Har Second 20 Lakh Khoon Cells Banata Hai!",
+      "createdAt": 1793110315061
+    },
+    "202610271414": {
+      "status": "uploaded",
+      "title": "Ek Chammach Taara = 100 Crore Ton!",
+      "createdAt": 1793110477588,
+      "youtube": {
+        "id": "kZdejDsc_Nw",
+        "url": "https://youtube.com/shorts/kZdejDsc_Nw",
+        "privacy": "public"
+      }
+    },
+    "202610280701": {
+      "status": "uploaded",
+      "title": "Shark Pedon Se Bhi Purani Hai!",
+      "createdAt": 1793170897187,
+      "youtube": {
+        "id": "zQUPJJ0dg7I",
+        "url": "https://youtube.com/shorts/zQUPJJ0dg7I",
+        "privacy": "public"
+      }
+    },
+    "202610281301": {
+      "status": "awaiting_voice",
+      "title": "Octopus: 3 Dil, 9 Dimaag, Neela Khoon!",
+      "createdAt": 1793192500785
+    },
+    "202610290701": {
+      "status": "uploaded",
+      "title": "Saturn Paani Mein Tair Sakta Hai!",
+      "createdAt": 1793257272064,
+      "youtube": {
+        "id": "VtVJJH7Ibn0",
+        "url": "https://youtube.com/shorts/VtVJJH7Ibn0",
+        "privacy": "public"
+      }
+    },
+    "202610291301": {
+      "status": "uploaded",
+      "title": "Eiffel Tower Ko Har 7 Saal Mein 60 Ton Paint!",
+      "createdAt": 1793278894774,
+      "youtube": {
+        "id": "nYXR3fQmXxE",
+        "url": "https://youtube.com/shorts/nYXR3fQmXxE",
+        "privacy": "public"
+      }
+    },
+    "202610301301": {
+      "status": "uploaded",
+      "title": "Astronaut Roz 16 Baar Sooraj Ugte Dekhte Hain!",
+      "createdAt": 1793365312700,
+      "youtube": {
+        "id": "TsTRf80ZomY",
+        "url": "https://youtube.com/shorts/TsTRf80ZomY",
+        "privacy": "public"
+      }
+    },
+    "202610301723": {
+      "status": "uploaded",
+      "title": "100 Crore Second = Poore 31 Saal!",
+      "createdAt": 1793381000409,
+      "youtube": {
+        "id": "RGtISo19y0M",
+        "url": "https://youtube.com/shorts/RGtISo19y0M",
+        "privacy": "public"
+      }
+    },
+    "202610310812": {
+      "status": "uploaded",
+      "title": "Aap Abhi 1 Lakh Km/h Se Bhaag Rahe Ho!",
+      "createdAt": 1793434378536,
+      "youtube": {
+        "id": "hvNCk5RPs14",
+        "url": "https://youtube.com/shorts/hvNCk5RPs14",
+        "privacy": "public"
+      }
+    }
+  },
+  "activeJob": null
+}

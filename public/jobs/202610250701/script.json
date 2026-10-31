@@ -1,0 +1,130 @@
+{
+  "title": "Bijli Sooraj Se 5 Guna Garam!",
+  "idea": "A lightning bolt heats the air to about 27,700°C, roughly 5 times hotter than the Sun's surface. The record bolt was 829 km long, and counting the seconds before the thunder tells you how far away it struck.",
+  "lines": [
+    {
+      "text": "Ek bijli Sooraj ki surface se paanch guna zyada garam hoti hai!",
+      "highlight": "paanch guna",
+      "scene": {
+        "type": "hook",
+        "emoji": "⚡",
+        "big": "SURAJ SE 5× GARAM"
+      }
+    },
+    {
+      "text": "Sooraj ki surface lagbhag 5,500 degree, aur bijli? Lagbhag 27,700 degree Celsius!",
+      "highlight": "27,700 degree",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🌞",
+          "label": "Sooraj surface",
+          "value": 5500
+        },
+        "right": {
+          "emoji": "⚡",
+          "label": "Bijli",
+          "value": 27700
+        },
+        "unit": "°C"
+      }
+    },
+    {
+      "text": "Record todne wali bijli 829 km lambi thi, Mumbai se Bengaluru jitni!",
+      "highlight": "829 km",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 829,
+        "prefix": "",
+        "suffix": " km",
+        "label": "Duniya ki sabse lambi bijli"
+      }
+    },
+    {
+      "text": "Yeh Mount Everest se 90 guna lambi, yaani lagbhag 1000 Burj Khalifa!",
+      "highlight": "1000 Burj Khalifa",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🏙️",
+            "label": "Burj 828m"
+          },
+          {
+            "emoji": "🏔️",
+            "label": "Everest"
+          },
+          {
+            "emoji": "⚡",
+            "label": "829 km"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Roshni turant pahunchti hai, par aawaz ko har km mein 3 second lagte.",
+      "highlight": "3 second",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🔊",
+          "label": "Aawaz",
+          "value": 1235
+        },
+        "right": {
+          "emoji": "💡",
+          "label": "Roshni",
+          "value": 1079252849
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Toh garaj tak seconds gino, 3 se divide karo, kitne km door? Try karoge?",
+      "highlight": "3 se divide",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SECONDS ÷ 3 = KM"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Bijli Sooraj Se 5 Guna Zyada Garam Kaise? ⚡ #shorts",
+    "description": "Ek bijli Sooraj ki surface se 5 guna garam hoti hai, aur record bijli 829 km lambi thi! 🤯\nAur agli baar thunder aaye toh seconds gino, 3 se divide karo, pata chal jayega bijli kitni door giri.\n#shorts #bijli #lightning #sciencefacts #hindifacts",
+    "tags": [
+      "lightning facts",
+      "bijli facts",
+      "lightning hotter than sun",
+      "longest lightning bolt",
+      "science facts hindi",
+      "hinglish facts",
+      "amazing facts",
+      "thunder distance trick"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Lightning heats the air it passes through to about 50,000°F (about 27,700°C), which is 5 times hotter than the surface of the Sun.",
+      "source": "https://www.weather.gov/safety/lightning-temperature"
+    },
+    {
+      "claim": "The Sun's visible surface (photosphere) is about 10,000°F, or 5,500°C.",
+      "source": "https://lenz.io/c/lightning-temperature-vs-sun-surface-0394c676"
+    },
+    {
+      "claim": "WMO certified a world-record 829 km (515 miles) megaflash on 22 October 2017, running from eastern Texas to near Kansas City. Mumbai to Bengaluru is about 840 km in a straight line.",
+      "source": "https://wmo.int/media/news/wmo-certifies-megaflash-lightning-record-usa"
+    },
+    {
+      "claim": "829 km is about 94 times Mount Everest's height (8.849 km) and about 1,000 times the Burj Khalifa's height (828 m).",
+      "source": "https://wmo.int/media/news/wmo-certifies-megaflash-lightning-record-usa"
+    },
+    {
+      "claim": "Sound travels at about 343 m/s (about 1,235 km/h), so it takes about 3 seconds per km. Light travels at about 1.08 billion km/h, so it arrives almost instantly. The flash-to-bang count divided by 3 gives the distance in km.",
+      "source": "https://www.weather.gov/safety/lightning-science-thunder"
+    }
+  ]
+}

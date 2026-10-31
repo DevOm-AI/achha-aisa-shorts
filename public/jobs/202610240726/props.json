@@ -1,0 +1,159 @@
+{
+  "title": "Blue Whale ka Dil Minute Mein Sirf 2 Baar",
+  "accent": "#7c3aed",
+  "voice": "jobs/202610240726/voice.wav",
+  "voiceTrimBefore": 11,
+  "lines": [
+    {
+      "text": "Duniya ke sabse bade jaanwar ka dil minute mein sirf 2 baar dhadakta hai!",
+      "highlight": "sirf 2 baar",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐋",
+        "big": "2 BEATS PER MINUTE"
+      },
+      "durationInFrames": 381,
+      "speech": [
+        [
+          5,
+          112
+        ],
+        [
+          122,
+          183
+        ],
+        [
+          189,
+          235
+        ],
+        [
+          249,
+          263
+        ],
+        [
+          273,
+          303
+        ],
+        [
+          312,
+          361
+        ]
+      ]
+    },
+    {
+      "text": "Blue whale 30 meter tak lambi hoti hai, cricket pitch se dedh guna!",
+      "highlight": "30 meter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏏",
+          "label": "Cricket Pitch",
+          "value": 20
+        },
+        "right": {
+          "emoji": "🐋",
+          "label": "Blue Whale",
+          "value": 30
+        },
+        "unit": "m"
+      },
+      "durationInFrames": 133,
+      "speech": [
+        [
+          0,
+          25
+        ],
+        [
+          37,
+          116
+        ]
+      ]
+    },
+    {
+      "text": "Wazan? Lagbhag 150 tonne, matlab kareeb 30 haathiyon jitna!",
+      "highlight": "150 tonne",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚖️",
+        "from": 0,
+        "to": 150,
+        "prefix": "",
+        "suffix": " tonne",
+        "label": "Blue whale ka wazan"
+      },
+      "durationInFrames": 41,
+      "speech": [
+        [
+          0,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Aur sirf iski jeebh ka wazan ek poore haathi jitna, kareeb 2.5 tonne!",
+      "highlight": "jeebh, haathi",
+      "scene": {
+        "type": "fact",
+        "emoji": "👅",
+        "big": "JEEBH = HAATHI",
+        "small": "Sirf tongue ~2.5 tonne ka!"
+      },
+      "durationInFrames": 195,
+      "speech": [
+        [
+          0,
+          90
+        ],
+        [
+          103,
+          162
+        ]
+      ]
+    },
+    {
+      "text": "Hamara dil minute mein 60 se 100 baar dhadakta hai, whale ka dive mein sirf 2!",
+      "highlight": "sirf 2",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧍",
+          "label": "Insaan",
+          "value": 72
+        },
+        "right": {
+          "emoji": "🐋",
+          "label": "Blue Whale",
+          "value": 2
+        },
+        "unit": "beats/min"
+      },
+      "durationInFrames": 83,
+      "speech": [
+        [
+          0,
+          23
+        ],
+        [
+          29,
+          67
+        ]
+      ]
+    },
+    {
+      "text": "Itna bada dil, phir bhi itni dheemi dhadkan! Aapko sabse shocking kya laga?",
+      "highlight": "dheemi dhadkan",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "DHEEMA SUPER-DIL"
+      },
+      "durationInFrames": 109,
+      "speech": [
+        [
+          0,
+          82
+        ]
+      ]
+    }
+  ]
+}

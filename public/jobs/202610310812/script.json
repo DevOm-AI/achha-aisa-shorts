@@ -1,0 +1,113 @@
+{
+  "title": "Aap Abhi 1 Lakh Km/h Se Bhaag Rahe Ho!",
+  "idea": "Even while sitting still, you are moving at about 107,000 km/h because Earth is orbiting the Sun at about 29.78 km/s.",
+  "lines": [
+    {
+      "text": "Aap abhi baithe ho, phir bhi 1 lakh km/h se bhaag rahe ho!",
+      "highlight": "1 lakh km/h",
+      "scene": {
+        "type": "hook",
+        "emoji": "🌍",
+        "big": "1,07,000 KM/H"
+      }
+    },
+    {
+      "text": "Dharti Sooraj ke chakkar har second lagbhag 30 kilometre ki speed se lagati hai.",
+      "highlight": "30 kilometre",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "☀️",
+          "label": "Sooraj"
+        },
+        "orbiter": {
+          "emoji": "🌍",
+          "label": "Dharti"
+        },
+        "big": "30 KM HAR SECOND"
+      }
+    },
+    {
+      "text": "Bullet train 320 pe chalegi, Dharti usse 300 guna se bhi zyada tez!",
+      "highlight": "300 guna",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚄",
+          "label": "Bullet Train",
+          "value": 320
+        },
+        "right": {
+          "emoji": "🌍",
+          "label": "Dharti",
+          "value": 107208
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Mumbai se Delhi? Dharti ye doori sirf 38 second mein tay kar leti hai!",
+      "highlight": "38 second",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 38,
+        "prefix": "",
+        "suffix": " sec",
+        "label": "Mumbai se Delhi"
+      }
+    },
+    {
+      "text": "Ek din mein 25 lakh km, yaani Chaand tak 6 baar se zyada!",
+      "highlight": "25 lakh km, Chaand",
+      "scene": {
+        "type": "stack",
+        "emoji": "🌕",
+        "count": 6,
+        "label": "Roz Chaand tak 6+ baar!"
+      }
+    },
+    {
+      "text": "Phir bhi kuch mehsoos nahi hota! Bolo, aaj aapne kitna safar kiya?",
+      "highlight": "mehsoos nahi",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "PATA BHI NAHI!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Aap Baithe Baithe 1 Lakh Km/h Se Bhaag Rahe Ho! 🌍 #shorts",
+    "description": "Aap sofa pe baithe ho, phir bhi Dharti aapko 1,07,000 km/h ki speed se Sooraj ke chakkar lagwa rahi hai! 🚀\nMumbai se Delhi sirf 38 second mein, aur roz Chaand tak 6 baar se zyada ka safar 🤯\n#shorts #space #factsinhindi #hinglishfacts #earth",
+    "tags": [
+      "earth speed",
+      "dharti ki speed",
+      "space facts hindi",
+      "amazing facts",
+      "hinglish facts",
+      "earth orbit sun",
+      "science shorts",
+      "mind blowing facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Earth orbits the Sun at an average of 29.78 km/s, about 107,208 km/h",
+      "source": "https://en.wikipedia.org/wiki/Orbit_of_Earth"
+    },
+    {
+      "claim": "The Mumbai–Ahmedabad bullet train is designed for a top speed of 320 km/h (107,208 / 320 ≈ 335 times)",
+      "source": "https://www.indiatvnews.com/news/india/bullet-train-to-cover-mumbai-ahmedabad-in-just-two-hours-to-run-at-speed-of-320-km-per-hour-check-other-details-2025-08-04-1001929"
+    },
+    {
+      "claim": "Mumbai to Delhi straight-line distance is about 1,137 km (1,137 / 29.78 km/s ≈ 38 seconds)",
+      "source": "https://www.airmilescalculator.com/distance/bom-to-del/"
+    },
+    {
+      "claim": "In one day Earth travels 29.78 × 86,400 ≈ 25.7 lakh km; the average Earth–Moon distance is 384,400 km, so that is about 6.7 times the distance to the Moon",
+      "source": "https://spaceplace.nasa.gov/moon-distance/"
+    }
+  ]
+}
