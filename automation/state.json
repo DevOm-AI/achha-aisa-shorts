@@ -149,11 +149,16 @@
       }
     },
     "202610311341": {
-      "status": "awaiting_approval",
+      "status": "uploaded",
       "title": "Cube Poop Karne Wala Anokha Jaanwar! 🐻 #shorts",
       "createdAt": 1793454099327,
-      "finalRun": "41210691226"
+      "finalRun": "41210691226",
+      "youtube": {
+        "id": "ii1TOm9QjCQ",
+        "url": "https://youtube.com/shorts/ii1TOm9QjCQ",
+        "privacy": "public"
+      }
     }
   },
-  "activeJob": "202610311341"
+  "activeJob": null
 }
