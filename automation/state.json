@@ -165,11 +165,16 @@
       "createdAt": 1793516597155
     },
     "202611011304": {
-      "status": "awaiting_approval",
+      "status": "uploaded",
       "title": "Statue of Liberty Asal Mein Ek Dhoka Hai? 🗽 #shorts",
       "createdAt": 1793538250006,
-      "finalRun": "41323741133"
+      "finalRun": "41323741133",
+      "youtube": {
+        "id": "zQi2i139liM",
+        "url": "https://youtube.com/shorts/zQi2i139liM",
+        "privacy": "public"
+      }
     }
   },
-  "activeJob": "202611011304"
+  "activeJob": null
 }
