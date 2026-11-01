@@ -1,0 +1,117 @@
+{
+  "title": "Statue of Liberty Asal Mein Ek Dhoka Hai? 🗽 #shorts",
+  "idea": "The massive Statue of Liberty's copper skin is shockingly thin at just 2.4 mm, yet required 91,000 kg of copper.",
+  "lines": [
+    {
+      "text": "Statue of Liberty ki vishaal body asal mein ek dhoka hai!",
+      "highlight": "ek dhoka hai",
+      "scene": {
+        "type": "hook",
+        "emoji": "🗽",
+        "big": "LIBERTY KA DHOKA!"
+      }
+    },
+    {
+      "text": "Poori 46 meter unchi statue dekhkar lagta hai moti deewar hogi.",
+      "highlight": "46 meter unchi",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🚶",
+            "label": "Insaan"
+          },
+          {
+            "emoji": "🏠",
+            "label": "Makaan"
+          },
+          {
+            "emoji": "🗽",
+            "label": "46m Statue"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Lekin iski taanbe ki poori skin sirf 2.4 millimeter patli hai!",
+      "highlight": "2.4 millimeter",
+      "scene": {
+        "type": "fact",
+        "emoji": "📏",
+        "big": "SIRF 2.4 MM!",
+        "small": "Taanbe ki patli skin"
+      }
+    },
+    {
+      "text": "Itni patli skin ke baad bhi kul 91000 kilo taanba laga tha!",
+      "highlight": "91000 kilo",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚖️",
+        "from": 0,
+        "to": 91000,
+        "prefix": "",
+        "suffix": " kg",
+        "label": "Taanbe Ka Wazan"
+      }
+    },
+    {
+      "text": "Gustave Eiffel ke lachile framework ne ise toofano mein bachaye rakha.",
+      "highlight": "Gustave Eiffel",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🗼",
+            "text": "Eiffel Design"
+          },
+          {
+            "emoji": "💨",
+            "text": "Hawa Mein Jhula"
+          },
+          {
+            "emoji": "🛡️",
+            "text": "Tuta Nahi"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Itni patli chaadar New York ke toofan kaise jhel gayi, socho?",
+      "highlight": "kaise jhel gayi",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "KAISE TIKI HAI?"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Statue of Liberty Asal Mein Ek Dhoka Hai? 🗽 #shorts",
+    "description": "Kya aap jaante hain ki Statue of Liberty ki copper skin sirf 2.4 millimeter patli hai? Itni vishaal murti itni patli chaadar ke saath 130 saal se kaise khadi hai, dekhiye is video mein!\n\n#statueofliberty #amazingfacts #sciencefacts #newyork #shorts",
+    "tags": [
+      "statue of liberty",
+      "statue of liberty facts",
+      "mind blowing facts",
+      "facts in hindi",
+      "gustave eiffel",
+      "copper statue",
+      "shorts",
+      "science facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Statue of Liberty ki unchai lagbhag 46 meter hai.",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    },
+    {
+      "claim": "Statue of Liberty ki copper skin sirf 2.4 millimeter patli hai.",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    },
+    {
+      "claim": "Statue banane ke liye 91,000 kg taanba laga tha.",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    }
+  ]
+}

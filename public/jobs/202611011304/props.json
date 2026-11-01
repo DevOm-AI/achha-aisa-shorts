@@ -1,0 +1,97 @@
+{
+  "title": "Statue of Liberty Asal Mein Ek Dhoka Hai? 🗽 #shorts",
+  "accent": "#ea580c",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Statue of Liberty ki vishaal body asal mein ek dhoka hai!",
+      "highlight": "ek dhoka hai",
+      "scene": {
+        "type": "hook",
+        "emoji": "🗽",
+        "big": "LIBERTY KA DHOKA!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Poori 46 meter unchi statue dekhkar lagta hai moti deewar hogi.",
+      "highlight": "46 meter unchi",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🚶",
+            "label": "Insaan"
+          },
+          {
+            "emoji": "🏠",
+            "label": "Makaan"
+          },
+          {
+            "emoji": "🗽",
+            "label": "46m Statue"
+          }
+        ]
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Lekin iski taanbe ki poori skin sirf 2.4 millimeter patli hai!",
+      "highlight": "2.4 millimeter",
+      "scene": {
+        "type": "fact",
+        "emoji": "📏",
+        "big": "SIRF 2.4 MM!",
+        "small": "Taanbe ki patli skin"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Itni patli skin ke baad bhi kul 91000 kilo taanba laga tha!",
+      "highlight": "91000 kilo",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚖️",
+        "from": 0,
+        "to": 91000,
+        "prefix": "",
+        "suffix": " kg",
+        "label": "Taanbe Ka Wazan"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Gustave Eiffel ke lachile framework ne ise toofano mein bachaye rakha.",
+      "highlight": "Gustave Eiffel",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🗼",
+            "text": "Eiffel Design"
+          },
+          {
+            "emoji": "💨",
+            "text": "Hawa Mein Jhula"
+          },
+          {
+            "emoji": "🛡️",
+            "text": "Tuta Nahi"
+          }
+        ]
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Itni patli chaadar New York ke toofan kaise jhel gayi, socho?",
+      "highlight": "kaise jhel gayi",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "KAISE TIKI HAI?"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
