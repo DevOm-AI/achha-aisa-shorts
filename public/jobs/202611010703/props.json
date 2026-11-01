@@ -1,0 +1,96 @@
+{
+  "title": "Woodpecker Ka Super Brain",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Woodpecker ped par lagatar sar patak kar bhi behosh kyon nahi hota?",
+      "highlight": "sar patak kar",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪵",
+        "big": "BEHOSH KYON NAHI?"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Ped thokte waqt ye 1000 g ka zabardast deceleration force jhelta hai!",
+      "highlight": "1000 g",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 1000,
+        "prefix": "",
+        "suffix": " g",
+        "label": "Deceleration Force"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Iski lambi jeebh dimaag ke chaaron taraf ghoomkar safety-belt ban jaati hai!",
+      "highlight": "safety-belt",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🧠",
+          "label": "Dimaag"
+        },
+        "orbiter": {
+          "emoji": "👅",
+          "label": "Lambi Jeebh"
+        },
+        "big": "SAFETY BELT"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Shareer 99 percent jhatka sookh leta hai aur dimaag par sirf 1 percent!",
+      "highlight": "99 percent",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧠",
+          "label": "Dimaag",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🦴",
+          "label": "Shareer",
+          "value": 99
+        },
+        "unit": "%"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Scientists ne isi bird se inspire hokar helmets aur airplane black-boxes banaye!",
+      "highlight": "black-boxes",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "⛑️",
+            "text": "Safety Helmets"
+          },
+          {
+            "emoji": "✈️",
+            "text": "Airplane Boxes"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya insaan nature ke is kamaal helmet ko kabhi beat kar payega?",
+      "highlight": "beat kar payega",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "NATURE WINS!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
