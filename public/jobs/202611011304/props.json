@@ -1,8 +1,8 @@
 {
   "title": "Statue of Liberty Asal Mein Ek Dhoka Hai? 🗽 #shorts",
   "accent": "#ea580c",
-  "voice": null,
-  "voiceTrimBefore": 0,
+  "voice": "jobs/202611011304/voice.wav",
+  "voiceTrimBefore": 14,
   "lines": [
     {
       "text": "Statue of Liberty ki vishaal body asal mein ek dhoka hai!",
@@ -12,7 +12,13 @@
         "emoji": "🗽",
         "big": "LIBERTY KA DHOKA!"
       },
-      "durationInFrames": 137
+      "durationInFrames": 106,
+      "speech": [
+        [
+          5,
+          92
+        ]
+      ]
     },
     {
       "text": "Poori 46 meter unchi statue dekhkar lagta hai moti deewar hogi.",
@@ -34,7 +40,13 @@
           }
         ]
       },
-      "durationInFrames": 137
+      "durationInFrames": 118,
+      "speech": [
+        [
+          0,
+          109
+        ]
+      ]
     },
     {
       "text": "Lekin iski taanbe ki poori skin sirf 2.4 millimeter patli hai!",
@@ -45,7 +57,13 @@
         "big": "SIRF 2.4 MM!",
         "small": "Taanbe ki patli skin"
       },
-      "durationInFrames": 137
+      "durationInFrames": 127,
+      "speech": [
+        [
+          0,
+          113
+        ]
+      ]
     },
     {
       "text": "Itni patli skin ke baad bhi kul 91000 kilo taanba laga tha!",
@@ -59,7 +77,13 @@
         "suffix": " kg",
         "label": "Taanbe Ka Wazan"
       },
-      "durationInFrames": 148
+      "durationInFrames": 133,
+      "speech": [
+        [
+          0,
+          119
+        ]
+      ]
     },
     {
       "text": "Gustave Eiffel ke lachile framework ne ise toofano mein bachaye rakha.",
@@ -81,7 +105,13 @@
           }
         ]
       },
-      "durationInFrames": 137
+      "durationInFrames": 140,
+      "speech": [
+        [
+          0,
+          121
+        ]
+      ]
     },
     {
       "text": "Itni patli chaadar New York ke toofan kaise jhel gayi, socho?",
@@ -91,7 +121,21 @@
         "emoji": "🤯",
         "big": "KAISE TIKI HAI?"
       },
-      "durationInFrames": 137
+      "durationInFrames": 165,
+      "speech": [
+        [
+          0,
+          67
+        ],
+        [
+          80,
+          109
+        ],
+        [
+          125,
+          138
+        ]
+      ]
     }
   ]
 }
