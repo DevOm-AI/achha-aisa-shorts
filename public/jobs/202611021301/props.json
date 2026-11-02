@@ -1,0 +1,97 @@
+{
+  "title": "Chameleon Ki Jeebh Ka Dhasu Sach! 🦎 #shorts",
+  "accent": "#0891b2",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Chameleon ki jeebh uski poori body se 2 guna zyada lambi hoti hai!",
+      "highlight": "2 guna zyada",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦎",
+        "big": "2X LAMBI JEEBH!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Yeh shikaar par sirf 0.07 seconds mein hamla kar leti hai!",
+      "highlight": "0.07 seconds",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "⚡",
+          "label": "Eye Blink",
+          "value": 300
+        },
+        "right": {
+          "emoji": "🦎",
+          "label": "Tongue Strike",
+          "value": 70
+        },
+        "unit": "ms"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Iski dono aankhen alag ghoom kar poora 360 degree view dekhti hain!",
+      "highlight": "360 degree view",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "👁️",
+          "label": "Chameleon"
+        },
+        "orbiter": {
+          "emoji": "👀",
+          "label": "Vision"
+        },
+        "big": "360 DEGREE VIEW"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "UV light mein iski haddiya bright blue rang mein chamakti hain!",
+      "highlight": "bright blue",
+      "scene": {
+        "type": "fact",
+        "emoji": "🦴",
+        "big": "BLUE GLOW",
+        "small": "UV light fluorescence"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Sabse chhota chameleon sirf 22 millimeter ka hota hai!",
+      "highlight": "22 millimeter",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🐜",
+            "label": "22 mm"
+          },
+          {
+            "emoji": "🦎",
+            "label": "30 cm"
+          },
+          {
+            "emoji": "🐊",
+            "label": "68 cm"
+          }
+        ]
+      },
+      "durationInFrames": 115
+    },
+    {
+      "text": "Kya aapne kabhi chameleon ko rang badalte dekha hai? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER HUNTER!"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
