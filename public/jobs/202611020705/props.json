@@ -1,0 +1,83 @@
+{
+  "title": "Iss Jaanwar Ke Paas Hai Sabse Ghani Fur! 🦦 #shorts",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Duniya mein sabse ghani fur wala jaanwar kaun sa hai?",
+      "highlight": "ghani fur",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦦",
+        "big": "DENSEST FUR EVER"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Sea otter ke 1 square centimeter skin pe 150,000 baal hote hain!",
+      "highlight": "150,000 baal",
+      "scene": {
+        "type": "counter",
+        "emoji": "💈",
+        "from": 0,
+        "to": 150000,
+        "prefix": "",
+        "suffix": " hairs/cm²",
+        "label": "Hair density"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Ye roz apne wazan ka 38 percent khana khate hain!",
+      "highlight": "38 percent khana",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦦",
+          "label": "Body weight",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦀",
+          "label": "Daily Food",
+          "value": 38
+        },
+        "unit": "%"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Paani mein 2,000 otters ek saath floating raft banate hain!",
+      "highlight": "2,000 otters",
+      "scene": {
+        "type": "stack",
+        "emoji": "🦦",
+        "count": 2000,
+        "label": "Largest raft count"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Ye paani ke andar 5 minute tak saans rok sakte hain!",
+      "highlight": "5 minute",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🌊",
+        "big": "5 MIN BREATH!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Kya aapko pata tha ki otters rocks ko tool jaise use karte hain?",
+      "highlight": "tool jaise",
+      "scene": {
+        "type": "fact",
+        "emoji": "🪨",
+        "big": "USES TOOLS!",
+        "small": "Uses rocks to crack shells"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}

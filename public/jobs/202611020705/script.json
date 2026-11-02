@@ -1,0 +1,107 @@
+{
+  "title": "Iss Jaanwar Ke Paas Hai Sabse Ghani Fur! 🦦 #shorts",
+  "idea": "Explaining how sea otters have the densest fur on Earth along with other insane physical facts",
+  "lines": [
+    {
+      "text": "Duniya mein sabse ghani fur wala jaanwar kaun sa hai?",
+      "highlight": "ghani fur",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦦",
+        "big": "DENSEST FUR EVER"
+      }
+    },
+    {
+      "text": "Sea otter ke 1 square centimeter skin pe 150,000 baal hote hain!",
+      "highlight": "150,000 baal",
+      "scene": {
+        "type": "counter",
+        "emoji": "💈",
+        "from": 0,
+        "to": 150000,
+        "prefix": "",
+        "suffix": " hairs/cm²",
+        "label": "Hair density"
+      }
+    },
+    {
+      "text": "Ye roz apne wazan ka 38 percent khana khate hain!",
+      "highlight": "38 percent khana",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦦",
+          "label": "Body weight",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦀",
+          "label": "Daily Food",
+          "value": 38
+        },
+        "unit": "%"
+      }
+    },
+    {
+      "text": "Paani mein 2,000 otters ek saath floating raft banate hain!",
+      "highlight": "2,000 otters",
+      "scene": {
+        "type": "stack",
+        "emoji": "🦦",
+        "count": 2000,
+        "label": "Largest raft count"
+      }
+    },
+    {
+      "text": "Ye paani ke andar 5 minute tak saans rok sakte hain!",
+      "highlight": "5 minute",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🌊",
+        "big": "5 MIN BREATH!"
+      }
+    },
+    {
+      "text": "Kya aapko pata tha ki otters rocks ko tool jaise use karte hain?",
+      "highlight": "tool jaise",
+      "scene": {
+        "type": "fact",
+        "emoji": "🪨",
+        "big": "USES TOOLS!",
+        "small": "Uses rocks to crack shells"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Iss Jaanwar Ke Paas Hai Sabse Ghani Fur! 🦦 #shorts",
+    "description": "Jaaniye Sea Otter ke baare mein mind-blowing facts! Kise pata tha ki inke 1 cm² skin pe 150,000 baal hote hain?\n\n#seaotter #animalfacts #facts #hinglish #shorts",
+    "tags": [
+      "sea otter",
+      "sea otter facts",
+      "densest fur",
+      "animal facts",
+      "hinglish facts",
+      "amazing facts",
+      "science shorts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Sea otter's fur is the densest of any animal with up to 150,000 strands per square cm.",
+      "source": "https://en.wikipedia.org/wiki/Sea_otter"
+    },
+    {
+      "claim": "Sea otters must eat up to 38% of their body weight in food each day.",
+      "source": "https://en.wikipedia.org/wiki/Sea_otter"
+    },
+    {
+      "claim": "The largest sea otter raft ever seen had over 2,000 otters.",
+      "source": "https://en.wikipedia.org/wiki/Sea_otter"
+    },
+    {
+      "claim": "Sea otters can hold their breath underwater for up to 5 minutes.",
+      "source": "https://en.wikipedia.org/wiki/Sea_otter"
+    }
+  ]
+}
