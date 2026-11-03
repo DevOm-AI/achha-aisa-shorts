@@ -1,0 +1,83 @@
+{
+  "title": "Kya Banana Radioactive Hai? 🍌 #shorts",
+  "accent": "#db2777",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai ki har banana andar se radioactive hota hai?",
+      "highlight": "radioactive hota hai",
+      "scene": {
+        "type": "hook",
+        "emoji": "🍌",
+        "big": "RADIOACTIVE!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Iska sach yeh hai ki isme potassium ka amount bohot high hota hai.",
+      "highlight": "potassium ka amount",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🍌",
+          "label": "Banana",
+          "value": 1
+        },
+        "right": {
+          "emoji": "⚡",
+          "label": "Potassium",
+          "value": 100
+        },
+        "unit": "mg"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "World mein 2022 mein total world production of bananas and plantains combined 179 million tonnes thi.",
+      "highlight": "179 million tonnes",
+      "scene": {
+        "type": "stack",
+        "emoji": "🍌",
+        "count": 10,
+        "label": "179 million tonnes"
+      },
+      "durationInFrames": 191
+    },
+    {
+      "text": "Isme India aur China ka contribution sabse bada hai jo approximately 26% hai.",
+      "highlight": "approximately 26%",
+      "scene": {
+        "type": "counter",
+        "emoji": "📈",
+        "from": 0,
+        "to": 26,
+        "prefix": "",
+        "suffix": "%",
+        "label": "India & China share"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Matlab aap jab bhi ek banana khate ho, aap thodi si natural radiation bhi consume karte ho.",
+      "highlight": "natural radiation",
+      "scene": {
+        "type": "fact",
+        "emoji": "☢️",
+        "big": "Potassium",
+        "small": "Natural Radiation"
+      },
+      "durationInFrames": 202
+    },
+    {
+      "text": "Kya aap abhi bhi roz banana khana chahoge ya darr lag gaya? Comments mein batao!",
+      "highlight": "Comments mein batao",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "Darr Lag Gaya?"
+      },
+      "durationInFrames": 180
+    }
+  ]
+}

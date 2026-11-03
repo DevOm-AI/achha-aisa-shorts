@@ -1,0 +1,99 @@
+{
+  "title": "Kya Banana Radioactive Hai? 🍌 #shorts",
+  "idea": "Bananas are naturally radioactive because they contain high amounts of potassium.",
+  "lines": [
+    {
+      "text": "Kya aapko pata hai ki har banana andar se radioactive hota hai?",
+      "highlight": "radioactive hota hai",
+      "scene": {
+        "type": "hook",
+        "emoji": "🍌",
+        "big": "RADIOACTIVE!"
+      }
+    },
+    {
+      "text": "Iska sach yeh hai ki isme potassium ka amount bohot high hota hai.",
+      "highlight": "potassium ka amount",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🍌",
+          "label": "Banana",
+          "value": 1
+        },
+        "right": {
+          "emoji": "⚡",
+          "label": "Potassium",
+          "value": 100
+        },
+        "unit": "mg"
+      }
+    },
+    {
+      "text": "World mein 2022 mein total world production of bananas and plantains combined 179 million tonnes thi.",
+      "highlight": "179 million tonnes",
+      "scene": {
+        "type": "stack",
+        "emoji": "🍌",
+        "count": 10,
+        "label": "179 million tonnes"
+      }
+    },
+    {
+      "text": "Isme India aur China ka contribution sabse bada hai jo approximately 26% hai.",
+      "highlight": "approximately 26%",
+      "scene": {
+        "type": "counter",
+        "emoji": "📈",
+        "from": 0,
+        "to": 26,
+        "prefix": "",
+        "suffix": "%",
+        "label": "India & China share"
+      }
+    },
+    {
+      "text": "Matlab aap jab bhi ek banana khate ho, aap thodi si natural radiation bhi consume karte ho.",
+      "highlight": "natural radiation",
+      "scene": {
+        "type": "fact",
+        "emoji": "☢️",
+        "big": "Potassium",
+        "small": "Natural Radiation"
+      }
+    },
+    {
+      "text": "Kya aap abhi bhi roz banana khana chahoge ya darr lag gaya? Comments mein batao!",
+      "highlight": "Comments mein batao",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "Darr Lag Gaya?"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Kya Banana Radioactive Hota Hai? 🍌 #shorts",
+    "description": "Kya aap jaante ho ki har banana andar se radioactive hota hai? Iske peeche ka sach jaan kar aap shock ho jaoge! Video ko pura dekho.\n\n#shorts #banana #science #facts #hindi",
+    "tags": [
+      "shorts",
+      "banana facts",
+      "radioactive banana",
+      "science facts",
+      "hinglish facts",
+      "interesting facts",
+      "food facts",
+      "youtube shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "World production of bananas and plantains combined was 179 million tonnes in 2022",
+      "source": "https://en.wikipedia.org/wiki/Banana"
+    },
+    {
+      "claim": "India and China together accounted for approximately 26% of total production",
+      "source": "https://en.wikipedia.org/wiki/Banana"
+    }
+  ]
+}
