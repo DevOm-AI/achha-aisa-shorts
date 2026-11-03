@@ -186,11 +186,16 @@
       "createdAt": 1793624496677
     },
     "202611030701": {
-      "status": "awaiting_approval",
+      "status": "uploaded",
       "title": "Giraffe Ki Gardan Ka Sabse Bada Dhoka! 🦒 #shorts",
       "createdAt": 1793689286667,
-      "finalRun": "41603293399"
+      "finalRun": "41603293399",
+      "youtube": {
+        "id": "OYzsN3lj4cQ",
+        "url": "https://youtube.com/shorts/OYzsN3lj4cQ",
+        "privacy": "public"
+      }
     }
   },
-  "activeJob": "202611030701"
+  "activeJob": null
 }
