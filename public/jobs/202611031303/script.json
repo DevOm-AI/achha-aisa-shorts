@@ -1,0 +1,98 @@
+{
+  "title": "Burj Khalifa Ki Top Se Kya Dikhta Hai? 🏙️ #shorts",
+  "idea": "Burj Khalifa's tip is so high that its tip can be seen from 95 kilometers away.",
+  "lines": [
+    {
+      "text": "Burj Khalifa duniya ki sabse unchi building hai!",
+      "highlight": "sabse unchi",
+      "scene": {
+        "type": "hook",
+        "emoji": "🏙️",
+        "big": "TALLEST BUILDING"
+      }
+    },
+    {
+      "text": "Iski height sunkar aapke hosh udd jaayenge.",
+      "highlight": "hosh udd",
+      "scene": {
+        "type": "fact",
+        "emoji": "🤯",
+        "big": "829.8 METERS",
+        "small": "Total height of the structure"
+      }
+    },
+    {
+      "text": "Yahan tak ki iski tip 95 kilometers door se dikh sakti hai!",
+      "highlight": "95 km door",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏙️",
+          "label": "Burj Khalifa",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🚗",
+          "label": "Distance",
+          "value": 95
+        },
+        "unit": "km"
+      }
+    },
+    {
+      "text": "Iske top par khade hokar log Ramadan mein 3 minute late fast todte hain!",
+      "highlight": "3 minute late",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "☀️",
+          "label": "Sun"
+        },
+        "orbiter": {
+          "emoji": "🌙",
+          "label": "Ramadan"
+        },
+        "big": "Extra Minutes"
+      }
+    },
+    {
+      "text": "Isme lagbhag 24 thousand se zyada windows hain!",
+      "highlight": "24 thousand",
+      "scene": {
+        "type": "stack",
+        "emoji": "🪟",
+        "count": 24,
+        "label": "Windows on facade"
+      }
+    },
+    {
+      "text": "Kya aap itni unchai par kabhi jaana chahenge?",
+      "highlight": "unchai par",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🚀",
+        "big": "COMMENT BELOW!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Burj Khalifa Ki Top Se Kya Dikhta Hai? 🏙️ #shorts",
+    "description": "Janiye Burj Khalifa ke baare mein kuch aise amazing facts jo aapko hairan kar denge! Yeh duniya ki sabse unchi building hai.\n\n#burjkhalifa #dubai #tallestbuilding #amazingfacts #shorts",
+    "tags": [
+      "Burj Khalifa",
+      "Dubai",
+      "Tallest Building",
+      "Amazing Facts",
+      "Architecture",
+      "Skyscraper",
+      "World Records",
+      "Shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Its tip can be seen from 95 kilometers away.",
+      "source": "https://en.wikipedia.org/wiki/Burj_Khalifa"
+    }
+  ]
+}

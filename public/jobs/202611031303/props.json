@@ -1,0 +1,86 @@
+{
+  "title": "Burj Khalifa Ki Top Se Kya Dikhta Hai? 🏙️ #shorts",
+  "accent": "#db2777",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Burj Khalifa duniya ki sabse unchi building hai!",
+      "highlight": "sabse unchi",
+      "scene": {
+        "type": "hook",
+        "emoji": "🏙️",
+        "big": "TALLEST BUILDING"
+      },
+      "durationInFrames": 104
+    },
+    {
+      "text": "Iski height sunkar aapke hosh udd jaayenge.",
+      "highlight": "hosh udd",
+      "scene": {
+        "type": "fact",
+        "emoji": "🤯",
+        "big": "829.8 METERS",
+        "small": "Total height of the structure"
+      },
+      "durationInFrames": 94
+    },
+    {
+      "text": "Yahan tak ki iski tip 95 kilometers door se dikh sakti hai!",
+      "highlight": "95 km door",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏙️",
+          "label": "Burj Khalifa",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🚗",
+          "label": "Distance",
+          "value": 95
+        },
+        "unit": "km"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Iske top par khade hokar log Ramadan mein 3 minute late fast todte hain!",
+      "highlight": "3 minute late",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "☀️",
+          "label": "Sun"
+        },
+        "orbiter": {
+          "emoji": "🌙",
+          "label": "Ramadan"
+        },
+        "big": "Extra Minutes"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Isme lagbhag 24 thousand se zyada windows hain!",
+      "highlight": "24 thousand",
+      "scene": {
+        "type": "stack",
+        "emoji": "🪟",
+        "count": 24,
+        "label": "Windows on facade"
+      },
+      "durationInFrames": 104
+    },
+    {
+      "text": "Kya aap itni unchai par kabhi jaana chahenge?",
+      "highlight": "unchai par",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🚀",
+        "big": "COMMENT BELOW!"
+      },
+      "durationInFrames": 104
+    }
+  ]
+}
