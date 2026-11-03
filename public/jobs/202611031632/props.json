@@ -1,0 +1,89 @@
+{
+  "title": "Platypus Stomach Fact",
+  "accent": "#dc2626",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai ki platypus ke paas stomach hi nahi hota?",
+      "highlight": "stomach hi nahi",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦆",
+        "big": "NO STOMACH!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Inke andar khana seedha esophagus se intestines mein jata hai.",
+      "highlight": "seedha esophagus",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🥩",
+          "label": "Food"
+        },
+        "orbiter": {
+          "emoji": "🔄",
+          "label": "Direct"
+        },
+        "big": "No stop!"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Inki body mein pepsin proteases banane wale genes hi missing hote hain.",
+      "highlight": "genes hi missing",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧬",
+          "label": "Normal",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🧬",
+          "label": "Platypus",
+          "value": 0
+        },
+        "unit": "genes"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Is wajah se yeh bina stomach ke bhi aaram se zinda rehte hain.",
+      "highlight": "bina stomach ke",
+      "scene": {
+        "type": "fact",
+        "emoji": "🌊",
+        "big": "Surviving",
+        "small": "Without a stomach"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Inka digestive tract ek pouch-like section se nutrients absorb karta hai.",
+      "highlight": "pouch-like section",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "Pouch absorption!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Kya aapko yeh anokha fact pehle pata tha?",
+      "highlight": "pehle pata tha",
+      "scene": {
+        "type": "counter",
+        "emoji": "🤔",
+        "from": 0,
+        "to": 1,
+        "prefix": "#",
+        "suffix": "",
+        "label": "Comment below"
+      },
+      "durationInFrames": 104
+    }
+  ]
+}

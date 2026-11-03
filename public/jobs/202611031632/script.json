@@ -1,0 +1,101 @@
+{
+  "title": "Platypus Stomach Fact",
+  "idea": "Platypuses do not have a stomach, so food goes straight from the esophagus into the intestines.",
+  "lines": [
+    {
+      "text": "Kya aapko pata hai ki platypus ke paas stomach hi nahi hota?",
+      "highlight": "stomach hi nahi",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦆",
+        "big": "NO STOMACH!"
+      }
+    },
+    {
+      "text": "Inke andar khana seedha esophagus se intestines mein jata hai.",
+      "highlight": "seedha esophagus",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🥩",
+          "label": "Food"
+        },
+        "orbiter": {
+          "emoji": "🔄",
+          "label": "Direct"
+        },
+        "big": "No stop!"
+      }
+    },
+    {
+      "text": "Inki body mein pepsin proteases banane wale genes hi missing hote hain.",
+      "highlight": "genes hi missing",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧬",
+          "label": "Normal",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🧬",
+          "label": "Platypus",
+          "value": 0
+        },
+        "unit": "genes"
+      }
+    },
+    {
+      "text": "Is wajah se yeh bina stomach ke bhi aaram se zinda rehte hain.",
+      "highlight": "bina stomach ke",
+      "scene": {
+        "type": "fact",
+        "emoji": "🌊",
+        "big": "Surviving",
+        "small": "Without a stomach"
+      }
+    },
+    {
+      "text": "Inka digestive tract ek pouch-like section se nutrients absorb karta hai.",
+      "highlight": "pouch-like section",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "Pouch absorption!"
+      }
+    },
+    {
+      "text": "Kya aapko yeh anokha fact pehle pata tha?",
+      "highlight": "pehle pata tha",
+      "scene": {
+        "type": "counter",
+        "emoji": "🤔",
+        "from": 0,
+        "to": 1,
+        "prefix": "#",
+        "suffix": "",
+        "label": "Comment below"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Iss Anokhe Jaanwar Ke Paas Stomach Nahi Hota! 🤯 #shorts",
+    "description": "Kya aap jaante hain ki platypus ke paas stomach nahi hota? Khana seedha esophagus se intestines mein jata hai!\n\n#shorts #platypus #amazingfacts #wildlife #science",
+    "tags": [
+      "platypus",
+      "stomach",
+      "animal facts",
+      "wildlife",
+      "science facts",
+      "biology",
+      "interesting facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Platypus lacks a functional stomach",
+      "source": "https://en.wikipedia.org/wiki/Platypus"
+    }
+  ]
+}
