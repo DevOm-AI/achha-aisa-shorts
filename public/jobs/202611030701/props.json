@@ -1,0 +1,88 @@
+{
+  "title": "Giraffe Ki Gardan Ka Sabse Bada Dhoka! 🦒 #shorts",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Giraffe ki 2.4 meter lambi gardan mein ek zabardast raaz chupa hai!",
+      "highlight": "2.4 meter",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦒",
+        "big": "GIRAFFE KA RAAZ"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Itni lambi gardan hone ke bawajood isme sirf 7 neck bones hoti hain!",
+      "highlight": "sirf 7",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦒",
+          "label": "Giraffe Neck",
+          "value": 2.4
+        },
+        "right": {
+          "emoji": "🚶",
+          "label": "Human Neck",
+          "value": 0.1
+        },
+        "unit": "m"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Hairani ki baat hai ki insaan ke paas bhi wahi 7 bones hain!",
+      "highlight": "insaan",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦒",
+          "label": "Giraffe Bones",
+          "value": 7
+        },
+        "right": {
+          "emoji": "👤",
+          "label": "Human Bones",
+          "value": 7
+        },
+        "unit": "bones"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Bas Giraffe ki har ek bone 28 centimeter se bhi badi hoti hai!",
+      "highlight": "28 centimeter",
+      "scene": {
+        "type": "stack",
+        "emoji": "🦴",
+        "count": 7,
+        "label": "28 cm Neck Bones"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Itni unchai tak khoon pump karne ke liye iska dil 11 kg ka hai!",
+      "highlight": "11 kg",
+      "scene": {
+        "type": "fact",
+        "emoji": "🫀",
+        "big": "11 KG KA DIL",
+        "small": "Double Blood Pressure"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Kya aapne kabhi zoo mein Giraffe ko dekha hai? Comment mein batao!",
+      "highlight": "Comment mein",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SAME BONE COUNT!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
