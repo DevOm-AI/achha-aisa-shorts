@@ -1,0 +1,91 @@
+{
+  "title": "Golden Gate Bridge Ko Har Saal 10,000 Gallons Paint Kyun Lagta Hai? 🌉 #shorts",
+  "idea": "The Golden Gate Bridge is continuously painted using thousands of gallons of paint each year to protect it from the corrosive salt air.",
+  "lines": [
+    {
+      "text": "Golden Gate Bridge ko har saal paint karna padta hai!",
+      "highlight": "har saal paint",
+      "scene": {
+        "type": "hook",
+        "emoji": "🌉",
+        "big": "PAINT BRIDGE!"
+      }
+    },
+    {
+      "text": "Kya aapko pata hai ki isme 10,000 gallons paint lagta hai?",
+      "highlight": "10,000 gallons",
+      "scene": {
+        "type": "counter",
+        "emoji": "🎨",
+        "from": 0,
+        "to": 10000,
+        "prefix": "",
+        "suffix": " gal",
+        "label": "Annual paint used"
+      }
+    },
+    {
+      "text": "Yeh amazing bridge salt air se bachane ke liye rangaa jata hai.",
+      "highlight": "salt air",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌉",
+          "label": "Bridge"
+        },
+        "orbiter": {
+          "emoji": "🌊",
+          "label": "Salt Air"
+        },
+        "big": "Protected!"
+      }
+    },
+    {
+      "text": "Iska iconic international orange color ise fog mein bhi dikhata hai.",
+      "highlight": "orange color",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🎨",
+        "big": "Orange Glow!"
+      }
+    },
+    {
+      "text": "Itna bada maintenance kaam dunya mein shayad hi kahin hota hai!",
+      "highlight": "maintenance kaam",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "Never Ends!"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi yeh bridge apni aankhon se dekha hai?",
+      "highlight": "apni aankhon",
+      "scene": {
+        "type": "reveal",
+        "emoji": "👀",
+        "big": "Seen It?"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Golden Gate Bridge Ki Yeh Hairaan Karne Wali Baat Jaante Ho? 🌉 #shorts",
+    "description": "Jaanhiye Golden Gate Bridge ke baare mein ek aisi hairangeez baat jo aapko hairaan kar degi! Har saal isko paint karne mein lagte hain hazaaron gallons.\n\n#goldengate #bridge #facts #engineering #shorts",
+    "tags": [
+      "Golden Gate Bridge",
+      "Bridge Facts",
+      "Engineering Marvels",
+      "San Francisco",
+      "Paint Fact",
+      "Amazing Facts",
+      "Hinglish Shorts",
+      "Travel Facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The bridge is painted continuously, requiring approximately 10,000 gallons of paint each year to protect it from the corrosive salt air.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge"
+    }
+  ]
+}
