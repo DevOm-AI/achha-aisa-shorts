@@ -222,11 +222,16 @@
       "createdAt": 1793781690366
     },
     "202611041305": {
-      "status": "awaiting_approval",
+      "status": "uploaded",
       "title": "Golden Gate Bridge Ko Har Saal 10,000 Gallons Paint Kyun Lagta Hai? 🌉 #shorts",
       "createdAt": 1793797519604,
-      "finalRun": "41837052211"
+      "finalRun": "41837052211",
+      "youtube": {
+        "id": "p5TrMvo8rA4",
+        "url": "https://youtube.com/shorts/p5TrMvo8rA4",
+        "privacy": "public"
+      }
     }
   },
-  "activeJob": "202611041305"
+  "activeJob": null
 }
