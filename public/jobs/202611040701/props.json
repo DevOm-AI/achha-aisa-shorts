@@ -1,0 +1,94 @@
+{
+  "title": "Blue-ringed Octopus Venom Fact",
+  "accent": "#db2777",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Samundar ki yeh choti si makhluk pal bhar mein jaan le sakti hai!",
+      "highlight": "choti si makhluk",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐙",
+        "big": "CHOTA OCTOPUS!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Iske paas itna zeher hai ki 20 se zyada logon ki jaan le le.",
+      "highlight": "20 se zyada",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐙",
+          "label": "Octopus",
+          "value": 1
+        },
+        "right": {
+          "emoji": "👤",
+          "label": "Humans",
+          "value": 20
+        },
+        "unit": "log"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Yeh khatarnak zeher sirf kuch hi minutes mein asar dikhata hai.",
+      "highlight": "kuch hi minutes",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "⏱️",
+          "label": "Minutes",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🏃",
+          "label": "Venom",
+          "value": 60
+        },
+        "unit": "min"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Hairani ki baat yeh hai ki iska koi antivenom hi nahi hai!",
+      "highlight": "koi antivenom nahi",
+      "scene": {
+        "type": "fact",
+        "emoji": "❌",
+        "big": "NO ANTIVENOM",
+        "small": "Zero ilaaj available"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapko pata hai iske ring ka rang badalta hai?",
+      "highlight": "rang badalta hai",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🐙",
+          "label": "Octopus"
+        },
+        "orbiter": {
+          "emoji": "🔵",
+          "label": "Rings"
+        },
+        "big": "Color Change"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Kya aap kabhi aise khatarnak samundari jeev ke saamne gaye ho?",
+      "highlight": "khatarnak jeev",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "FATAL BITE!"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
