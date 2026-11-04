@@ -1,0 +1,91 @@
+{
+  "title": "Dunia Ka Sabse Tez Jaanwar! 🦅 #shorts",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Duniya ka sabse tez jaanwar cheetah nahi, balki ek anokha pakshi hai!",
+      "highlight": "sabse tez jaanwar",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦅",
+        "big": "WORLD'S FASTEST!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Peregrine Falcon shikaar ke waqt 389 km/h ki speed se dive maarta hai!",
+      "highlight": "389 km/h",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🐆",
+          "label": "Cheetah",
+          "value": 120
+        },
+        "right": {
+          "emoji": "🦅",
+          "label": "Falcon",
+          "value": 389
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Tez hawa mein saans lene ke liye iski naak mein khas bony structures hain!",
+      "highlight": "bony structures",
+      "scene": {
+        "type": "fact",
+        "emoji": "👃",
+        "big": "BONY NOSTRILS",
+        "small": "Guides airflow when diving"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Iske aankhon ke neeche ka kaala patch dhoop ki glare ko kam karta hai!",
+      "highlight": "kaala patch",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "☀️",
+          "label": "Sunlight Glare",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦅",
+          "label": "Falcon Vision",
+          "value": 20
+        },
+        "unit": "%"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Yeh 129 Hz ki flicker frequency se hyper-fast movement bhi saaf dekh sakta hai!",
+      "highlight": "129 Hz",
+      "scene": {
+        "type": "counter",
+        "emoji": "👁️",
+        "from": 0,
+        "to": 129,
+        "prefix": "",
+        "suffix": " Hz",
+        "label": "Flicker Speed"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Kya aapko pata tha ki ek pakshi itna tez ud sakta hai? Comment karo!",
+      "highlight": "tez ud sakta hai",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "389 KM/H DIVE!"
+      },
+      "durationInFrames": 169
+    }
+  ]
+}

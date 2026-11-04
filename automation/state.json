@@ -212,10 +212,15 @@
       "createdAt": 1793726215410
     },
     "202611040701": {
-      "status": "awaiting_voice",
+      "status": "discarded",
       "title": "Blue-ringed Octopus Venom Fact",
       "createdAt": 1793775690248
+    },
+    "202611040841": {
+      "status": "awaiting_voice",
+      "title": "Dunia Ka Sabse Tez Jaanwar! 🦅 #shorts",
+      "createdAt": 1793781690366
     }
   },
-  "activeJob": "202611040701"
+  "activeJob": "202611040841"
 }
