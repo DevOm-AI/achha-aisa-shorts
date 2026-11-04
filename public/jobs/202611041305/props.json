@@ -1,8 +1,8 @@
 {
   "title": "Golden Gate Bridge Ko Har Saal 10,000 Gallons Paint Kyun Lagta Hai? 🌉 #shorts",
   "accent": "#dc2626",
-  "voice": null,
-  "voiceTrimBefore": 0,
+  "voice": "jobs/202611041305/voice.wav",
+  "voiceTrimBefore": 6,
   "lines": [
     {
       "text": "Golden Gate Bridge ko har saal paint karna padta hai!",
@@ -12,7 +12,17 @@
         "emoji": "🌉",
         "big": "PAINT BRIDGE!"
       },
-      "durationInFrames": 126
+      "durationInFrames": 108,
+      "speech": [
+        [
+          5,
+          44
+        ],
+        [
+          52,
+          96
+        ]
+      ]
     },
     {
       "text": "Kya aapko pata hai ki isme 10,000 gallons paint lagta hai?",
@@ -26,7 +36,21 @@
         "suffix": " gal",
         "label": "Annual paint used"
       },
-      "durationInFrames": 137
+      "durationInFrames": 117,
+      "speech": [
+        [
+          0,
+          36
+        ],
+        [
+          41,
+          79
+        ],
+        [
+          85,
+          103
+        ]
+      ]
     },
     {
       "text": "Yeh amazing bridge salt air se bachane ke liye rangaa jata hai.",
@@ -43,7 +67,17 @@
         },
         "big": "Protected!"
       },
-      "durationInFrames": 148
+      "durationInFrames": 137,
+      "speech": [
+        [
+          0,
+          32
+        ],
+        [
+          40,
+          120
+        ]
+      ]
     },
     {
       "text": "Iska iconic international orange color ise fog mein bhi dikhata hai.",
@@ -53,7 +87,13 @@
         "emoji": "🎨",
         "big": "Orange Glow!"
       },
-      "durationInFrames": 137
+      "durationInFrames": 136,
+      "speech": [
+        [
+          0,
+          119
+        ]
+      ]
     },
     {
       "text": "Itna bada maintenance kaam dunya mein shayad hi kahin hota hai!",
@@ -63,7 +103,17 @@
         "emoji": "🤯",
         "big": "Never Ends!"
       },
-      "durationInFrames": 137
+      "durationInFrames": 129,
+      "speech": [
+        [
+          0,
+          62
+        ],
+        [
+          72,
+          113
+        ]
+      ]
     },
     {
       "text": "Kya aapne kabhi yeh bridge apni aankhon se dekha hai?",
@@ -73,7 +123,13 @@
         "emoji": "👀",
         "big": "Seen It?"
       },
-      "durationInFrames": 126
+      "durationInFrames": 100,
+      "speech": [
+        [
+          0,
+          73
+        ]
+      ]
     }
   ]
 }
