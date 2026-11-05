@@ -1,0 +1,114 @@
+{
+  "title": "Taj Mahal Minarets Secret",
+  "idea": "The Taj Mahal's minarets were deliberately constructed tilting outward so that they fall away from the main tomb during an earthquake.",
+  "lines": [
+    {
+      "text": "Taj Mahal ke chaar meenarein seedhi nahi, balki thodi teedhi hain!",
+      "highlight": "thodi teedhi",
+      "scene": {
+        "type": "hook",
+        "emoji": "🕌",
+        "big": "TEEDHI MEENAREIN?"
+      }
+    },
+    {
+      "text": "Ye chaar meenarein 40 meter se bhi zyada lambi hain.",
+      "highlight": "40 meter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧍",
+          "label": "Insaan",
+          "value": 2
+        },
+        "right": {
+          "emoji": "🕌",
+          "label": "Meenar",
+          "value": 40
+        },
+        "unit": "m"
+      }
+    },
+    {
+      "text": "Isse banane mein 20,000 se zyada majdooron ne kaam kiya tha!",
+      "highlight": "20,000 majdooron",
+      "scene": {
+        "type": "counter",
+        "emoji": "👷",
+        "from": 0,
+        "to": 20000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Total Workers"
+      }
+    },
+    {
+      "text": "Marble mein 28 alag tarah ke keemti patthar jade gaye the!",
+      "highlight": "28 patthar",
+      "scene": {
+        "type": "stack",
+        "emoji": "💎",
+        "count": 28,
+        "label": "Keemti Patthar"
+      }
+    },
+    {
+      "text": "Bhookamp aane par meenarein bahar girengi, mukhya maqbare par nahi!",
+      "highlight": "bahar girengi",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "DESIGN SECRET!"
+      }
+    },
+    {
+      "text": "Kya aapko Taj Mahal ka ye hidden secret pata tha? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "💬",
+            "text": "Haan Pata Tha"
+          },
+          {
+            "emoji": "😲",
+            "text": "Pehli Baar Suna"
+          }
+        ]
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Taj Mahal Ki Meenarein Teedhi Kyun Hain? 🕌 #shorts",
+    "description": "Taj Mahal ke meenaron ka secret structure aur amazing architectural facts. Kya aapko pata tha ki bhookamp se bachne ke liye inhein teedha banaya gaya tha?\n\n#TajMahal #MindBlowingFacts #HinglishFacts #Architecture #Shorts",
+    "tags": [
+      "Taj Mahal",
+      "Taj Mahal Facts",
+      "Architecture Facts",
+      "Amazing Facts",
+      "Hinglish Shorts",
+      "Shah Jahan",
+      "India Facts",
+      "History Facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The minarets were constructed slightly oriented towards the outside so that in a collapse, material falls away from the tomb.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "claim": "Each of the four minarets is more than 40 metres tall.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "claim": "More than 20,000 workers were employed in construction.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "claim": "28 types of precious and semi-precious stone were inlaid into the white marble.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    }
+  ]
+}

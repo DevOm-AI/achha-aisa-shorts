@@ -1,0 +1,90 @@
+{
+  "title": "Taj Mahal Minarets Secret",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Taj Mahal ke chaar meenarein seedhi nahi, balki thodi teedhi hain!",
+      "highlight": "thodi teedhi",
+      "scene": {
+        "type": "hook",
+        "emoji": "🕌",
+        "big": "TEEDHI MEENAREIN?"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Ye chaar meenarein 40 meter se bhi zyada lambi hain.",
+      "highlight": "40 meter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧍",
+          "label": "Insaan",
+          "value": 2
+        },
+        "right": {
+          "emoji": "🕌",
+          "label": "Meenar",
+          "value": 40
+        },
+        "unit": "m"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Isse banane mein 20,000 se zyada majdooron ne kaam kiya tha!",
+      "highlight": "20,000 majdooron",
+      "scene": {
+        "type": "counter",
+        "emoji": "👷",
+        "from": 0,
+        "to": 20000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Total Workers"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Marble mein 28 alag tarah ke keemti patthar jade gaye the!",
+      "highlight": "28 patthar",
+      "scene": {
+        "type": "stack",
+        "emoji": "💎",
+        "count": 28,
+        "label": "Keemti Patthar"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Bhookamp aane par meenarein bahar girengi, mukhya maqbare par nahi!",
+      "highlight": "bahar girengi",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "DESIGN SECRET!"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Kya aapko Taj Mahal ka ye hidden secret pata tha? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "💬",
+            "text": "Haan Pata Tha"
+          },
+          {
+            "emoji": "😲",
+            "text": "Pehli Baar Suna"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
