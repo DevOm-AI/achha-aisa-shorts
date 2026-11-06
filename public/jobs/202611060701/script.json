@@ -1,0 +1,118 @@
+{
+  "title": "Mantis Shrimp Ka Bullet Punch 🥊 #shorts",
+  "idea": "The Mantis Shrimp strikes its prey with a bullet-fast punch reaching speeds of 83 km/h and 1,500 Newtons of force.",
+  "lines": [
+    {
+      "text": "Samundar ka yeh chhota sa keda goli jitni speed se punch marta hai!",
+      "highlight": "goli jitni speed",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦐",
+        "big": "BULLET FAST PUNCH!"
+      }
+    },
+    {
+      "text": "Peacock Mantis Shrimp ka punch 83 km/h ki speed se nikalta hai!",
+      "highlight": "83 km/h",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🦐",
+          "label": "Shrimp Punch",
+          "value": 83
+        },
+        "right": {
+          "emoji": "🏃",
+          "label": "Insan Run",
+          "value": 45
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Yeh chhota sa claw 1500 Newton ki taakat se shikar ko todta hai!",
+      "highlight": "1500 Newton",
+      "scene": {
+        "type": "counter",
+        "emoji": "💥",
+        "from": 0,
+        "to": 1500,
+        "prefix": "",
+        "suffix": " N",
+        "label": "Punch Force"
+      }
+    },
+    {
+      "text": "Iska punch pani me itni tez hai ki do baar blast hota hai!",
+      "highlight": "do baar blast",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🥊",
+            "text": "Pahla Hit: Claw"
+          },
+          {
+            "emoji": "🫧",
+            "text": "Doosra Hit: Bubble"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Insan ke paas 4 photoreceptors hain, par iske paas poore 16 hain!",
+      "highlight": "16 photoreceptors",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "👁️",
+          "label": "Insan",
+          "value": 4
+        },
+        "right": {
+          "emoji": "🦐",
+          "label": "Mantis Shrimp",
+          "value": 16
+        },
+        "unit": "types"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi itna khatarnak samundari jaanwar dekha tha? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "WORLD'S FASTEST!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Mantis Shrimp Ka Punch Goli Se Bhi Tez? 🥊 #shorts",
+    "description": "Mantis Shrimp samundar ka sabse deadly hunter hai jiska punch 83 km/h ki speed aur 1500 Newton force se lagta hai! 🦐💥\n\n#mantisshrimp #oceanlife #mindblowingfacts #sciencefacts #shorts",
+    "tags": [
+      "mantis shrimp",
+      "mantis shrimp punch",
+      "ocean facts",
+      "fastest punch",
+      "peacock mantis shrimp",
+      "mind blowing facts",
+      "hinglish facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The peacock mantis shrimp strikes at speeds of 83 km/h.",
+      "source": "https://en.wikipedia.org/wiki/Mantis_shrimp"
+    },
+    {
+      "claim": "The impact delivers an instantaneous force of 1,500 newtons.",
+      "source": "https://en.wikipedia.org/wiki/Mantis_shrimp"
+    },
+    {
+      "claim": "Mantis shrimp have 16 photoreceptor types while humans have 4.",
+      "source": "https://en.wikipedia.org/wiki/Mantis_shrimp"
+    }
+  ]
+}
