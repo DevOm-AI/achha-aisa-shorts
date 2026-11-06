@@ -1,0 +1,82 @@
+{
+  "title": "Koala Ke Fingerprints Insanon Jaise Hain! 🐨 #shorts",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai koala ke fingerprints insano se match karte hain?",
+      "highlight": "fingerprints",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐨",
+        "big": "KOALA FINGERPRINTS"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Science kehti hai inki lines itni similar hain ki forensic experts bhi dhokha kha jaate hain.",
+      "highlight": "experts",
+      "scene": {
+        "type": "fact",
+        "emoji": "🔍",
+        "big": "Crime Scene",
+        "small": "Confused at crime scenes"
+      },
+      "durationInFrames": 191
+    },
+    {
+      "text": "Yahan tak ki crime scenes par police inhein insani nishan samajh kar confuse ho chuki hai.",
+      "highlight": "crime scenes",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "Human Match"
+      },
+      "durationInFrames": 191
+    },
+    {
+      "text": "Jabki yeh pyare se animals din mein 20 ghante sirf sote hain.",
+      "highlight": "20 ghante",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏰",
+        "from": 0,
+        "to": 20,
+        "prefix": "",
+        "suffix": "h",
+        "label": "sleep per day"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Inka dimaag bhi baaki mammals ke mukable 60% chota hota hai.",
+      "highlight": "60% chota",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧠",
+          "label": "Koala",
+          "value": 40
+        },
+        "right": {
+          "emoji": "🧠",
+          "label": "Others",
+          "value": 100
+        },
+        "unit": "%"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Kya aapko lagta hai inka yeh secret koi nayi saazish hai?",
+      "highlight": "saazish",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🕵️",
+        "big": "True Secret"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}

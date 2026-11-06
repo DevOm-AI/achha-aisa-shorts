@@ -1,0 +1,102 @@
+{
+  "title": "Koala Ke Fingerprints Insanon Jaise Hain! 🐨 #shorts",
+  "idea": "Koala fingerprints are so similar to human fingerprints that they have occasionally been confused at crime scenes.",
+  "lines": [
+    {
+      "text": "Kya aapko pata hai koala ke fingerprints insano se match karte hain?",
+      "highlight": "fingerprints",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐨",
+        "big": "KOALA FINGERPRINTS"
+      }
+    },
+    {
+      "text": "Science kehti hai inki lines itni similar hain ki forensic experts bhi dhokha kha jaate hain.",
+      "highlight": "experts",
+      "scene": {
+        "type": "fact",
+        "emoji": "🔍",
+        "big": "Crime Scene",
+        "small": "Confused at crime scenes"
+      }
+    },
+    {
+      "text": "Yahan tak ki crime scenes par police inhein insani nishan samajh kar confuse ho chuki hai.",
+      "highlight": "crime scenes",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "Human Match"
+      }
+    },
+    {
+      "text": "Jabki yeh pyare se animals din mein 20 ghante sirf sote hain.",
+      "highlight": "20 ghante",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏰",
+        "from": 0,
+        "to": 20,
+        "prefix": "",
+        "suffix": "h",
+        "label": "sleep per day"
+      }
+    },
+    {
+      "text": "Inka dimaag bhi baaki mammals ke mukable 60% chota hota hai.",
+      "highlight": "60% chota",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧠",
+          "label": "Koala",
+          "value": 40
+        },
+        "right": {
+          "emoji": "🧠",
+          "label": "Others",
+          "value": 100
+        },
+        "unit": "%"
+      }
+    },
+    {
+      "text": "Kya aapko lagta hai inka yeh secret koi nayi saazish hai?",
+      "highlight": "saazish",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🕵️",
+        "big": "True Secret"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Koala Ke Fingerprints Insanon Jaise Hain! 🐨 #shorts",
+    "description": "Kya aapko pata hai koala ke fingerprints insano se itne milte hain ki crime scene par confusion ho sakti hai? Janiye yeh hairani bhara sach!\n\n#koala #facts #animals #crime #shorts",
+    "tags": [
+      "koala",
+      "koala facts",
+      "fingerprints",
+      "animal facts",
+      "science",
+      "forensic",
+      "interesting facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Koala fingerprints are remarkably similar to human fingerprints",
+      "source": "https://en.wikipedia.org/wiki/Koala"
+    },
+    {
+      "claim": "Koalas sleep up to twenty hours a day",
+      "source": "https://en.wikipedia.org/wiki/Koala"
+    },
+    {
+      "claim": "Koala brain is 60% smaller than that of a typical diprotodont",
+      "source": "https://en.wikipedia.org/wiki/Koala"
+    }
+  ]
+}
