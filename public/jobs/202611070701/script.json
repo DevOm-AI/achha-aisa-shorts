@@ -1,0 +1,123 @@
+{
+  "title": "Sloth Paani Mein 40 Min Saans Kaise Rokta Hai? 🦥 #shorts",
+  "idea": "Sloths can slow their heart rate to one-third of normal speed to hold their breath underwater for up to 40 minutes.",
+  "lines": [
+    {
+      "text": "Kya aapko pata hai Sloth paani ke andar 40 minute saans rok sakta hai?",
+      "highlight": "40 minute saans",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦥",
+        "big": "40 MIN SAANS!"
+      }
+    },
+    {
+      "text": "Sloth paani mein apna heart rate ek-tihai tak kam kar leta hai.",
+      "highlight": "heart rate",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "❤️",
+          "label": "Normal Heart",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦥",
+          "label": "Sloth Heart",
+          "value": 33
+        },
+        "unit": "bpm"
+      }
+    },
+    {
+      "text": "Zameen par dheema Sloth, paani mein chaar guna tez tairta hai!",
+      "highlight": "chaar guna tez",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🦥",
+          "label": "Zameen Speed",
+          "value": 3
+        },
+        "right": {
+          "emoji": "🏊",
+          "label": "Paani Speed",
+          "value": 13
+        },
+        "unit": "m/min"
+      }
+    },
+    {
+      "text": "Aur ise ek baar ka khana pachane mein poora 1 mahina lagta hai!",
+      "highlight": "1 mahina",
+      "scene": {
+        "type": "stack",
+        "emoji": "📅",
+        "count": 30,
+        "label": "Khana Pachane Ke Din"
+      }
+    },
+    {
+      "text": "Hazaron saal pehle Sloth ka size ek bade haathi jitna hota tha!",
+      "highlight": "haathi jitna",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🦥",
+            "label": "Aaj Ka Sloth"
+          },
+          {
+            "emoji": "🐘",
+            "label": "Purana Sloth"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Kya aapko Sloth ki yeh underwater superpower pata thi? Comment mein batao!",
+      "highlight": "underwater superpower",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER SLOTH!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Sloth Paani Mein 40 Min Saans Kaise Rokta Hai? 🦥 #shorts",
+    "description": "Duniya ka sabse aalsi jaanwar Sloth underwater 40 minute tak saans rok sakta hai! Jaaniye Sloth ke baare mein kuch aise facts jo aapko hairan kar denge.\n\n#sloth #wildlife #amazingfacts #hinglish #shorts",
+    "tags": [
+      "sloth facts",
+      "sloth swimming",
+      "mind blowing facts",
+      "hinglish facts",
+      "animal facts",
+      "shorts",
+      "sloth holding breath",
+      "weird animals"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Sloths can slow their heart rate to less than a third of normal to hold breath underwater for up to 40 minutes.",
+      "source": "https://en.wikipedia.org/wiki/Sloth"
+    },
+    {
+      "claim": "On the ground maximum speed is 3 m per minute.",
+      "source": "https://en.wikipedia.org/wiki/Sloth"
+    },
+    {
+      "claim": "Sloths swim at speeds up to 13.5 m per minute.",
+      "source": "https://en.wikipedia.org/wiki/Sloth"
+    },
+    {
+      "claim": "Digestive process can take a month or more.",
+      "source": "https://en.wikipedia.org/wiki/Sloth"
+    },
+    {
+      "claim": "Ancient sloths reached sizes of elephants.",
+      "source": "https://en.wikipedia.org/wiki/Sloth"
+    }
+  ]
+}

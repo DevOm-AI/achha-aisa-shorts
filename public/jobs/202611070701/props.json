@@ -1,0 +1,95 @@
+{
+  "title": "Sloth Paani Mein 40 Min Saans Kaise Rokta Hai? 🦥 #shorts",
+  "accent": "#9333ea",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai Sloth paani ke andar 40 minute saans rok sakta hai?",
+      "highlight": "40 minute saans",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦥",
+        "big": "40 MIN SAANS!"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Sloth paani mein apna heart rate ek-tihai tak kam kar leta hai.",
+      "highlight": "heart rate",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "❤️",
+          "label": "Normal Heart",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦥",
+          "label": "Sloth Heart",
+          "value": 33
+        },
+        "unit": "bpm"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Zameen par dheema Sloth, paani mein chaar guna tez tairta hai!",
+      "highlight": "chaar guna tez",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🦥",
+          "label": "Zameen Speed",
+          "value": 3
+        },
+        "right": {
+          "emoji": "🏊",
+          "label": "Paani Speed",
+          "value": 13
+        },
+        "unit": "m/min"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Aur ise ek baar ka khana pachane mein poora 1 mahina lagta hai!",
+      "highlight": "1 mahina",
+      "scene": {
+        "type": "stack",
+        "emoji": "📅",
+        "count": 30,
+        "label": "Khana Pachane Ke Din"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Hazaron saal pehle Sloth ka size ek bade haathi jitna hota tha!",
+      "highlight": "haathi jitna",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🦥",
+            "label": "Aaj Ka Sloth"
+          },
+          {
+            "emoji": "🐘",
+            "label": "Purana Sloth"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapko Sloth ki yeh underwater superpower pata thi? Comment mein batao!",
+      "highlight": "underwater superpower",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER SLOTH!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
