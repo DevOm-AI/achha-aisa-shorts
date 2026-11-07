@@ -1,0 +1,90 @@
+{
+  "title": "Platypus UV Light Biofluorescence Secret",
+  "accent": "#9333ea",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai ki platypus andhere mein chamakta hai?",
+      "highlight": "chamakta hai",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦦",
+        "big": "CHAMAKTA HAI!"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Yeh anokha jeev ultraviolet light ke neeche striking blue-green color mein glow karta hai.",
+      "highlight": "blue-green",
+      "scene": {
+        "type": "reveal",
+        "emoji": "💡",
+        "big": "BLUE-GREEN GLOW!"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Inke is unique fur ki biofluorescence scientist ko bhi hairan kar deti hai.",
+      "highlight": "biofluorescence",
+      "scene": {
+        "type": "fact",
+        "emoji": "🔬",
+        "big": "BIOFLUORESCENCE",
+        "small": "Striking fur feature"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Inke is chote se waterproof body par dense brown fur hota hai.",
+      "highlight": "dense brown fur",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🟫",
+            "label": "Brown"
+          },
+          {
+            "emoji": "🦦",
+            "label": "Fur"
+          },
+          {
+            "emoji": "💧",
+            "label": "Waterproof"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Inka yeh hair coat aur fur predators se bachne ke liye madad karta hai.",
+      "highlight": "predators se bachne",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦦",
+          "label": "Platypus",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🦅",
+          "label": "Predator",
+          "value": 10
+        },
+        "unit": "x"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Kya aapne kabhi kisi aise anokhe mammal ko dekha hai? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "💬",
+        "big": "COMMENT NOW!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
