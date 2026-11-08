@@ -1,0 +1,111 @@
+{
+  "title": "Hummingbird Ka Dil Kitna Tez Dhadakta Hai? 🐦 #shorts",
+  "idea": "A hummingbird's heart can beat up to 1,260 beats per minute, burning massive energy compared to humans.",
+  "lines": [
+    {
+      "text": "Hummingbird ka dil ek minute mein 1,260 baar dhadak sakta hai!",
+      "highlight": "1,260 baar",
+      "scene": {
+        "type": "hook",
+        "emoji": "💓",
+        "big": "1260 BPM DIL!"
+      }
+    },
+    {
+      "text": "Ek insaan ka dil rest par sirf 70 baar dhadakta hai.",
+      "highlight": "70 baar",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧍",
+          "label": "Insaan Dil",
+          "value": 70
+        },
+        "right": {
+          "emoji": "🐦",
+          "label": "Hummingbird",
+          "value": 1260
+        },
+        "unit": "BPM"
+      }
+    },
+    {
+      "text": "Yani ye nanhi chidiya har second 21 baar dhadakti hai!",
+      "highlight": "21 baar",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 21,
+        "prefix": "",
+        "suffix": "/sec",
+        "label": "Dhadkan Har Second"
+      }
+    },
+    {
+      "text": "Iske pankh bhi ek second mein 99 baar phadphadate hain!",
+      "highlight": "99 baar",
+      "scene": {
+        "type": "stack",
+        "emoji": "🪶",
+        "count": 99,
+        "label": "Wing Flaps Per Second"
+      }
+    },
+    {
+      "text": "Ye chidiya ek marathon runner se 10 guna zyada energy kharch karti hai!",
+      "highlight": "10 guna",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🏃",
+          "label": "Marathoner",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐦",
+          "label": "Hummingbird",
+          "value": 10
+        },
+        "unit": "x energy"
+      }
+    },
+    {
+      "text": "Kya aapka dil kabhi itna tez dhadka hai? Comment mein batao!",
+      "highlight": "tez dhadka",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER FAST HEART!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Hummingbird Ka Dil Kitna Tez Dhadakta Hai? 🐦 #shorts",
+    "description": "Kya aapko pata hai ki hummingbird ka dil 1 minute mein 1,260 baar dhadak sakta hai? Jaaniye is choti chidiya ke baare mein mind-blowing facts!\n\n#hummingbird #facts #mindblowingfacts #hinglish #shorts",
+    "tags": [
+      "hummingbird",
+      "hummingbird heart rate",
+      "birds facts",
+      "fastest heart beat",
+      "animal facts",
+      "mind blowing facts",
+      "science facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The heart rate of hummingbirds can reach as high as 1,260 beats per minute.",
+      "source": "https://en.wikipedia.org/wiki/Hummingbird"
+    },
+    {
+      "claim": "Hummingbird wing-beat frequency can reach 99 per second.",
+      "source": "https://en.wikipedia.org/wiki/Hummingbird"
+    },
+    {
+      "claim": "Hummingbirds expend 10 times the energy of a marathon runner.",
+      "source": "https://en.wikipedia.org/wiki/Hummingbird"
+    }
+  ]
+}

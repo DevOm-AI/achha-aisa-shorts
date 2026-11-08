@@ -1,0 +1,91 @@
+{
+  "title": "Hummingbird Ka Dil Kitna Tez Dhadakta Hai? 🐦 #shorts",
+  "accent": "#ea580c",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Hummingbird ka dil ek minute mein 1,260 baar dhadak sakta hai!",
+      "highlight": "1,260 baar",
+      "scene": {
+        "type": "hook",
+        "emoji": "💓",
+        "big": "1260 BPM DIL!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Ek insaan ka dil rest par sirf 70 baar dhadakta hai.",
+      "highlight": "70 baar",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧍",
+          "label": "Insaan Dil",
+          "value": 70
+        },
+        "right": {
+          "emoji": "🐦",
+          "label": "Hummingbird",
+          "value": 1260
+        },
+        "unit": "BPM"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Yani ye nanhi chidiya har second 21 baar dhadakti hai!",
+      "highlight": "21 baar",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 21,
+        "prefix": "",
+        "suffix": "/sec",
+        "label": "Dhadkan Har Second"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Iske pankh bhi ek second mein 99 baar phadphadate hain!",
+      "highlight": "99 baar",
+      "scene": {
+        "type": "stack",
+        "emoji": "🪶",
+        "count": 99,
+        "label": "Wing Flaps Per Second"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Ye chidiya ek marathon runner se 10 guna zyada energy kharch karti hai!",
+      "highlight": "10 guna",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🏃",
+          "label": "Marathoner",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐦",
+          "label": "Hummingbird",
+          "value": 10
+        },
+        "unit": "x energy"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Kya aapka dil kabhi itna tez dhadka hai? Comment mein batao!",
+      "highlight": "tez dhadka",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER FAST HEART!"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
