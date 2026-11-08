@@ -1,0 +1,101 @@
+{
+  "title": "Sperm Whale: Prithvi Ka Sabse Loud Jaanwar! 🐋 #shorts",
+  "accent": "#ea580c",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Duniya ka sabse loud jaanwar koi sher nahi, Sperm Whale hai!",
+      "highlight": "Sperm Whale",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐋",
+        "big": "LOUDEST ANIMAL!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Yeh underwater 236 decibels tak tez aawaz nikal sakti hai!",
+      "highlight": "236 decibels",
+      "scene": {
+        "type": "counter",
+        "emoji": "🔊",
+        "from": 0,
+        "to": 236,
+        "prefix": "",
+        "suffix": " dB",
+        "label": "Underwater Sound Level"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Iska dimaag insani dimaag se 5 guna zyada bhari hota hai!",
+      "highlight": "5 guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧠",
+          "label": "Human Brain",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐋",
+          "label": "Whale Brain",
+          "value": 5
+        },
+        "unit": "x"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Yeh samundar mein 2250 meters ki gehraai tak dive karti hai!",
+      "highlight": "2250 meters",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🏊",
+            "label": "Surface"
+          },
+          {
+            "emoji": "🤿",
+            "label": "Deep Sea"
+          },
+          {
+            "emoji": "🐋",
+            "label": "2250m Depth"
+          }
+        ]
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Itni tez aawaz ke saath yeh prithvi ki sabse loud creature hai!",
+      "highlight": "sabse loud",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "WORLD'S LOUDEST!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapne Sperm Whale ki yeh khasiyat suni thi? Comment mein batao!",
+      "highlight": "Comment mein",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🎧",
+            "text": "Loudest Sound"
+          },
+          {
+            "emoji": "💬",
+            "text": "Comment Below"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    }
+  ]
+}

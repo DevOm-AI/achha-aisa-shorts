@@ -1,0 +1,121 @@
+{
+  "title": "Sperm Whale: Prithvi Ka Sabse Loud Jaanwar! 🐋 #shorts",
+  "idea": "Explaining that Sperm Whales produce up to 236 dB sound underwater, making them the loudest animals on Earth.",
+  "lines": [
+    {
+      "text": "Duniya ka sabse loud jaanwar koi sher nahi, Sperm Whale hai!",
+      "highlight": "Sperm Whale",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐋",
+        "big": "LOUDEST ANIMAL!"
+      }
+    },
+    {
+      "text": "Yeh underwater 236 decibels tak tez aawaz nikal sakti hai!",
+      "highlight": "236 decibels",
+      "scene": {
+        "type": "counter",
+        "emoji": "🔊",
+        "from": 0,
+        "to": 236,
+        "prefix": "",
+        "suffix": " dB",
+        "label": "Underwater Sound Level"
+      }
+    },
+    {
+      "text": "Iska dimaag insani dimaag se 5 guna zyada bhari hota hai!",
+      "highlight": "5 guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧠",
+          "label": "Human Brain",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐋",
+          "label": "Whale Brain",
+          "value": 5
+        },
+        "unit": "x"
+      }
+    },
+    {
+      "text": "Yeh samundar mein 2250 meters ki gehraai tak dive karti hai!",
+      "highlight": "2250 meters",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🏊",
+            "label": "Surface"
+          },
+          {
+            "emoji": "🤿",
+            "label": "Deep Sea"
+          },
+          {
+            "emoji": "🐋",
+            "label": "2250m Depth"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Itni tez aawaz ke saath yeh prithvi ki sabse loud creature hai!",
+      "highlight": "sabse loud",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "WORLD'S LOUDEST!"
+      }
+    },
+    {
+      "text": "Kya aapne Sperm Whale ki yeh khasiyat suni thi? Comment mein batao!",
+      "highlight": "Comment mein",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🎧",
+            "text": "Loudest Sound"
+          },
+          {
+            "emoji": "💬",
+            "text": "Comment Below"
+          }
+        ]
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Sperm Whale: Prithvi Ka Sabse Loud Jaanwar! 🐋 #shorts",
+    "description": "Kya aapko pata hai Sperm Whale underwater 236 decibels ki aawaz nikal sakti hai? Yeh duniya ka sabse loud animal hai! Aise hi mind-blowing facts ke liye channel ko subscribe karein.\n\n#shorts #spermwhale #oceanfacts #mindblowingfacts #hinglishfacts",
+    "tags": [
+      "sperm whale",
+      "loudest animal",
+      "ocean facts",
+      "whale facts",
+      "mind blowing facts",
+      "hinglish shorts",
+      "animal facts",
+      "deep sea creatures"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Sperm whales emit sound up to 236 decibels underwater, making them the loudest animal.",
+      "source": "https://en.wikipedia.org/wiki/Sperm_whale"
+    },
+    {
+      "claim": "Sperm whale has a brain more than five times heavier than a human brain.",
+      "source": "https://en.wikipedia.org/wiki/Sperm_whale"
+    },
+    {
+      "claim": "Sperm whales dive to depths of 2,250 metres.",
+      "source": "https://en.wikipedia.org/wiki/Sperm_whale"
+    }
+  ]
+}
