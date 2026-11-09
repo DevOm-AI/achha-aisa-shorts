@@ -1,0 +1,88 @@
+{
+  "title": "Ostrich Ki Sabse Badi Aankhein! 🐦 #shorts",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai zameen par sabse badi aankhon wala jaanwar kaun sa hai?",
+      "highlight": "sabse badi",
+      "scene": {
+        "type": "hook",
+        "emoji": "👁️",
+        "big": "SABSE BADI AANKH"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Yeh hai Ostrich, jiski aankhein 50 millimeter tak choti ball jitni badi hoti hain!",
+      "highlight": "50 millimeter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "👁️",
+          "label": "Ostrich Eye",
+          "value": 50
+        },
+        "right": {
+          "emoji": "👁️",
+          "label": "Human Eye",
+          "value": 24
+        },
+        "unit": "mm"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Yeh anokha pakshi 70 km/h ki tez speed se bhaag sakta hai!",
+      "highlight": "70 km/h",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚶",
+          "label": "Insaan",
+          "value": 15
+        },
+        "right": {
+          "emoji": "🐦",
+          "label": "Ostrich",
+          "value": 70
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Iska ek anda aam murgi ke ande se 20 guna zyada bhari hai!",
+      "highlight": "20 guna",
+      "scene": {
+        "type": "stack",
+        "emoji": "🥚",
+        "count": 20,
+        "label": "20 Murgi Ke Ande"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Iska 225 kgf wala ek kick ek sher ko bhi dher kar sakta hai!",
+      "highlight": "225 kgf kick",
+      "scene": {
+        "type": "fact",
+        "emoji": "🦁",
+        "big": "225 KGF KICK",
+        "small": "LION SLAYER KICK"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Kya aapne kabhi real life mein Ostrich dekha hai? Comment mein batao!",
+      "highlight": "Comment mein",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "KABHI DEKHA HAI?"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}

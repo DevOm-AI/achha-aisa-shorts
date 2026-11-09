@@ -1,0 +1,112 @@
+{
+  "title": "Ostrich Ki Sabse Badi Aankhein! 🐦 #shorts",
+  "idea": "Mind-blowing facts about the common ostrich including its huge 50mm eyes, 70 km/h speed, and 225 kgf kick.",
+  "lines": [
+    {
+      "text": "Kya aapko pata hai zameen par sabse badi aankhon wala jaanwar kaun sa hai?",
+      "highlight": "sabse badi",
+      "scene": {
+        "type": "hook",
+        "emoji": "👁️",
+        "big": "SABSE BADI AANKH"
+      }
+    },
+    {
+      "text": "Yeh hai Ostrich, jiski aankhein 50 millimeter tak choti ball jitni badi hoti hain!",
+      "highlight": "50 millimeter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "👁️",
+          "label": "Ostrich Eye",
+          "value": 50
+        },
+        "right": {
+          "emoji": "👁️",
+          "label": "Human Eye",
+          "value": 24
+        },
+        "unit": "mm"
+      }
+    },
+    {
+      "text": "Yeh anokha pakshi 70 km/h ki tez speed se bhaag sakta hai!",
+      "highlight": "70 km/h",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚶",
+          "label": "Insaan",
+          "value": 15
+        },
+        "right": {
+          "emoji": "🐦",
+          "label": "Ostrich",
+          "value": 70
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Iska ek anda aam murgi ke ande se 20 guna zyada bhari hai!",
+      "highlight": "20 guna",
+      "scene": {
+        "type": "stack",
+        "emoji": "🥚",
+        "count": 20,
+        "label": "20 Murgi Ke Ande"
+      }
+    },
+    {
+      "text": "Iska 225 kgf wala ek kick ek sher ko bhi dher kar sakta hai!",
+      "highlight": "225 kgf kick",
+      "scene": {
+        "type": "fact",
+        "emoji": "🦁",
+        "big": "225 KGF KICK",
+        "small": "LION SLAYER KICK"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi real life mein Ostrich dekha hai? Comment mein batao!",
+      "highlight": "Comment mein",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "KABHI DEKHA HAI?"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Ostrich Ki Sabse Badi Aankhein! 🐦 #shorts",
+    "description": "Jane Ostrich ke baare mein mind-blowing facts! Iski 50mm ki aankhein aur 70 km/h ki speed aapko hairan kar degi.\n\n#shorts #ostrich #facts #hinglish #animals",
+    "tags": [
+      "ostrich",
+      "facts",
+      "hinglish",
+      "wildlife",
+      "birds",
+      "speed",
+      "ostrich eye",
+      "mindblowing"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Ostrich eyes are 50 mm in diameter, the largest of any land vertebrate.",
+      "source": "https://en.wikipedia.org/wiki/Common_ostrich"
+    },
+    {
+      "claim": "Ostrich can run over 70 km/h.",
+      "source": "https://en.wikipedia.org/wiki/Common_ostrich"
+    },
+    {
+      "claim": "An ostrich egg weighs over 20 times a chicken egg.",
+      "source": "https://en.wikipedia.org/wiki/Common_ostrich"
+    },
+    {
+      "claim": "An ostrich kick can yield 225 kgf.",
+      "source": "https://en.wikipedia.org/wiki/Common_ostrich"
+    }
+  ]
+}
