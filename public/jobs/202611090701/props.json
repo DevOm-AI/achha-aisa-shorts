@@ -1,8 +1,8 @@
 {
   "title": "Ostrich Ki Sabse Badi Aankhein! 🐦 #shorts",
   "accent": "#2563eb",
-  "voice": null,
-  "voiceTrimBefore": 0,
+  "voice": "jobs/202611090701/voice.wav",
+  "voiceTrimBefore": 9,
   "lines": [
     {
       "text": "Kya aapko pata hai zameen par sabse badi aankhon wala jaanwar kaun sa hai?",
@@ -12,7 +12,17 @@
         "emoji": "👁️",
         "big": "SABSE BADI AANKH"
       },
-      "durationInFrames": 169
+      "durationInFrames": 141,
+      "speech": [
+        [
+          4,
+          33
+        ],
+        [
+          38,
+          126
+        ]
+      ]
     },
     {
       "text": "Yeh hai Ostrich, jiski aankhein 50 millimeter tak choti ball jitni badi hoti hain!",
@@ -31,7 +41,21 @@
         },
         "unit": "mm"
       },
-      "durationInFrames": 169
+      "durationInFrames": 152,
+      "speech": [
+        [
+          0,
+          25
+        ],
+        [
+          31,
+          85
+        ],
+        [
+          90,
+          136
+        ]
+      ]
     },
     {
       "text": "Yeh anokha pakshi 70 km/h ki tez speed se bhaag sakta hai!",
@@ -50,7 +74,17 @@
         },
         "unit": "km/h"
       },
-      "durationInFrames": 148
+      "durationInFrames": 148,
+      "speech": [
+        [
+          0,
+          95
+        ],
+        [
+          107,
+          133
+        ]
+      ]
     },
     {
       "text": "Iska ek anda aam murgi ke ande se 20 guna zyada bhari hai!",
@@ -61,7 +95,13 @@
         "count": 20,
         "label": "20 Murgi Ke Ande"
       },
-      "durationInFrames": 158
+      "durationInFrames": 133,
+      "speech": [
+        [
+          0,
+          119
+        ]
+      ]
     },
     {
       "text": "Iska 225 kgf wala ek kick ek sher ko bhi dher kar sakta hai!",
@@ -72,7 +112,17 @@
         "big": "225 KGF KICK",
         "small": "LION SLAYER KICK"
       },
-      "durationInFrames": 169
+      "durationInFrames": 134,
+      "speech": [
+        [
+          0,
+          66
+        ],
+        [
+          76,
+          116
+        ]
+      ]
     },
     {
       "text": "Kya aapne kabhi real life mein Ostrich dekha hai? Comment mein batao!",
@@ -82,7 +132,17 @@
         "emoji": "🤯",
         "big": "KABHI DEKHA HAI?"
       },
-      "durationInFrames": 148
+      "durationInFrames": 137,
+      "speech": [
+        [
+          0,
+          71
+        ],
+        [
+          82,
+          110
+        ]
+      ]
     }
   ]
 }
