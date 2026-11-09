@@ -1,0 +1,90 @@
+{
+  "title": "Electric Eel Ka Dangerous Shock! ⚡ #shorts",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Ek chhota sa fish de sakta hai jaanleva jhatka!",
+      "highlight": "jaanleva jhatka",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐟",
+        "big": "DANGEROUS SHOCK"
+      },
+      "durationInFrames": 115
+    },
+    {
+      "text": "Electric eel generate kar sakti hai up to 860 volts!",
+      "highlight": "860 volts",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 860,
+        "prefix": "",
+        "suffix": "V",
+        "label": "Max Voltage"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Yeh voltage ghar ke normal wall outlet se lagbhag chaar guna zyada hai.",
+      "highlight": "chaar guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🔌",
+          "label": "Wall Outlet",
+          "value": 220
+        },
+        "right": {
+          "emoji": "⚡",
+          "label": "Electric Eel",
+          "value": 860
+        },
+        "unit": "V"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Inka yeh high voltage current shikaar ko pal bhar mein stun kar deta hai.",
+      "highlight": "stun kar deta",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🌊",
+            "text": "River Hunter"
+          },
+          {
+            "emoji": "⚡",
+            "text": "Instant Stun"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Inke paas teen alag electric organs hote hain jo current banate hain.",
+      "highlight": "teen electric organs",
+      "scene": {
+        "type": "stack",
+        "emoji": "🔋",
+        "count": 3,
+        "label": "Electric Organs Inside"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapne kabhi kisi electric fish ko dekha hai?",
+      "highlight": "electric fish",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SHOCKING TRUTH"
+      },
+      "durationInFrames": 115
+    }
+  ]
+}

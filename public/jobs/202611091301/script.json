@@ -1,0 +1,106 @@
+{
+  "title": "Electric Eel Ka Dangerous Shock! ⚡ #shorts",
+  "idea": "Electric eel can generate 860 volts of electricity, which is nearly four times a household wall outlet.",
+  "lines": [
+    {
+      "text": "Ek chhota sa fish de sakta hai jaanleva jhatka!",
+      "highlight": "jaanleva jhatka",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐟",
+        "big": "DANGEROUS SHOCK"
+      }
+    },
+    {
+      "text": "Electric eel generate kar sakti hai up to 860 volts!",
+      "highlight": "860 volts",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 860,
+        "prefix": "",
+        "suffix": "V",
+        "label": "Max Voltage"
+      }
+    },
+    {
+      "text": "Yeh voltage ghar ke normal wall outlet se lagbhag chaar guna zyada hai.",
+      "highlight": "chaar guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🔌",
+          "label": "Wall Outlet",
+          "value": 220
+        },
+        "right": {
+          "emoji": "⚡",
+          "label": "Electric Eel",
+          "value": 860
+        },
+        "unit": "V"
+      }
+    },
+    {
+      "text": "Inka yeh high voltage current shikaar ko pal bhar mein stun kar deta hai.",
+      "highlight": "stun kar deta",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🌊",
+            "text": "River Hunter"
+          },
+          {
+            "emoji": "⚡",
+            "text": "Instant Stun"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Inke paas teen alag electric organs hote hain jo current banate hain.",
+      "highlight": "teen electric organs",
+      "scene": {
+        "type": "stack",
+        "emoji": "🔋",
+        "count": 3,
+        "label": "Electric Organs Inside"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi kisi electric fish ko dekha hai?",
+      "highlight": "electric fish",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SHOCKING TRUTH"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Electric Eel Ka Dangerous Shock! ⚡ #shorts",
+    "description": "Kya aap jaante hain electric eel kitna powerful shock de sakti hai? Janiye iske hairatangez sach ke baare mein is short video mein.\n\n#electriceel #amazingfacts #sciencefacts #wildlife #shorts",
+    "tags": [
+      "electric eel",
+      "860 volts",
+      "animal facts",
+      "shocking facts",
+      "dangerous animals",
+      "science facts",
+      "marine life",
+      "hinglish facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Electric eel can generate an electrical shock of up to 860 volts, nearly four times a household wall outlet.",
+      "source": "https://en.wikipedia.org/wiki/Electric_eel"
+    },
+    {
+      "claim": "Electric eels have three pairs of electric organs arranged longitudinally.",
+      "source": "https://en.wikipedia.org/wiki/Electric_eel"
+    }
+  ]
+}
