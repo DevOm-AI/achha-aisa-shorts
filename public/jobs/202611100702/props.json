@@ -1,0 +1,83 @@
+{
+  "title": "Haathi Ki Soond Ka Khaufnaak Sach! 🐘 #shorts",
+  "accent": "#9333ea",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Haathi ki itni shaktishali soond mein ek bhi haddi nahi hoti!",
+      "highlight": "ek bhi haddi",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐘",
+        "big": "ZERO BONES!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Is akeli soond mein poore 1,50,000 alag muscles hote hain.",
+      "highlight": "1,50,000 alag muscles",
+      "scene": {
+        "type": "counter",
+        "emoji": "💪",
+        "from": 0,
+        "to": 150000,
+        "prefix": "",
+        "suffix": " Muscles",
+        "label": "Trunk Muscles"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Bina haddi ke bhi yeh soond 350 kg wazan utha sakti hai!",
+      "highlight": "350 kg wazan",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "👨",
+          "label": "Insaan",
+          "value": 50
+        },
+        "right": {
+          "emoji": "🐘",
+          "label": "Haathi Soond",
+          "value": 350
+        },
+        "unit": "kg"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Yeh soond 7 meter unche pedon tak aasaani se pahunch sakti hai.",
+      "highlight": "7 meter unche",
+      "scene": {
+        "type": "stack",
+        "emoji": "📏",
+        "count": 7,
+        "label": "Meters High Reach"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Yeh ek baar mein 8.5 liter paani bhi bhar sakti hai!",
+      "highlight": "8.5 liter paani",
+      "scene": {
+        "type": "reveal",
+        "emoji": "💧",
+        "big": "8.5 LITER WATER!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Bina haddi wala itna power! Kya aapko yeh pata tha? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "fact",
+        "emoji": "🤯",
+        "big": "INSANE TRUNK",
+        "small": "Zero bones, extreme power!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}

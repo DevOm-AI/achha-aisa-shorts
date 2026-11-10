@@ -1,0 +1,107 @@
+{
+  "title": "Haathi Ki Soond Ka Khaufnaak Sach! 🐘 #shorts",
+  "idea": "An elephant's trunk has zero bones but over 150,000 muscles, allowing it to lift 350 kg and hold 8.5 liters of water.",
+  "lines": [
+    {
+      "text": "Haathi ki itni shaktishali soond mein ek bhi haddi nahi hoti!",
+      "highlight": "ek bhi haddi",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐘",
+        "big": "ZERO BONES!"
+      }
+    },
+    {
+      "text": "Is akeli soond mein poore 1,50,000 alag muscles hote hain.",
+      "highlight": "1,50,000 alag muscles",
+      "scene": {
+        "type": "counter",
+        "emoji": "💪",
+        "from": 0,
+        "to": 150000,
+        "prefix": "",
+        "suffix": " Muscles",
+        "label": "Trunk Muscles"
+      }
+    },
+    {
+      "text": "Bina haddi ke bhi yeh soond 350 kg wazan utha sakti hai!",
+      "highlight": "350 kg wazan",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "👨",
+          "label": "Insaan",
+          "value": 50
+        },
+        "right": {
+          "emoji": "🐘",
+          "label": "Haathi Soond",
+          "value": 350
+        },
+        "unit": "kg"
+      }
+    },
+    {
+      "text": "Yeh soond 7 meter unche pedon tak aasaani se pahunch sakti hai.",
+      "highlight": "7 meter unche",
+      "scene": {
+        "type": "stack",
+        "emoji": "📏",
+        "count": 7,
+        "label": "Meters High Reach"
+      }
+    },
+    {
+      "text": "Yeh ek baar mein 8.5 liter paani bhi bhar sakti hai!",
+      "highlight": "8.5 liter paani",
+      "scene": {
+        "type": "reveal",
+        "emoji": "💧",
+        "big": "8.5 LITER WATER!"
+      }
+    },
+    {
+      "text": "Bina haddi wala itna power! Kya aapko yeh pata tha? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "fact",
+        "emoji": "🤯",
+        "big": "INSANE TRUNK",
+        "small": "Zero bones, extreme power!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Haathi Ki Soond Mein 0 Haddi? 🐘 #shorts",
+    "description": "Kya aapko pata hai ki haathi ki soond mein ek bhi haddi nahi hoti, par isme 1,50,000 muscles hote hain? Yeh soond 350 kg tak wazan utha sakti hai!\n#elephant #mindblowingfacts #hinglishfacts #wildlife #shorts",
+    "tags": [
+      "elephant facts",
+      "haathi ke facts",
+      "mind blowing facts",
+      "hinglish facts",
+      "animal facts",
+      "elephant trunk",
+      "amazing facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "150,000 muscles and zero bones",
+      "source": "https://en.wikipedia.org/wiki/Elephant"
+    },
+    {
+      "claim": "Lifts 350 kg",
+      "source": "https://en.wikipedia.org/wiki/Elephant"
+    },
+    {
+      "claim": "Reaches 7 meters high",
+      "source": "https://en.wikipedia.org/wiki/Elephant"
+    },
+    {
+      "claim": "Holds 8.5 liters of water",
+      "source": "https://en.wikipedia.org/wiki/Elephant"
+    }
+  ]
+}
