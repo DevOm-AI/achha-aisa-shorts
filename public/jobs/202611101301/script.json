@@ -1,0 +1,102 @@
+{
+  "title": "Dunia Ka Sabse Taaqatvar Keeda! 🪲 #shorts",
+  "idea": "The Horned Dung Beetle can pull 1,141 times its own body weight, making it the strongest animal on Earth relative to its size.",
+  "lines": [
+    {
+      "text": "Kya aapko pata hai duniya ka sabse taaqatvar jaanwar ek chhota keeda hai?",
+      "highlight": "sabse taaqatvar",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪲",
+        "big": "SABSE TAAQATVAR!"
+      }
+    },
+    {
+      "text": "Iska naam hai Horned Dung Beetle, jo dekhne mein chhota sa hai.",
+      "highlight": "Dung Beetle",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "📏",
+            "label": "Chhota Size"
+          },
+          {
+            "emoji": "🪲",
+            "label": "Dung Beetle"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Par ye apne vajan se 1,141 guna zyada vajan khinch sakta hai!",
+      "highlight": "1,141 guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🪲",
+          "label": "Apna Vajan",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🏋️",
+          "label": "Khincha Vajan",
+          "value": 1141
+        },
+        "unit": "x"
+      }
+    },
+    {
+      "text": "Agar kisi insaan ke paas itni taaqat aa jaye, toh kya hoga?",
+      "highlight": "itni taaqat",
+      "scene": {
+        "type": "counter",
+        "emoji": "💪",
+        "from": 1,
+        "to": 1141,
+        "prefix": "",
+        "suffix": "x",
+        "label": "Super Power Multiplier"
+      }
+    },
+    {
+      "text": "Wo akela banda 6 bhari double-decker buses ko aasaani se khinch lega!",
+      "highlight": "6 buses",
+      "scene": {
+        "type": "stack",
+        "emoji": "🚌",
+        "count": 6,
+        "label": "Double-Decker Buses"
+      }
+    },
+    {
+      "text": "Agar aapke paas ye super power hoti, toh aap pehle kya uthate?",
+      "highlight": "super power",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER STRENGTH!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Dunia Ka Sabse Taaqatvar Keeda! 🪲 #shorts",
+    "description": "Horned dung beetle apne vajan se 1,141 guna zyada vajan khinch sakta hai! Janiye is chhote keede ki insane strength ke baare mein.\n\n#shorts #facts #dungbeetle #mindblowingfacts #sciencefacts",
+    "tags": [
+      "dung beetle",
+      "strongest animal",
+      "horned dung beetle",
+      "beetle facts",
+      "hinglish facts",
+      "mind blowing facts",
+      "science shorts",
+      "facts in hindi"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Onthophagus taurus can pull 1,141 times its body mass and is the strongest animal relative to size.",
+      "source": "https://en.wikipedia.org/wiki/Onthophagus_taurus"
+    }
+  ]
+}

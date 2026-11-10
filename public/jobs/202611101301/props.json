@@ -1,0 +1,90 @@
+{
+  "title": "Dunia Ka Sabse Taaqatvar Keeda! 🪲 #shorts",
+  "accent": "#9333ea",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai duniya ka sabse taaqatvar jaanwar ek chhota keeda hai?",
+      "highlight": "sabse taaqatvar",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪲",
+        "big": "SABSE TAAQATVAR!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Iska naam hai Horned Dung Beetle, jo dekhne mein chhota sa hai.",
+      "highlight": "Dung Beetle",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "📏",
+            "label": "Chhota Size"
+          },
+          {
+            "emoji": "🪲",
+            "label": "Dung Beetle"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Par ye apne vajan se 1,141 guna zyada vajan khinch sakta hai!",
+      "highlight": "1,141 guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🪲",
+          "label": "Apna Vajan",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🏋️",
+          "label": "Khincha Vajan",
+          "value": 1141
+        },
+        "unit": "x"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Agar kisi insaan ke paas itni taaqat aa jaye, toh kya hoga?",
+      "highlight": "itni taaqat",
+      "scene": {
+        "type": "counter",
+        "emoji": "💪",
+        "from": 1,
+        "to": 1141,
+        "prefix": "",
+        "suffix": "x",
+        "label": "Super Power Multiplier"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Wo akela banda 6 bhari double-decker buses ko aasaani se khinch lega!",
+      "highlight": "6 buses",
+      "scene": {
+        "type": "stack",
+        "emoji": "🚌",
+        "count": 6,
+        "label": "Double-Decker Buses"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Agar aapke paas ye super power hoti, toh aap pehle kya uthate?",
+      "highlight": "super power",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER STRENGTH!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
