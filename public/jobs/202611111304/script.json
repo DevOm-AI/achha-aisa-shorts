@@ -1,0 +1,94 @@
+{
+  "title": "Giant Squid Ki Aankhein",
+  "idea": "The giant squid has basketball-sized eyes, the largest of any living creature.",
+  "lines": [
+    {
+      "text": "Samundar ki gehraiyon mein chhupa hai ek aisa monster!",
+      "highlight": "deep monster",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦑",
+        "big": "GIANT SQUID!"
+      }
+    },
+    {
+      "text": "Kya aapko pata hai iski aankhein kitni badi hoti hain?",
+      "highlight": "badi hoti",
+      "scene": {
+        "type": "reveal",
+        "emoji": "👁️",
+        "big": "HUGE EYES!"
+      }
+    },
+    {
+      "text": "Giant squid ki aankhein kisi basketball jitni badi hoti hain!",
+      "highlight": "basketball jitni",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏀",
+          "label": "Basketball",
+          "value": 27
+        },
+        "right": {
+          "emoji": "🦑",
+          "label": "Squid Eye",
+          "value": 27
+        },
+        "unit": "cm"
+      }
+    },
+    {
+      "text": "Inka diameter kam se kam 27 centimeters tak hota hai.",
+      "highlight": "27 centimeters",
+      "scene": {
+        "type": "counter",
+        "emoji": "📏",
+        "from": 0,
+        "to": 27,
+        "prefix": "",
+        "suffix": "cm",
+        "label": "Eye Diameter"
+      }
+    },
+    {
+      "text": "Yeh kisi bhi zinda jeev ki sabse badi aankhein hain!",
+      "highlight": "sabse badi aankhein",
+      "scene": {
+        "type": "fact",
+        "emoji": "🌊",
+        "big": "NO. 1",
+        "small": "Largest eyes in living creatures"
+      }
+    },
+    {
+      "text": "Kya aap itni badi aankh dekhna chahenge? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "💬",
+        "big": "COMMENT!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Giant Squid Ki Aankhein Kitni Badi Hain? 🦑 #shorts",
+    "description": "Janiye giant squid ke baare mein ek hairatangez sach jo aapko hairan kar dega. Iski aankhein hoti hain basketball jitni badi!\n\n#GiantSquid #OceanFacts #AmazingFacts #SeaMonster #Shorts",
+    "tags": [
+      "giant squid",
+      "ocean facts",
+      "deep sea",
+      "biggest eyes",
+      "marine life",
+      "animal facts",
+      "hindi facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Giant squid eye size",
+      "source": "https://en.wikipedia.org/wiki/Giant_squid"
+    }
+  ]
+}

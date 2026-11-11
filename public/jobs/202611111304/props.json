@@ -1,0 +1,82 @@
+{
+  "title": "Giant Squid Ki Aankhein",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Samundar ki gehraiyon mein chhupa hai ek aisa monster!",
+      "highlight": "deep monster",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦑",
+        "big": "GIANT SQUID!"
+      },
+      "durationInFrames": 115
+    },
+    {
+      "text": "Kya aapko pata hai iski aankhein kitni badi hoti hain?",
+      "highlight": "badi hoti",
+      "scene": {
+        "type": "reveal",
+        "emoji": "👁️",
+        "big": "HUGE EYES!"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Giant squid ki aankhein kisi basketball jitni badi hoti hain!",
+      "highlight": "basketball jitni",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏀",
+          "label": "Basketball",
+          "value": 27
+        },
+        "right": {
+          "emoji": "🦑",
+          "label": "Squid Eye",
+          "value": 27
+        },
+        "unit": "cm"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Inka diameter kam se kam 27 centimeters tak hota hai.",
+      "highlight": "27 centimeters",
+      "scene": {
+        "type": "counter",
+        "emoji": "📏",
+        "from": 0,
+        "to": 27,
+        "prefix": "",
+        "suffix": "cm",
+        "label": "Eye Diameter"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Yeh kisi bhi zinda jeev ki sabse badi aankhein hain!",
+      "highlight": "sabse badi aankhein",
+      "scene": {
+        "type": "fact",
+        "emoji": "🌊",
+        "big": "NO. 1",
+        "small": "Largest eyes in living creatures"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Kya aap itni badi aankh dekhna chahenge? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "💬",
+        "big": "COMMENT!"
+      },
+      "durationInFrames": 115
+    }
+  ]
+}
