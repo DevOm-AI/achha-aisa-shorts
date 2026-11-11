@@ -1,0 +1,116 @@
+{
+  "title": "Cumulus Cloud Ka 480 Km Bada Sach",
+  "idea": "Cumulus clouds can form massive cloud streets stretching up to 480 kilometres long.",
+  "lines": [
+    {
+      "text": "Kya aapne aasman mein ek sath itna bada badal dekha hai?",
+      "highlight": "bada badal",
+      "scene": {
+        "type": "hook",
+        "emoji": "☁️",
+        "big": "480 KM LAMBA BADAL!"
+      }
+    },
+    {
+      "text": "Aasman mein dikhne wale safed cumulus badal koi aam badal nahi hain.",
+      "highlight": "cumulus badal",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🌤️",
+            "label": "Small"
+          },
+          {
+            "emoji": "⛅",
+            "label": "Medium"
+          },
+          {
+            "emoji": "☁️",
+            "label": "Cumulus"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Yeh badal lagatar judkar 480 kilometre lambi cloud streets bana sakte hain!",
+      "highlight": "480 kilometre",
+      "scene": {
+        "type": "counter",
+        "emoji": "☁️",
+        "from": 0,
+        "to": 480,
+        "prefix": "",
+        "suffix": " km",
+        "label": "Cloud Street Length"
+      }
+    },
+    {
+      "text": "Yeh doori Mumbai se Goa tak ke pure raste jitni lambi hoti hai!",
+      "highlight": "Mumbai se Goa",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🚗",
+          "label": "Road Route",
+          "value": 400
+        },
+        "right": {
+          "emoji": "☁️",
+          "label": "Cloud Line",
+          "value": 480
+        },
+        "unit": "km"
+      }
+    },
+    {
+      "text": "Itna hi nahi, yeh badal zameen se 2000 meter se kam unchai par hote hain.",
+      "highlight": "2000 meter",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌍",
+          "label": "Earth"
+        },
+        "orbiter": {
+          "emoji": "☁️",
+          "label": "Cumulus"
+        },
+        "big": "2000m Altitude"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi itne lambe badal dekhe hain? Comment mein batao!",
+      "highlight": "Comment",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "480 KM LAMBA!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Cumulus Cloud Kitna Bada Ho Sakta Hai? ☁️ #shorts",
+    "description": "Kya aapko pata hai ki cumulus cloud 480 km tak lambi cloud streets bana sakte hain? Jaaniye badalon ke is hairan kar dene wale sach ke baare mein! #shorts #cumuluscloud #facts #weather #science",
+    "tags": [
+      "cumulus cloud",
+      "cloud facts",
+      "weather facts",
+      "science shorts",
+      "hinglish facts",
+      "clouds",
+      "sky facts",
+      "amazing facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Cumulus clouds can form lines stretching over 480 km called cloud streets",
+      "source": "https://en.wikipedia.org/wiki/Cumulus_cloud"
+    },
+    {
+      "claim": "Cumulus clouds are low-level clouds generally less than 2000 m in altitude",
+      "source": "https://en.wikipedia.org/wiki/Cumulus_cloud"
+    }
+  ]
+}
