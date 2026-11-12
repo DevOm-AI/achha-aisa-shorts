@@ -1,0 +1,96 @@
+{
+  "title": "Tardigrade: Prithvi Ka Sabse Immortal Micro Organism! 🦠 #shorts",
+  "accent": "#db2777",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Prithvi par ek aisa micro organism hai jo antariksh mein bhi zinda rehta hai!",
+      "highlight": "zinda rehta hai",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦠",
+        "big": "IMMORTAL BEAST"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Iska naam hai Tardigrade, jo minus 272 degree Celsius ki thand sehan kar sakta hai.",
+      "highlight": "minus 272 degree",
+      "scene": {
+        "type": "counter",
+        "emoji": "🥶",
+        "from": 0,
+        "to": 272,
+        "prefix": "-",
+        "suffix": "°C",
+        "label": "Extreme Cold"
+      },
+      "durationInFrames": 180
+    },
+    {
+      "text": "Itna hi nahi, yeh plus 149 degree Celsius ki khaufnaak garmi mein bhi bachta hai!",
+      "highlight": "plus 149 degree",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🔥",
+          "label": "Boiling Water",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦠",
+          "label": "Tardigrade",
+          "value": 149
+        },
+        "unit": "°C"
+      },
+      "durationInFrames": 180
+    },
+    {
+      "text": "Bina khane aur paani ke yeh kayi saalon tak aaram se reh sakta hai.",
+      "highlight": "Bina khane paani",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🚫",
+            "text": "No Food Needed"
+          },
+          {
+            "emoji": "💧",
+            "text": "No Water Needed"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "2007 mein scientists ne ise space ke zero oxygen vacuum mein 10 din rakha!",
+      "highlight": "10 din rakha",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌍",
+          "label": "Earth"
+        },
+        "orbiter": {
+          "emoji": "🛰️",
+          "label": "Space Test"
+        },
+        "big": "10 DAYS IN VACUUM"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Phir bhi yeh zinda mila, kya aapko lagta hai aliens micro level par maujood hain?",
+      "highlight": "zinda mila",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SURVIVED SPACE!"
+      },
+      "durationInFrames": 180
+    }
+  ]
+}

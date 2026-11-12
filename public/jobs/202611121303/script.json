@@ -1,0 +1,112 @@
+{
+  "title": "Tardigrade: Prithvi Ka Sabse Immortal Micro Organism! 🦠 #shorts",
+  "idea": "Explaining how the microscopic Tardigrade survives extreme temperatures and the vacuum of space.",
+  "lines": [
+    {
+      "text": "Prithvi par ek aisa micro organism hai jo antariksh mein bhi zinda rehta hai!",
+      "highlight": "zinda rehta hai",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦠",
+        "big": "IMMORTAL BEAST"
+      }
+    },
+    {
+      "text": "Iska naam hai Tardigrade, jo minus 272 degree Celsius ki thand sehan kar sakta hai.",
+      "highlight": "minus 272 degree",
+      "scene": {
+        "type": "counter",
+        "emoji": "🥶",
+        "from": 0,
+        "to": 272,
+        "prefix": "-",
+        "suffix": "°C",
+        "label": "Extreme Cold"
+      }
+    },
+    {
+      "text": "Itna hi nahi, yeh plus 149 degree Celsius ki khaufnaak garmi mein bhi bachta hai!",
+      "highlight": "plus 149 degree",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🔥",
+          "label": "Boiling Water",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦠",
+          "label": "Tardigrade",
+          "value": 149
+        },
+        "unit": "°C"
+      }
+    },
+    {
+      "text": "Bina khane aur paani ke yeh kayi saalon tak aaram se reh sakta hai.",
+      "highlight": "Bina khane paani",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🚫",
+            "text": "No Food Needed"
+          },
+          {
+            "emoji": "💧",
+            "text": "No Water Needed"
+          }
+        ]
+      }
+    },
+    {
+      "text": "2007 mein scientists ne ise space ke zero oxygen vacuum mein 10 din rakha!",
+      "highlight": "10 din rakha",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🌍",
+          "label": "Earth"
+        },
+        "orbiter": {
+          "emoji": "🛰️",
+          "label": "Space Test"
+        },
+        "big": "10 DAYS IN VACUUM"
+      }
+    },
+    {
+      "text": "Phir bhi yeh zinda mila, kya aapko lagta hai aliens micro level par maujood hain?",
+      "highlight": "zinda mila",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SURVIVED SPACE!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Tardigrade: Prithvi Ka Sabse Immortal Micro Organism! 🦠 #shorts",
+    "description": "Kya aap jante hain Tardigrade space mein bhi zinda reh sakta hai? Minus 272 degree ki thand ho ya space ka vacuum, yeh har jagah bacha rehta hai!\n\n#tardigrade #facts #spacefacts #sciencefacts #hinglish",
+    "tags": [
+      "tardigrade",
+      "water bear",
+      "science facts",
+      "mindblowing facts",
+      "space facts",
+      "hinglish facts",
+      "microbiology",
+      "unknown facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Tardigrades can tolerate temperatures down to minus 272 degrees Celsius and up to plus 149 degrees Celsius.",
+      "source": "https://en.wikipedia.org/wiki/Tardigrade"
+    },
+    {
+      "claim": "Tardigrades survived 10 days of space vacuum exposure in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Tardigrade"
+    }
+  ]
+}
