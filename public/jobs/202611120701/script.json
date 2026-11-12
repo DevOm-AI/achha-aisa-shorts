@@ -1,0 +1,97 @@
+{
+  "title": "Polar Bear Ka Kala Sach 🐻 #shorts",
+  "idea": "Polar bears have jet-black skin underneath their white fur to absorb warmth",
+  "lines": [
+    {
+      "text": "Aapko lagta hoga ki polar bear ki skin white hoti hai.",
+      "highlight": "skin white",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐻",
+        "big": "WHITE SKIN?"
+      }
+    },
+    {
+      "text": "Lekin sach yeh hai ki inki skin bilkul jet-black hoti hai.",
+      "highlight": "jet-black",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🖤",
+        "big": "JET BLACK SKIN"
+      }
+    },
+    {
+      "text": "Yeh kaali skin sooraj ki garmi ko behtar absorb karti hai.",
+      "highlight": "garmi ko",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "☀️",
+          "label": "Sun"
+        },
+        "orbiter": {
+          "emoji": "🐻",
+          "label": "Bear"
+        },
+        "big": "ABSORBS HEAT"
+      }
+    },
+    {
+      "text": "Inke baal transparent aur hollow hote hain jo heat trap karte hain.",
+      "highlight": "hollow hote",
+      "scene": {
+        "type": "stack",
+        "emoji": "❄️",
+        "count": 15,
+        "label": "Hollow guard hairs trap heat"
+      }
+    },
+    {
+      "text": "Inke paas 5 se 10 cm moti fat ki layer hoti hai.",
+      "highlight": "moti fat",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐻",
+          "label": "Fat Layer",
+          "value": 10
+        },
+        "right": {
+          "emoji": "📏",
+          "label": "Standard",
+          "value": 1
+        },
+        "unit": "cm"
+      }
+    },
+    {
+      "text": "Kya aapko pata tha is anokhe raaz ke baare mein?",
+      "highlight": "anokhe raaz",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "COMMENT NOW"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Polar Bear Ka Sabse Bada Raaz! 🐻 #shorts",
+    "description": "Kya aap jaante hain ki polar bears ki skin white nahi balki jet-black hoti hai? Dekhiye yeh hairani bhara sach!\n\n#shorts #polarbear #facts #animals #wildlife",
+    "tags": [
+      "polar bear",
+      "animal facts",
+      "arctic animals",
+      "wildlife facts",
+      "science facts",
+      "interesting facts",
+      "hindi facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Polar bears have black skin",
+      "source": "https://en.wikipedia.org/wiki/Polar_bear"
+    }
+  ]
+}

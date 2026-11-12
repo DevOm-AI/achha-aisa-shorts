@@ -1,0 +1,85 @@
+{
+  "title": "Polar Bear Ka Kala Sach 🐻 #shorts",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Aapko lagta hoga ki polar bear ki skin white hoti hai.",
+      "highlight": "skin white",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐻",
+        "big": "WHITE SKIN?"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Lekin sach yeh hai ki inki skin bilkul jet-black hoti hai.",
+      "highlight": "jet-black",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🖤",
+        "big": "JET BLACK SKIN"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Yeh kaali skin sooraj ki garmi ko behtar absorb karti hai.",
+      "highlight": "garmi ko",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "☀️",
+          "label": "Sun"
+        },
+        "orbiter": {
+          "emoji": "🐻",
+          "label": "Bear"
+        },
+        "big": "ABSORBS HEAT"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Inke baal transparent aur hollow hote hain jo heat trap karte hain.",
+      "highlight": "hollow hote",
+      "scene": {
+        "type": "stack",
+        "emoji": "❄️",
+        "count": 15,
+        "label": "Hollow guard hairs trap heat"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Inke paas 5 se 10 cm moti fat ki layer hoti hai.",
+      "highlight": "moti fat",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐻",
+          "label": "Fat Layer",
+          "value": 10
+        },
+        "right": {
+          "emoji": "📏",
+          "label": "Standard",
+          "value": 1
+        },
+        "unit": "cm"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapko pata tha is anokhe raaz ke baare mein?",
+      "highlight": "anokhe raaz",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "COMMENT NOW"
+      },
+      "durationInFrames": 126
+    }
+  ]
+}
