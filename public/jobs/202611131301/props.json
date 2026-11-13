@@ -1,0 +1,97 @@
+{
+  "title": "Pistol Shrimp Ka Khaufnaak Sacch! 🦐 #shorts",
+  "accent": "#ea580c",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Ek chhota sa jhinga Sooraj jitna garam dhamaka kar sakta hai?",
+      "highlight": "Sooraj jitna garam",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦐",
+        "big": "SOORAJ JITNA GARAM?"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Yeh hai Pistol Shrimp, jo sirf 3 se 5 cm chhota hota hai.",
+      "highlight": "Pistol Shrimp",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🦐",
+            "label": "3 cm"
+          },
+          {
+            "emoji": "🦐",
+            "label": "5 cm"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Iska ek claw uski body se aadhe se bhi bada hota hai.",
+      "highlight": "bada claw",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🦞",
+            "text": "Bada Claw"
+          },
+          {
+            "emoji": "💥",
+            "text": "Power Snap"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Jab yeh claw snap karta hai, to bubble 90 km/h ki speed se nikalta hai!",
+      "highlight": "90 km/h speed",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚶",
+          "label": "Insaan",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🫧",
+          "label": "Bubble",
+          "value": 90
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 180
+    },
+    {
+      "text": "Bubble collapse hote hi temperature 4,700 °C tak pahunch jaata hai!",
+      "highlight": "4,700 °C temperature",
+      "scene": {
+        "type": "counter",
+        "emoji": "🔥",
+        "from": 0,
+        "to": 4700,
+        "prefix": "",
+        "suffix": " °C",
+        "label": "Bubble Temp"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Yeh heat Sooraj ke surface ke taapmaan ke kareeb hai! Kya aapko pata tha?",
+      "highlight": "Sooraj ke kareeb",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUN TEMP SHOCK!"
+      },
+      "durationInFrames": 169
+    }
+  ]
+}

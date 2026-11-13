@@ -1,0 +1,117 @@
+{
+  "title": "Pistol Shrimp Ka Khaufnaak Sacch! 🦐 #shorts",
+  "idea": "A tiny Pistol Shrimp snaps its claw so fast that it creates a bubble with speeds of 90 km/h and temperatures reaching over 4,700 °C.",
+  "lines": [
+    {
+      "text": "Ek chhota sa jhinga Sooraj jitna garam dhamaka kar sakta hai?",
+      "highlight": "Sooraj jitna garam",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦐",
+        "big": "SOORAJ JITNA GARAM?"
+      }
+    },
+    {
+      "text": "Yeh hai Pistol Shrimp, jo sirf 3 se 5 cm chhota hota hai.",
+      "highlight": "Pistol Shrimp",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🦐",
+            "label": "3 cm"
+          },
+          {
+            "emoji": "🦐",
+            "label": "5 cm"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Iska ek claw uski body se aadhe se bhi bada hota hai.",
+      "highlight": "bada claw",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🦞",
+            "text": "Bada Claw"
+          },
+          {
+            "emoji": "💥",
+            "text": "Power Snap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Jab yeh claw snap karta hai, to bubble 90 km/h ki speed se nikalta hai!",
+      "highlight": "90 km/h speed",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚶",
+          "label": "Insaan",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🫧",
+          "label": "Bubble",
+          "value": 90
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Bubble collapse hote hi temperature 4,700 °C tak pahunch jaata hai!",
+      "highlight": "4,700 °C temperature",
+      "scene": {
+        "type": "counter",
+        "emoji": "🔥",
+        "from": 0,
+        "to": 4700,
+        "prefix": "",
+        "suffix": " °C",
+        "label": "Bubble Temp"
+      }
+    },
+    {
+      "text": "Yeh heat Sooraj ke surface ke taapmaan ke kareeb hai! Kya aapko pata tha?",
+      "highlight": "Sooraj ke kareeb",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUN TEMP SHOCK!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Pistol Shrimp Ka Khaufnaak Sacch! 🦐 #shorts",
+    "description": "Pistol Shrimp samundar ka ek chhota sa jeev hai jo Sooraj jitna garam dhamaka kar sakta hai! Jaaniye iske claw snap ki hairan kar dene wali speed aur temperature.\n#pistolshrimp #animalfacts #sciencefacts #oceanlife #shorts",
+    "tags": [
+      "pistol shrimp",
+      "pistol shrimp fact",
+      "shrimp snap",
+      "pistol shrimp bubble",
+      "pistol shrimp temperature",
+      "ocean facts",
+      "mind blowing facts",
+      "hinglish facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Snapping shrimp grow to 3-5 cm in length.",
+      "source": "https://en.wikipedia.org/wiki/Alpheidae"
+    },
+    {
+      "claim": "The cavitation bubble reaches speeds of 90 km/h.",
+      "source": "https://en.wikipedia.org/wiki/Alpheidae"
+    },
+    {
+      "claim": "The collapsing bubble reaches temperatures over 4,700 °C.",
+      "source": "https://en.wikipedia.org/wiki/Alpheidae"
+    }
+  ]
+}
