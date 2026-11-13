@@ -1,0 +1,94 @@
+{
+  "title": "Sea Otter Ka Pet Hai Ya Kuan? 🦦 #shorts",
+  "accent": "#ea580c",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Yeh cute jaanwar har din apne wazan ka ek-chauthai khana khata hai!",
+      "highlight": "ek-chauthai khana",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦦",
+        "big": "SUPER EATER!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Ek sea otter har din 25 se 38 percent body weight khata hai!",
+      "highlight": "25 se 38",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦦",
+          "label": "Otter Body",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦀",
+          "label": "Daily Food",
+          "value": 38
+        },
+        "unit": "%"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Yeh ek insaan ke roz 50 thali khana khane ke barabar hai!",
+      "highlight": "50 thali",
+      "scene": {
+        "type": "stack",
+        "emoji": "🍱",
+        "count": 50,
+        "label": "Daily Meals Stack"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Iska metabolism zameen ke jaanwaron se 3 guna zyada tez hota hai.",
+      "highlight": "3 guna",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 1,
+        "to": 3,
+        "prefix": "",
+        "suffix": "x",
+        "label": "Metabolism Speed"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Thande paani mein body warm rakhne ke liye ise itna khana padta hai.",
+      "highlight": "body warm",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🥶",
+            "label": "Cold Water"
+          },
+          {
+            "emoji": "🔥",
+            "label": "High Heat"
+          },
+          {
+            "emoji": "🦦",
+            "label": "Warm Otter"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Agar aapko itna khana mile, toh aap sabse pehle kya khate?",
+      "highlight": "kya khate",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🍕",
+        "big": "UNSTOPPABLE HUNGER"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}

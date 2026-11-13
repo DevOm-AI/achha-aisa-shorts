@@ -1,0 +1,110 @@
+{
+  "title": "Sea Otter Ka Pet Hai Ya Kuan? 🦦 #shorts",
+  "idea": "Sea otters eat up to 38 percent of their body weight every single day to stay warm in cold ocean waters.",
+  "lines": [
+    {
+      "text": "Yeh cute jaanwar har din apne wazan ka ek-chauthai khana khata hai!",
+      "highlight": "ek-chauthai khana",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦦",
+        "big": "SUPER EATER!"
+      }
+    },
+    {
+      "text": "Ek sea otter har din 25 se 38 percent body weight khata hai!",
+      "highlight": "25 se 38",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦦",
+          "label": "Otter Body",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦀",
+          "label": "Daily Food",
+          "value": 38
+        },
+        "unit": "%"
+      }
+    },
+    {
+      "text": "Yeh ek insaan ke roz 50 thali khana khane ke barabar hai!",
+      "highlight": "50 thali",
+      "scene": {
+        "type": "stack",
+        "emoji": "🍱",
+        "count": 50,
+        "label": "Daily Meals Stack"
+      }
+    },
+    {
+      "text": "Iska metabolism zameen ke jaanwaron se 3 guna zyada tez hota hai.",
+      "highlight": "3 guna",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 1,
+        "to": 3,
+        "prefix": "",
+        "suffix": "x",
+        "label": "Metabolism Speed"
+      }
+    },
+    {
+      "text": "Thande paani mein body warm rakhne ke liye ise itna khana padta hai.",
+      "highlight": "body warm",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🥶",
+            "label": "Cold Water"
+          },
+          {
+            "emoji": "🔥",
+            "label": "High Heat"
+          },
+          {
+            "emoji": "🦦",
+            "label": "Warm Otter"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Agar aapko itna khana mile, toh aap sabse pehle kya khate?",
+      "highlight": "kya khate",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🍕",
+        "big": "UNSTOPPABLE HUNGER"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Sea Otter Ka Pet Hai Ya Kuan? 🦦 #shorts",
+    "description": "Did you know sea otters eat up to 38% of their body weight every day just to keep warm? Imagine eating 50 full meals daily!\n\n#seaotter #animalfacts #mindblowingfacts #hinglish #shorts",
+    "tags": [
+      "sea otter",
+      "animal facts",
+      "sea otter diet",
+      "nature facts",
+      "wildlife shorts",
+      "facts in hinglish",
+      "amazing facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Sea otters eat 25 to 38 percent of their body weight in food each day.",
+      "source": "https://en.wikipedia.org/wiki/Sea_otter"
+    },
+    {
+      "claim": "Sea otters have a metabolic rate 2 to 3 times higher than land mammals.",
+      "source": "https://en.wikipedia.org/wiki/Sea_otter"
+    }
+  ]
+}
