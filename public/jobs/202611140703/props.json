@@ -1,0 +1,91 @@
+{
+  "title": "Horned Lizard Aankhon Se Khoon Kyun Fekti Hai? 🦎 #shorts",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aap jante hain ek aisi chhipkali jo apni aankhon se khoon fekthi hai?",
+      "highlight": "aankhon se khoon",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦎",
+        "big": "EYE BLOOD SQUIRT"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Horned lizard khatra dekhte hi apni eyeball ke pas se khoon squirt karti hai!",
+      "highlight": "khoon squirt",
+      "scene": {
+        "type": "fact",
+        "emoji": "👁️",
+        "big": "EYE BLOOD STREAM",
+        "small": "Aim Stream From Eyes"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Ye khoon poore 5 feet yaani 1.5 meter door tak nishana lagakar fekti hai.",
+      "highlight": "1.5 meter door",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "📏",
+          "label": "Normal Reach",
+          "value": 0.5
+        },
+        "right": {
+          "emoji": "🩸",
+          "label": "Blood Stream",
+          "value": 1.5
+        },
+        "unit": "m"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Sir mein blood pressure badha kar aankhon ke paas ki nasein faad deti hai!",
+      "highlight": "blood pressure badha",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "❤️",
+            "label": "Blood Flow"
+          },
+          {
+            "emoji": "🧠",
+            "label": "High Pressure"
+          },
+          {
+            "emoji": "💥",
+            "label": "Vessels Burst"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Iski 21 species mein se 8 species ke paas ye super power hai!",
+      "highlight": "21 species",
+      "scene": {
+        "type": "stack",
+        "emoji": "🦎",
+        "count": 8,
+        "label": "Blood Squirting Species"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Kya aapne kabhi aisi scary lizard dekhi hai? Comment mein batao!",
+      "highlight": "Comment mein batao",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "BLOOD DEFENSE!"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}

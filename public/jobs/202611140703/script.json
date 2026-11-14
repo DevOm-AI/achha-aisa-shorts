@@ -1,0 +1,111 @@
+{
+  "title": "Horned Lizard Aankhon Se Khoon Kyun Fekti Hai? 🦎 #shorts",
+  "idea": "The mind-blowing defense mechanism of the horned lizard squirting blood directly from its eyes up to 5 feet.",
+  "lines": [
+    {
+      "text": "Kya aap jante hain ek aisi chhipkali jo apni aankhon se khoon fekthi hai?",
+      "highlight": "aankhon se khoon",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦎",
+        "big": "EYE BLOOD SQUIRT"
+      }
+    },
+    {
+      "text": "Horned lizard khatra dekhte hi apni eyeball ke pas se khoon squirt karti hai!",
+      "highlight": "khoon squirt",
+      "scene": {
+        "type": "fact",
+        "emoji": "👁️",
+        "big": "EYE BLOOD STREAM",
+        "small": "Aim Stream From Eyes"
+      }
+    },
+    {
+      "text": "Ye khoon poore 5 feet yaani 1.5 meter door tak nishana lagakar fekti hai.",
+      "highlight": "1.5 meter door",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "📏",
+          "label": "Normal Reach",
+          "value": 0.5
+        },
+        "right": {
+          "emoji": "🩸",
+          "label": "Blood Stream",
+          "value": 1.5
+        },
+        "unit": "m"
+      }
+    },
+    {
+      "text": "Sir mein blood pressure badha kar aankhon ke paas ki nasein faad deti hai!",
+      "highlight": "blood pressure badha",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "❤️",
+            "label": "Blood Flow"
+          },
+          {
+            "emoji": "🧠",
+            "label": "High Pressure"
+          },
+          {
+            "emoji": "💥",
+            "label": "Vessels Burst"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Iski 21 species mein se 8 species ke paas ye super power hai!",
+      "highlight": "21 species",
+      "scene": {
+        "type": "stack",
+        "emoji": "🦎",
+        "count": 8,
+        "label": "Blood Squirting Species"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi aisi scary lizard dekhi hai? Comment mein batao!",
+      "highlight": "Comment mein batao",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "BLOOD DEFENSE!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Horned Lizard Aankhon Se Khoon Kyun Fekti Hai? 🦎 #shorts",
+    "description": "Horned lizard threatened hone par apni aankhon se 5 feet door tak khoon squirt kar sakti hai! Janiye iska hairangez sach.\n\n#HornedLizard #MindBlowingFacts #HindiFacts #Animals #Shorts",
+    "tags": [
+      "horned lizard",
+      "lizard facts",
+      "blood squirt",
+      "animal facts",
+      "crazy facts",
+      "hinglish facts",
+      "nature secrets",
+      "reptile facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Horned lizards can squirt blood from eyes up to 5 feet (1.5 m).",
+      "source": "https://en.wikipedia.org/wiki/Horned_lizard"
+    },
+    {
+      "claim": "Squirting blood happens by restricting blood flow and rupturing vessels.",
+      "source": "https://en.wikipedia.org/wiki/Horned_lizard"
+    },
+    {
+      "claim": "There are 21 species of horned lizards.",
+      "source": "https://en.wikipedia.org/wiki/Horned_lizard"
+    }
+  ]
+}
