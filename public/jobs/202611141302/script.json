@@ -1,0 +1,121 @@
+{
+  "title": "Garden Snail Ka Khaufnaak Sach! 🐌 #shorts",
+  "idea": "Uncovering surprising survival skills, mating rituals, and top speed of the Garden Snail (Cornu aspersum).",
+  "lines": [
+    {
+      "text": "Garden Snail mating ke time apne partner ko ek teer jaisa kanta ghusata hai!",
+      "highlight": "teer jaisa kanta",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐌",
+        "big": "LOVE DART ATTACK!"
+      }
+    },
+    {
+      "text": "Iss calcium ke kaante ko love dart kehte hain jo sperm ko bachata hai.",
+      "highlight": "love dart",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🎯",
+            "text": "Love Dart Spine"
+          },
+          {
+            "emoji": "🛡️",
+            "text": "Protects Sperm"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Aur ye snail donated sperm ko poore 4 saal tak zinda rakhta hai!",
+      "highlight": "4 saal",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏳",
+        "from": 0,
+        "to": 4,
+        "prefix": "",
+        "suffix": " Saal",
+        "label": "Sperm Viability"
+      }
+    },
+    {
+      "text": "Thand mein ye blood badal kar minus 5 degree tak zinda rehta hai!",
+      "highlight": "minus 5 degree",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "❄️",
+            "label": "0 °C"
+          },
+          {
+            "emoji": "🧊",
+            "label": "-2 °C"
+          },
+          {
+            "emoji": "🐌",
+            "label": "-5 °C Blood"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Competitions mein iss snail ki speed sirf 2.4 mm per second hoti hai!",
+      "highlight": "2.4 mm",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐌",
+          "label": "Real Speed",
+          "value": 2.4
+        },
+        "right": {
+          "emoji": "🐌",
+          "label": "Old Estimate",
+          "value": 13
+        },
+        "unit": "mm/s"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi apne garden mein Garden Snail dekha hai? Comment karo!",
+      "highlight": "Garden Snail",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SLO-MO SPEED!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Garden Snail Ka Khaufnaak Sach! 🐌 #shorts",
+    "description": "Did you know Garden Snails use calcium love darts and can store sperm for 4 years? Discover amazing facts about Cornu aspersum!\n\n#gardensnail #mindblowingfacts #hinglishfacts #naturefacts #shorts",
+    "tags": [
+      "garden snail",
+      "cornu aspersum",
+      "snail facts",
+      "animals",
+      "nature facts",
+      "biology",
+      "hinglish facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Donated sperm can remain viable inside the snail for 4 years.",
+      "source": "https://en.wikipedia.org/wiki/Cornu_aspersum"
+    },
+    {
+      "claim": "The snail can survive temperatures down to −5 °C by altering its blood components.",
+      "source": "https://en.wikipedia.org/wiki/Cornu_aspersum"
+    },
+    {
+      "claim": "In competitions between snails, speeds of only 2.4 mm/s have been achieved.",
+      "source": "https://en.wikipedia.org/wiki/Cornu_aspersum"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Garden Snail Ka Khaufnaak Sach! 🐌 #shorts",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Garden Snail mating ke time apne partner ko ek teer jaisa kanta ghusata hai!",
+      "highlight": "teer jaisa kanta",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐌",
+        "big": "LOVE DART ATTACK!"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Iss calcium ke kaante ko love dart kehte hain jo sperm ko bachata hai.",
+      "highlight": "love dart",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🎯",
+            "text": "Love Dart Spine"
+          },
+          {
+            "emoji": "🛡️",
+            "text": "Protects Sperm"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Aur ye snail donated sperm ko poore 4 saal tak zinda rakhta hai!",
+      "highlight": "4 saal",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏳",
+        "from": 0,
+        "to": 4,
+        "prefix": "",
+        "suffix": " Saal",
+        "label": "Sperm Viability"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Thand mein ye blood badal kar minus 5 degree tak zinda rehta hai!",
+      "highlight": "minus 5 degree",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "❄️",
+            "label": "0 °C"
+          },
+          {
+            "emoji": "🧊",
+            "label": "-2 °C"
+          },
+          {
+            "emoji": "🐌",
+            "label": "-5 °C Blood"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Competitions mein iss snail ki speed sirf 2.4 mm per second hoti hai!",
+      "highlight": "2.4 mm",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐌",
+          "label": "Real Speed",
+          "value": 2.4
+        },
+        "right": {
+          "emoji": "🐌",
+          "label": "Old Estimate",
+          "value": 13
+        },
+        "unit": "mm/s"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Kya aapne kabhi apne garden mein Garden Snail dekha hai? Comment karo!",
+      "highlight": "Garden Snail",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SLO-MO SPEED!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
