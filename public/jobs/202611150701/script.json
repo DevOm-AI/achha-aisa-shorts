@@ -1,0 +1,130 @@
+{
+  "title": "Hippo Ka Lal Paseena Asal Mein Kya Hai? 🦛 #shorts",
+  "idea": "Hippos secrete a red-orange chemical that acts as a natural sunscreen and antibacterial shield.",
+  "lines": [
+    {
+      "text": "Kya aapko pata hai hippo ka paseena sach mein lal rang ka hota hai?",
+      "highlight": "lal paseena",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦛",
+        "big": "RED SWEAT?"
+      }
+    },
+    {
+      "text": "Is jaanwar ki chamdi 6 cm moti hoti hai aur ye 30 km/h bhaag sakta hai!",
+      "highlight": "6 cm moti",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚶",
+          "label": "Insaan",
+          "value": 15
+        },
+        "right": {
+          "emoji": "🦛",
+          "label": "Hippo",
+          "value": 30
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Inka munh 110 degree khulta hai aur daant 50 cm tak lambe hote hain!",
+      "highlight": "110 degree",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "📐",
+          "label": "Insaan Jaw",
+          "value": 45
+        },
+        "right": {
+          "emoji": "🦛",
+          "label": "Hippo Jaw",
+          "value": 110
+        },
+        "unit": "deg"
+      }
+    },
+    {
+      "text": "Har raat ye pet bharne ke liye poore 40 kg ghaas kha jata hai!",
+      "highlight": "40 kg ghaas",
+      "scene": {
+        "type": "counter",
+        "emoji": "🌾",
+        "from": 0,
+        "to": 40,
+        "prefix": "",
+        "suffix": " kg",
+        "label": "Daily Grass"
+      }
+    },
+    {
+      "text": "Lekin sabse crazy baat, iska lal paseena asal mein natural sunscreen hai!",
+      "highlight": "natural sunscreen",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "☀️",
+            "label": "Dhoop"
+          },
+          {
+            "emoji": "🧪",
+            "label": "Lal Tel"
+          },
+          {
+            "emoji": "🛡️",
+            "label": "Suraksha"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Ye lal chemical ise germs aur ultraviolet rays se bachata hai! Kya ye pata tha?",
+      "highlight": "germs aur dhoop",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "NATURAL SUNSCREEN!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Hippo Ka Lal Paseena Asal Mein Kya Hai? 🦛 #shorts",
+    "description": "Kya aapko pata hai Hippo ka paseena lal kyun hota hai? Dekhiye Hippo ke baare mein kuch aise mind-blowing facts jo aapko hairan kar denge!\n\n#hippo #facts #animals #science #shorts",
+    "tags": [
+      "hippo facts",
+      "hippopotamus",
+      "animal facts",
+      "blood sweat hippo",
+      "amazing facts",
+      "hinglish facts",
+      "shorts",
+      "mind blowing facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Hippo skin is 6 cm thick",
+      "source": "https://en.wikipedia.org/wiki/Hippopotamus"
+    },
+    {
+      "claim": "Hippos can run up to 30 km/h",
+      "source": "https://en.wikipedia.org/wiki/Hippopotamus"
+    },
+    {
+      "claim": "Hippos open their mouth at 110 degrees",
+      "source": "https://en.wikipedia.org/wiki/Hippopotamus"
+    },
+    {
+      "claim": "Lower canines grow up to 50 cm",
+      "source": "https://en.wikipedia.org/wiki/Hippopotamus"
+    },
+    {
+      "claim": "Hippos eat around 40 kg of grass per night",
+      "source": "https://en.wikipedia.org/wiki/Hippopotamus"
+    }
+  ]
+}

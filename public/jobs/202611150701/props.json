@@ -1,0 +1,102 @@
+{
+  "title": "Hippo Ka Lal Paseena Asal Mein Kya Hai? 🦛 #shorts",
+  "accent": "#ea580c",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai hippo ka paseena sach mein lal rang ka hota hai?",
+      "highlight": "lal paseena",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦛",
+        "big": "RED SWEAT?"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Is jaanwar ki chamdi 6 cm moti hoti hai aur ye 30 km/h bhaag sakta hai!",
+      "highlight": "6 cm moti",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚶",
+          "label": "Insaan",
+          "value": 15
+        },
+        "right": {
+          "emoji": "🦛",
+          "label": "Hippo",
+          "value": 30
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 191
+    },
+    {
+      "text": "Inka munh 110 degree khulta hai aur daant 50 cm tak lambe hote hain!",
+      "highlight": "110 degree",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "📐",
+          "label": "Insaan Jaw",
+          "value": 45
+        },
+        "right": {
+          "emoji": "🦛",
+          "label": "Hippo Jaw",
+          "value": 110
+        },
+        "unit": "deg"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Har raat ye pet bharne ke liye poore 40 kg ghaas kha jata hai!",
+      "highlight": "40 kg ghaas",
+      "scene": {
+        "type": "counter",
+        "emoji": "🌾",
+        "from": 0,
+        "to": 40,
+        "prefix": "",
+        "suffix": " kg",
+        "label": "Daily Grass"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Lekin sabse crazy baat, iska lal paseena asal mein natural sunscreen hai!",
+      "highlight": "natural sunscreen",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "☀️",
+            "label": "Dhoop"
+          },
+          {
+            "emoji": "🧪",
+            "label": "Lal Tel"
+          },
+          {
+            "emoji": "🛡️",
+            "label": "Suraksha"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Ye lal chemical ise germs aur ultraviolet rays se bachata hai! Kya ye pata tha?",
+      "highlight": "germs aur dhoop",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "NATURAL SUNSCREEN!"
+      },
+      "durationInFrames": 180
+    }
+  ]
+}
