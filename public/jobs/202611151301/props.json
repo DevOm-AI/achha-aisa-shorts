@@ -1,0 +1,91 @@
+{
+  "title": "Dunia Ka Sabse Bada Wingspan!",
+  "accent": "#059669",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aap jaante ho ki is pakshi ka wingspan 3.7 meter tak hota hai?",
+      "highlight": "3.7 meter",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦅",
+        "big": "3.7 METER WINGSPAN!"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Ye kisi bhi zinda pakshi mein sabse bada wingspan hai!",
+      "highlight": "sabse bada",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐦",
+          "label": "Normal Bird",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🦅",
+          "label": "Snowy Albatross",
+          "value": 4
+        },
+        "unit": "Meter"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Itna bada ki ye bina pankh hilaaye ghanto hawa mein reh sakta hai.",
+      "highlight": "bina pankh hilaaye",
+      "scene": {
+        "type": "fact",
+        "emoji": "💨",
+        "big": "NO FLAPPING",
+        "small": "Stays in air for hours"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Flight ke dauran inki speed 135 km/h tak record ki gayi hai!",
+      "highlight": "135 km/h",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚗",
+          "label": "Car",
+          "value": 60
+        },
+        "right": {
+          "emoji": "🦅",
+          "label": "Albatross",
+          "value": 135
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Aur ye ek saal mein 120,000 km se zyada ka safar karte hain.",
+      "highlight": "120,000 km",
+      "scene": {
+        "type": "counter",
+        "emoji": "🌍",
+        "from": 0,
+        "to": 120000,
+        "prefix": "",
+        "suffix": " km",
+        "label": "Distance in 1 year"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Kya aap itne bade wingspan wale pakshi ko dekhna chahenge?",
+      "highlight": "dekhna chahenge",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "GIANT BIRD!"
+      },
+      "durationInFrames": 126
+    }
+  ]
+}

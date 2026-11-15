@@ -1,0 +1,115 @@
+{
+  "title": "Dunia Ka Sabse Bada Wingspan!",
+  "idea": "The snowy albatross has a massive wingspan of up to 3.7 meters and can fly without flapping for hours.",
+  "lines": [
+    {
+      "text": "Kya aap jaante ho ki is pakshi ka wingspan 3.7 meter tak hota hai?",
+      "highlight": "3.7 meter",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦅",
+        "big": "3.7 METER WINGSPAN!"
+      }
+    },
+    {
+      "text": "Ye kisi bhi zinda pakshi mein sabse bada wingspan hai!",
+      "highlight": "sabse bada",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐦",
+          "label": "Normal Bird",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🦅",
+          "label": "Snowy Albatross",
+          "value": 4
+        },
+        "unit": "Meter"
+      }
+    },
+    {
+      "text": "Itna bada ki ye bina pankh hilaaye ghanto hawa mein reh sakta hai.",
+      "highlight": "bina pankh hilaaye",
+      "scene": {
+        "type": "fact",
+        "emoji": "💨",
+        "big": "NO FLAPPING",
+        "small": "Stays in air for hours"
+      }
+    },
+    {
+      "text": "Flight ke dauran inki speed 135 km/h tak record ki gayi hai!",
+      "highlight": "135 km/h",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚗",
+          "label": "Car",
+          "value": 60
+        },
+        "right": {
+          "emoji": "🦅",
+          "label": "Albatross",
+          "value": 135
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Aur ye ek saal mein 120,000 km se zyada ka safar karte hain.",
+      "highlight": "120,000 km",
+      "scene": {
+        "type": "counter",
+        "emoji": "🌍",
+        "from": 0,
+        "to": 120000,
+        "prefix": "",
+        "suffix": " km",
+        "label": "Distance in 1 year"
+      }
+    },
+    {
+      "text": "Kya aap itne bade wingspan wale pakshi ko dekhna chahenge?",
+      "highlight": "dekhna chahenge",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "GIANT BIRD!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Dunia Ka Sabse Bada Wingspan Wala Pakshi! 🦅 #shorts",
+    "description": "Janiye snowy albatross ke baare mein kuch hairaan karne wale facts jo aapne pehle kabhi nahi sune honge. Ye pakshi bina pankh hilaaye ghanto hawa mein reh sakta hai!\n\n#Albatross #Birds #Wildlife #AmazingFacts #Shorts",
+    "tags": [
+      "Snowy Albatross",
+      "Wandering Albatross",
+      "Biggest Wingspan",
+      "Birds Fact",
+      "Amazing Animals",
+      "Wildlife Facts",
+      "Hinglish Facts",
+      "YouTube Shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The snowy albatross has a wingspan of up to 3.7 meters.",
+      "source": "https://en.wikipedia.org/wiki/Snowy_albatross"
+    },
+    {
+      "claim": "It is capable of remaining in the air without flapping its wings for several hours at a time.",
+      "source": "https://en.wikipedia.org/wiki/Snowy_albatross"
+    },
+    {
+      "claim": "During flight, speeds of 135 km/h have been recorded.",
+      "source": "https://en.wikipedia.org/wiki/Snowy_albatross"
+    },
+    {
+      "claim": "Some individual snowy albatrosses cover more than 120,000 km in one year.",
+      "source": "https://en.wikipedia.org/wiki/Snowy_albatross"
+    }
+  ]
+}
