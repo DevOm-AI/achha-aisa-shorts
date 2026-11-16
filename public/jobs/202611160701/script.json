@@ -1,0 +1,107 @@
+{
+  "title": "Emperor Penguin Paani Mein 535m Gehrai Tak Kaise Jaata Hai? 🐧 #shorts",
+  "idea": "Emperor penguins can dive to extreme depths of 535 meters and hold their breath for 20 minutes by lowering their heart rate to 15 bpm.",
+  "lines": [
+    {
+      "text": "Kya koi bird samundar mein 535 meter gehrai tak ja sakti hai?",
+      "highlight": "535 meter",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐧",
+        "big": "535M DEEP DIVE!"
+      }
+    },
+    {
+      "text": "Emperor Penguin paani ke andar 20 minute tak bina saans liye rehta hai.",
+      "highlight": "20 minute",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 20,
+        "prefix": "",
+        "suffix": " Min",
+        "label": "SUBMERGED TIME"
+      }
+    },
+    {
+      "text": "Ye 535 meter neeche jaakar aasaani se shikaar kar sakta hai.",
+      "highlight": "535 meter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏊",
+          "label": "Insan Dive",
+          "value": 20
+        },
+        "right": {
+          "emoji": "🐧",
+          "label": "Penguin Dive",
+          "value": 535
+        },
+        "unit": "m"
+      }
+    },
+    {
+      "text": "Diving ke dauran iska heart rate ghat kar 15 beats per minute ho jata hai!",
+      "highlight": "15 beats",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "❤️",
+          "label": "Normal Heart",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🐧",
+          "label": "Dive Heart",
+          "value": 15
+        },
+        "unit": "bpm"
+      }
+    },
+    {
+      "text": "Iske alawa inki solid bones high pressure se inhen bachati hain.",
+      "highlight": "solid bones",
+      "scene": {
+        "type": "fact",
+        "emoji": "🦴",
+        "big": "SOLID BONES",
+        "small": "High pressure protection"
+      }
+    },
+    {
+      "text": "Kya aap paani me 1 minute saans rok sakte ho? Comment me batao!",
+      "highlight": "saans rok",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "UNBELIEVABLE DIVER"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Emperor Penguin Paani Mein 535m Gehrai Tak Kaise Jaata Hai? 🐧 #shorts",
+    "description": "Emperor Penguin samundar ke andar 535 meters ki gehrai tak dive kar sakta hai aur 20 minute tak saans rok sakta hai! Jaaniye is super bird ke mind-blowing secrets.\n#emperorpenguin #penguin #oceanfacts #wildlifefacts #mindblowingfacts",
+    "tags": [
+      "Emperor Penguin",
+      "Penguin facts",
+      "Deep dive penguin",
+      "Ocean facts",
+      "Animal facts Hinglish",
+      "Mind blowing facts",
+      "Shorts",
+      "Wildlife facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Emperor penguins can remain submerged underwater for around 20 minutes and dive to 535 meters depth.",
+      "source": "https://en.wikipedia.org/wiki/Emperor_penguin"
+    },
+    {
+      "claim": "Their heart rate slows down to 15-20 beats per minute during deep dives.",
+      "source": "https://en.wikipedia.org/wiki/Emperor_penguin"
+    }
+  ]
+}
