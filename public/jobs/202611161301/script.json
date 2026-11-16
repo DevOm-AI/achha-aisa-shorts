@@ -1,0 +1,110 @@
+{
+  "title": "Wood Frog: Barf Mein Zinda Rehne Wala Mendhak!",
+  "idea": "The wood frog can survive winter by allowing up to 70% of its body water to freeze completely solid for over 190 days.",
+  "lines": [
+    {
+      "text": "Kya ek mendhak poori tarah barf bankar bhi zinda reh sakta hai?",
+      "highlight": "zinda reh",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐸",
+        "big": "FROZEN FROG?"
+      }
+    },
+    {
+      "text": "Wood frog sardi mein apne body ka 70 percent paani freeze kar leta hai!",
+      "highlight": "70 percent",
+      "scene": {
+        "type": "counter",
+        "emoji": "🧊",
+        "from": 0,
+        "to": 70,
+        "prefix": "",
+        "suffix": "%",
+        "label": "Body Water Frozen"
+      }
+    },
+    {
+      "text": "Is state mein iska dil, saans aur blood circulation sab ruk jaata hai.",
+      "highlight": "sab ruk",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "❤️",
+            "text": "Dil Ruk Gaya"
+          },
+          {
+            "emoji": "🫁",
+            "text": "Saans Band"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Yeh anokha mendhak poore 193 dino tak frozen rehta hai!",
+      "highlight": "193 dino",
+      "scene": {
+        "type": "stack",
+        "emoji": "❄️",
+        "count": 193,
+        "label": "Dino Tak Frozen"
+      }
+    },
+    {
+      "text": "Lekin garmi aate hi barf pighalti hai aur yeh dobara zinda ho jaata hai!",
+      "highlight": "zinda ho",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "DOBARA ZINDA!"
+      }
+    },
+    {
+      "text": "Kya aap itni sardi mein ek din bhi survive kar paoge?",
+      "highlight": "survive",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐸",
+          "label": "Wood Frog",
+          "value": 193
+        },
+        "right": {
+          "emoji": "🥶",
+          "label": "Insan",
+          "value": 1
+        },
+        "unit": "dino"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Wood Frog: Barf Mein Zinda Rehne Wala Mendhak! 🐸 #shorts",
+    "description": "Kya aap jaante hain ki Wood Frog sardi mein poori tarah frozen ho jaata hai? Iska dil aur saans rukne ke bawajood yeh 193 dino baad dobara zinda ho jata hai!\n#woodfrog #naturefacts #mindblowingfacts #hinglishfacts #shorts",
+    "tags": [
+      "wood frog",
+      "frozen frog",
+      "wood frog facts",
+      "amazing animals",
+      "science facts",
+      "hinglish facts",
+      "mindblowing facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Wood frog can tolerate freezing of 65-70% of total body water",
+      "source": "https://en.wikipedia.org/wiki/Wood_frog"
+    },
+    {
+      "claim": "Frozen wood frogs have no heartbeat or breathing",
+      "source": "https://en.wikipedia.org/wiki/Wood_frog"
+    },
+    {
+      "claim": "Wood frogs remain frozen for around 193 days during hibernation",
+      "source": "https://en.wikipedia.org/wiki/Wood_frog"
+    }
+  ]
+}

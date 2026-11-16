@@ -1,0 +1,90 @@
+{
+  "title": "Wood Frog: Barf Mein Zinda Rehne Wala Mendhak!",
+  "accent": "#dc2626",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya ek mendhak poori tarah barf bankar bhi zinda reh sakta hai?",
+      "highlight": "zinda reh",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐸",
+        "big": "FROZEN FROG?"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Wood frog sardi mein apne body ka 70 percent paani freeze kar leta hai!",
+      "highlight": "70 percent",
+      "scene": {
+        "type": "counter",
+        "emoji": "🧊",
+        "from": 0,
+        "to": 70,
+        "prefix": "",
+        "suffix": "%",
+        "label": "Body Water Frozen"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Is state mein iska dil, saans aur blood circulation sab ruk jaata hai.",
+      "highlight": "sab ruk",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "❤️",
+            "text": "Dil Ruk Gaya"
+          },
+          {
+            "emoji": "🫁",
+            "text": "Saans Band"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Yeh anokha mendhak poore 193 dino tak frozen rehta hai!",
+      "highlight": "193 dino",
+      "scene": {
+        "type": "stack",
+        "emoji": "❄️",
+        "count": 193,
+        "label": "Dino Tak Frozen"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Lekin garmi aate hi barf pighalti hai aur yeh dobara zinda ho jaata hai!",
+      "highlight": "zinda ho",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "DOBARA ZINDA!"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Kya aap itni sardi mein ek din bhi survive kar paoge?",
+      "highlight": "survive",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐸",
+          "label": "Wood Frog",
+          "value": 193
+        },
+        "right": {
+          "emoji": "🥶",
+          "label": "Insan",
+          "value": 1
+        },
+        "unit": "dino"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
