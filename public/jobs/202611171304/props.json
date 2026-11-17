@@ -1,0 +1,87 @@
+{
+  "title": "Archerfish: Paani Ki Sniper Machhli! 🐟 #shorts",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapne aisi machhli dekhi hai jo sniper ki tarah shikaar karti hai?",
+      "highlight": "sniper machhli",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐟",
+        "big": "SNIPER FISH!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Archerfish paani ke upar 3 meter tak paani ki pichkari maarti hai!",
+      "highlight": "3 meter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐟",
+          "label": "Archer Shot",
+          "value": 3
+        },
+        "right": {
+          "emoji": "🧍",
+          "label": "Insaan",
+          "value": 1.7
+        },
+        "unit": "m"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "3 meter matlab ek poori bus jitni unchai tak sharp nishana!",
+      "highlight": "bus jitni",
+      "scene": {
+        "type": "stack",
+        "emoji": "🚌",
+        "count": 1,
+        "label": "3 Meter Unchai"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Bada archerfish pehli hi baar mein perfect target hit karta hai.",
+      "highlight": "perfect target",
+      "scene": {
+        "type": "fact",
+        "emoji": "🎯",
+        "big": "100% ACCURATE",
+        "small": "First shot hits prey"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Yeh machhli paani ko shape karke ek deadly bullet bana deti hai!",
+      "highlight": "deadly bullet",
+      "scene": {
+        "type": "reveal",
+        "emoji": "💦",
+        "big": "WATER BULLET!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aap iss water sniper fish ke baare mein pehle jaante the?",
+      "highlight": "water sniper",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🎯",
+            "text": "Water Sniper"
+          },
+          {
+            "emoji": "🐟",
+            "text": "Archerfish"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    }
+  ]
+}

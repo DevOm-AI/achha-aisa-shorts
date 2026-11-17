@@ -1,0 +1,99 @@
+{
+  "title": "Archerfish: Paani Ki Sniper Machhli! 🐟 #shorts",
+  "idea": "Archerfish can shoot precise jets of water up to 3 meters high to knock prey into the water.",
+  "lines": [
+    {
+      "text": "Kya aapne aisi machhli dekhi hai jo sniper ki tarah shikaar karti hai?",
+      "highlight": "sniper machhli",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐟",
+        "big": "SNIPER FISH!"
+      }
+    },
+    {
+      "text": "Archerfish paani ke upar 3 meter tak paani ki pichkari maarti hai!",
+      "highlight": "3 meter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐟",
+          "label": "Archer Shot",
+          "value": 3
+        },
+        "right": {
+          "emoji": "🧍",
+          "label": "Insaan",
+          "value": 1.7
+        },
+        "unit": "m"
+      }
+    },
+    {
+      "text": "3 meter matlab ek poori bus jitni unchai tak sharp nishana!",
+      "highlight": "bus jitni",
+      "scene": {
+        "type": "stack",
+        "emoji": "🚌",
+        "count": 1,
+        "label": "3 Meter Unchai"
+      }
+    },
+    {
+      "text": "Bada archerfish pehli hi baar mein perfect target hit karta hai.",
+      "highlight": "perfect target",
+      "scene": {
+        "type": "fact",
+        "emoji": "🎯",
+        "big": "100% ACCURATE",
+        "small": "First shot hits prey"
+      }
+    },
+    {
+      "text": "Yeh machhli paani ko shape karke ek deadly bullet bana deti hai!",
+      "highlight": "deadly bullet",
+      "scene": {
+        "type": "reveal",
+        "emoji": "💦",
+        "big": "WATER BULLET!"
+      }
+    },
+    {
+      "text": "Kya aap iss water sniper fish ke baare mein pehle jaante the?",
+      "highlight": "water sniper",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🎯",
+            "text": "Water Sniper"
+          },
+          {
+            "emoji": "🐟",
+            "text": "Archerfish"
+          }
+        ]
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Archerfish: Paani Ki Water Sniper Machhli! 🐟 #shorts",
+    "description": "Kya aap jaante hain ki Archerfish paani ke 3 meter upar baithe kide ko paani ki pichkari se gira sakti hai? Dekhiye iss amazing underwater sniper fish ke mind-blowing facts!\n\n#archerfish #wildlifefacts #sciencefacts #hinglishfacts #shorts",
+    "tags": [
+      "archerfish",
+      "water sniper fish",
+      "fish facts",
+      "animal facts",
+      "mind blowing facts",
+      "hinglish facts",
+      "amazing animals",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Archerfish can shoot water jets up to 3 meters high.",
+      "source": "https://en.wikipedia.org/wiki/Archerfish"
+    }
+  ]
+}
