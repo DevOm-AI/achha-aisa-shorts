@@ -1,0 +1,94 @@
+{
+  "title": "Platypus Ki Ye Superpower Aapko Hila Degi! ⚡ #shorts",
+  "accent": "#dc2626",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Ye anokha jaanwar paani ke andar bina dekhe shikaar karta hai!",
+      "highlight": "bina dekhe",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦆",
+        "big": "ELECTRIC HUNTER"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Underwater jaate hi yeh apni aankhein, kaan aur naak band kar leta hai.",
+      "highlight": "band kar",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "👁️",
+            "label": "Aankhein"
+          },
+          {
+            "emoji": "👂",
+            "label": "Kaan"
+          },
+          {
+            "emoji": "👃",
+            "label": "Naak"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Lekin iski chonch par poore 40,000 electric sensors hote hain!",
+      "highlight": "40,000 electric",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 40000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Electroreceptors"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Yeh shikaar ki muscles ka sabse chota electric current bhi pakad leta hai.",
+      "highlight": "electric current",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦐",
+          "label": "Shrimp Signal",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🦆",
+          "label": "Sensor Power",
+          "value": 40000
+        },
+        "unit": "x"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Isi superpower se yeh andhere paani mein bhi sateek shikaar karta hai!",
+      "highlight": "sateek shikaar",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SIXTH SENSE!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapne pehle kabhi kisi aise mammal ke baare mein suna tha?",
+      "highlight": "suna tha",
+      "scene": {
+        "type": "fact",
+        "emoji": "🧠",
+        "big": "ELECTROLOCATION",
+        "small": "Sensory superpower underwater"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}

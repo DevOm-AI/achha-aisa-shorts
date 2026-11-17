@@ -1,0 +1,106 @@
+{
+  "title": "Platypus Ki Ye Superpower Aapko Hila Degi! ⚡ #shorts",
+  "idea": "Platypus hunts underwater with eyes and ears closed using 40,000 electric sensors on its bill.",
+  "lines": [
+    {
+      "text": "Ye anokha jaanwar paani ke andar bina dekhe shikaar karta hai!",
+      "highlight": "bina dekhe",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦆",
+        "big": "ELECTRIC HUNTER"
+      }
+    },
+    {
+      "text": "Underwater jaate hi yeh apni aankhein, kaan aur naak band kar leta hai.",
+      "highlight": "band kar",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "👁️",
+            "label": "Aankhein"
+          },
+          {
+            "emoji": "👂",
+            "label": "Kaan"
+          },
+          {
+            "emoji": "👃",
+            "label": "Naak"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Lekin iski chonch par poore 40,000 electric sensors hote hain!",
+      "highlight": "40,000 electric",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 40000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Electroreceptors"
+      }
+    },
+    {
+      "text": "Yeh shikaar ki muscles ka sabse chota electric current bhi pakad leta hai.",
+      "highlight": "electric current",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦐",
+          "label": "Shrimp Signal",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🦆",
+          "label": "Sensor Power",
+          "value": 40000
+        },
+        "unit": "x"
+      }
+    },
+    {
+      "text": "Isi superpower se yeh andhere paani mein bhi sateek shikaar karta hai!",
+      "highlight": "sateek shikaar",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SIXTH SENSE!"
+      }
+    },
+    {
+      "text": "Kya aapne pehle kabhi kisi aise mammal ke baare mein suna tha?",
+      "highlight": "suna tha",
+      "scene": {
+        "type": "fact",
+        "emoji": "🧠",
+        "big": "ELECTROLOCATION",
+        "small": "Sensory superpower underwater"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Platypus Ki Ye Superpower Aapko Hila Degi! ⚡ #shorts",
+    "description": "Platypus paani mein aankhein aur kaan band karke shikaar karta hai! Janiye iski 40,000 electric sensors wali superpower ke baare mein.\n\n#platypus #facts #science #nature #shorts",
+    "tags": [
+      "platypus",
+      "platypus facts",
+      "electric sense",
+      "animals",
+      "amazing facts",
+      "science facts",
+      "hinglish facts",
+      "nature"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The platypus has 40,000 electroreceptors on its bill.",
+      "source": "https://en.wikipedia.org/wiki/Platypus"
+    }
+  ]
+}
