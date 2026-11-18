@@ -1,0 +1,90 @@
+{
+  "title": "Beaver Ke Orange Daant Ka Sach! 🦫 #shorts",
+  "accent": "#ea580c",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai Beaver ke daant asli mein orange hote hain?",
+      "highlight": "orange hote hain",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦫",
+        "big": "ORANGE TEETH!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Ye koi gandagi nahi, inke daant iron ki vajah se orange hain!",
+      "highlight": "iron ki vajah",
+      "scene": {
+        "type": "fact",
+        "emoji": "🦷",
+        "big": "IRON ENAMEL",
+        "small": "Strong iron compounds"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Inhi majboot daaton se Beaver 50 minute mein ped kaat sakta hai!",
+      "highlight": "50 minute mein",
+      "scene": {
+        "type": "counter",
+        "emoji": "🪓",
+        "from": 0,
+        "to": 50,
+        "prefix": "",
+        "suffix": " min",
+        "label": "Ped Kaatne Ka Time"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Paani mein ye poore 15 minute tak saans rok sakta hai!",
+      "highlight": "15 minute",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧍",
+          "label": "Insaan",
+          "value": 2
+        },
+        "right": {
+          "emoji": "🦫",
+          "label": "Beaver",
+          "value": 15
+        },
+        "unit": "min"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Bahar aate hi ye 75 percent lungs air ek saath badal leta hai!",
+      "highlight": "75 percent lungs",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🫁",
+            "text": "75% Lung Air"
+          },
+          {
+            "emoji": "💨",
+            "text": "1 Breath Reload"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Jabki insaan sirf 15 percent! Kya aapne kabhi Beaver dekha hai?",
+      "highlight": "sirf 15 percent",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "75% VS 15% AIR!"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
