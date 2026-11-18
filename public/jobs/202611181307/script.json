@@ -1,0 +1,110 @@
+{
+  "title": "Giant Pacific Octopus Ka 50mm Escape Secret! 🐙 #shorts",
+  "idea": "The giant Pacific octopus can weigh up to 270 kg yet squeeze through a 50 mm hole, lays 400,000 eggs, and has blue copper-based blood.",
+  "lines": [
+    {
+      "text": "Giant Pacific octopus ek 50 mm chhote hole se bhi nikal sakta hai!",
+      "highlight": "50 mm hole",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐙",
+        "big": "50 MM HOLE ESCAPE!"
+      }
+    },
+    {
+      "text": "Iska weight 270 kg tak aur arm span 9.8 meter tak ho sakta hai!",
+      "highlight": "270 kg",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐙",
+          "label": "Octopus Weight",
+          "value": 270
+        },
+        "right": {
+          "emoji": "👨",
+          "label": "Human Weight",
+          "value": 70
+        },
+        "unit": "kg"
+      }
+    },
+    {
+      "text": "Lekin iska shareer sirf 50 mm ki chhotisi jagah se squeeze ho jata hai!",
+      "highlight": "squeeze",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🐙",
+            "label": "270 kg Body"
+          },
+          {
+            "emoji": "🕳️",
+            "label": "50 mm Gap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Ye octopus ek baar mein 400000 tak ande de sakti hai!",
+      "highlight": "400000 ande",
+      "scene": {
+        "type": "counter",
+        "emoji": "🪺",
+        "from": 0,
+        "to": 400000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Total Eggs"
+      }
+    },
+    {
+      "text": "Aur iska khoon laal nahi balki copper ke kaaran neela hota hai!",
+      "highlight": "neela khoon",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🔵",
+        "big": "COPPER BLUE BLOOD"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi neele khoon wala jaanwar dekha hai? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "fact",
+        "emoji": "🧠",
+        "big": "NEELA KHOON",
+        "small": "Copper-based Hemocyanin Blood"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Giant Pacific Octopus Ka 50mm Escape Secret! 🐙 #shorts",
+    "description": "Kya aap jaante hain Giant Pacific octopus kitna chhota hole cross kar sakta hai? 270 kg ka ye octopus 50 mm ke chhota hole se bhi nikal sakta hai!\n\n#octopus #marinebiology #oceanfacts #sciencefacts #shorts",
+    "tags": [
+      "giant pacific octopus",
+      "octopus facts",
+      "blue blood",
+      "ocean animals",
+      "sea creatures",
+      "mind blowing facts",
+      "hinglish facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Giant Pacific octopus body can compress through tiny spaces as small as 50 mm.",
+      "source": "https://en.wikipedia.org/wiki/Giant_Pacific_octopus"
+    },
+    {
+      "claim": "The largest recorded Giant Pacific octopus weighed 270 kg with a span of 9.8 m.",
+      "source": "https://en.wikipedia.org/wiki/Giant_Pacific_octopus"
+    },
+    {
+      "claim": "Giant Pacific octopus can lay up to 400,000 eggs.",
+      "source": "https://en.wikipedia.org/wiki/Giant_Pacific_octopus"
+    }
+  ]
+}

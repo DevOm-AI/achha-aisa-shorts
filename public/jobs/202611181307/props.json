@@ -1,0 +1,90 @@
+{
+  "title": "Giant Pacific Octopus Ka 50mm Escape Secret! 🐙 #shorts",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Giant Pacific octopus ek 50 mm chhote hole se bhi nikal sakta hai!",
+      "highlight": "50 mm hole",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐙",
+        "big": "50 MM HOLE ESCAPE!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Iska weight 270 kg tak aur arm span 9.8 meter tak ho sakta hai!",
+      "highlight": "270 kg",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐙",
+          "label": "Octopus Weight",
+          "value": 270
+        },
+        "right": {
+          "emoji": "👨",
+          "label": "Human Weight",
+          "value": 70
+        },
+        "unit": "kg"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Lekin iska shareer sirf 50 mm ki chhotisi jagah se squeeze ho jata hai!",
+      "highlight": "squeeze",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🐙",
+            "label": "270 kg Body"
+          },
+          {
+            "emoji": "🕳️",
+            "label": "50 mm Gap"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Ye octopus ek baar mein 400000 tak ande de sakti hai!",
+      "highlight": "400000 ande",
+      "scene": {
+        "type": "counter",
+        "emoji": "🪺",
+        "from": 0,
+        "to": 400000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Total Eggs"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Aur iska khoon laal nahi balki copper ke kaaran neela hota hai!",
+      "highlight": "neela khoon",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🔵",
+        "big": "COPPER BLUE BLOOD"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapne kabhi neele khoon wala jaanwar dekha hai? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "fact",
+        "emoji": "🧠",
+        "big": "NEELA KHOON",
+        "small": "Copper-based Hemocyanin Blood"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
