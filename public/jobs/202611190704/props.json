@@ -1,0 +1,75 @@
+{
+  "title": "Golden Gate Bridge Ka Paint Secret! 🌉 #shorts",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Golden Gate Bridge ko bachane ke liye har saal paint hota hai!",
+      "highlight": "har saal paint",
+      "scene": {
+        "type": "hook",
+        "emoji": "🌉",
+        "big": "GOLDEN GATE"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapko pata hai ki isme kitna paint lagta hai?",
+      "highlight": "kitna paint",
+      "scene": {
+        "type": "fact",
+        "emoji": "🎨",
+        "big": "10,000 GALLONS",
+        "small": "Paint annually used"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Yeh paint corrosion se bachane ke liye continuous kiya jata hai.",
+      "highlight": "corrosion se",
+      "scene": {
+        "type": "fact",
+        "emoji": "🛡️",
+        "big": "PROTECTION",
+        "small": "Continuous painting"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "San Francisco ka yeh iconic bridge duniya bhar mein famous hai.",
+      "highlight": "iconic bridge",
+      "scene": {
+        "type": "fact",
+        "emoji": "🌆",
+        "big": "SAN FRANCISCO",
+        "small": "Wonders of Modern World"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Iska main span 4,200 feet lamba hai!",
+      "highlight": "4,200 feet",
+      "scene": {
+        "type": "counter",
+        "emoji": "📏",
+        "from": 0,
+        "to": 4200,
+        "prefix": "",
+        "suffix": "ft",
+        "label": "Main span length"
+      },
+      "durationInFrames": 94
+    },
+    {
+      "text": "Socho, itna bada bridge maintain karna kitna mushkil hoga?",
+      "highlight": "maintain karna",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "ENDLESS PAINT"
+      },
+      "durationInFrames": 115
+    }
+  ]
+}
