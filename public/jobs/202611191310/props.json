@@ -1,0 +1,98 @@
+{
+  "title": "Red Kangaroo Ka Dhasu Sach! 🦘 #shorts",
+  "accent": "#059669",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai 60 km/h se bhaagne wala Red Kangaroo kitna ajeeb hai?",
+      "highlight": "60 km/h",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦘",
+        "big": "RED KANGAROO FACT"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Jab iska bachha paida hota hai, toh yeh sirf kuch centimeter lamba hota hai!",
+      "highlight": "kuch centimeter",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🪱",
+            "label": "Newborn"
+          },
+          {
+            "emoji": "🦘",
+            "label": "Adult"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Bina aankhon ke yeh bachha ma ke pouch tak 3 se 5 minute mein climb karta hai!",
+      "highlight": "3 se 5 minute",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 5,
+        "prefix": "",
+        "suffix": " min",
+        "label": "Pouch tak safari"
+      },
+      "durationInFrames": 202
+    },
+    {
+      "text": "Bada hone par yeh mature male 2.1 meter tak lamba aur 91 kg ka hota hai!",
+      "highlight": "2.1 meter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧍",
+          "label": "Insaan",
+          "value": 170
+        },
+        "right": {
+          "emoji": "🦘",
+          "label": "Kangaroo",
+          "value": 210
+        },
+        "unit": "cm"
+      },
+      "durationInFrames": 191
+    },
+    {
+      "text": "Ye ek hi jump mein 8 se 9 meter lamba chhalaang laga sakta hai!",
+      "highlight": "8 se 9 meter",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚶",
+          "label": "Insaan Jump",
+          "value": 2
+        },
+        "right": {
+          "emoji": "🦘",
+          "label": "Kangaroo Leap",
+          "value": 9
+        },
+        "unit": "m"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Kya aapne kabhi itne chhote bachhe ko itna giant bante dekha hai? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "GIANT MARSUPIAL!"
+      },
+      "durationInFrames": 169
+    }
+  ]
+}

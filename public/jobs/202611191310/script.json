@@ -1,0 +1,126 @@
+{
+  "title": "Red Kangaroo Ka Dhasu Sach! 🦘 #shorts",
+  "idea": "Exploring the mind-blowing journey of a red kangaroo from a tiny newborn crawling into its pouch to a massive leaping giant.",
+  "lines": [
+    {
+      "text": "Kya aapko pata hai 60 km/h se bhaagne wala Red Kangaroo kitna ajeeb hai?",
+      "highlight": "60 km/h",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦘",
+        "big": "RED KANGAROO FACT"
+      }
+    },
+    {
+      "text": "Jab iska bachha paida hota hai, toh yeh sirf kuch centimeter lamba hota hai!",
+      "highlight": "kuch centimeter",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🪱",
+            "label": "Newborn"
+          },
+          {
+            "emoji": "🦘",
+            "label": "Adult"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Bina aankhon ke yeh bachha ma ke pouch tak 3 se 5 minute mein climb karta hai!",
+      "highlight": "3 se 5 minute",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 5,
+        "prefix": "",
+        "suffix": " min",
+        "label": "Pouch tak safari"
+      }
+    },
+    {
+      "text": "Bada hone par yeh mature male 2.1 meter tak lamba aur 91 kg ka hota hai!",
+      "highlight": "2.1 meter",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🧍",
+          "label": "Insaan",
+          "value": 170
+        },
+        "right": {
+          "emoji": "🦘",
+          "label": "Kangaroo",
+          "value": 210
+        },
+        "unit": "cm"
+      }
+    },
+    {
+      "text": "Ye ek hi jump mein 8 se 9 meter lamba chhalaang laga sakta hai!",
+      "highlight": "8 se 9 meter",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🚶",
+          "label": "Insaan Jump",
+          "value": 2
+        },
+        "right": {
+          "emoji": "🦘",
+          "label": "Kangaroo Leap",
+          "value": 9
+        },
+        "unit": "m"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi itne chhote bachhe ko itna giant bante dekha hai? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "GIANT MARSUPIAL!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Red Kangaroo Ka Dhasu Sach! 🦘 #shorts",
+    "description": "Jane Red Kangaroo ke baare mein mind-blowing facts! Kaise ek tiny newborn kangaroo aage chalkar 2.1 meter lamba giant ban jata hai.\n\n#RedKangaroo #AnimalFacts #MindBlowingFacts #HinglishFacts #Shorts",
+    "tags": [
+      "red kangaroo",
+      "kangaroo facts",
+      "australian wildlife",
+      "mind blowing facts",
+      "hinglish facts",
+      "animal facts",
+      "amazing animals",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Red kangaroos can reach speeds of around 60 km/h.",
+      "source": "https://en.wikipedia.org/wiki/Red_kangaroo"
+    },
+    {
+      "claim": "A newborn red kangaroo is only a few centimeters long.",
+      "source": "https://en.wikipedia.org/wiki/Red_kangaroo"
+    },
+    {
+      "claim": "It takes 3 to 5 minutes for the newborn to climb into the mother's pouch.",
+      "source": "https://en.wikipedia.org/wiki/Red_kangaroo"
+    },
+    {
+      "claim": "Large mature male red kangaroos can stand up to 2.1 meters tall and weigh 91 kg.",
+      "source": "https://en.wikipedia.org/wiki/Red_kangaroo"
+    },
+    {
+      "claim": "Male red kangaroos can cover 8 to 9 meters in a single leap.",
+      "source": "https://en.wikipedia.org/wiki/Red_kangaroo"
+    }
+  ]
+}
