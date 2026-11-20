@@ -1,0 +1,106 @@
+{
+  "title": "Caterpillar Ka Khaufnaak Sach! 🐛 #shorts",
+  "idea": "A tobacco hornworm caterpillar increases its weight ten-thousandfold in less than 20 days.",
+  "lines": [
+    {
+      "text": "Ek chhota keeda 20 din mein kitna bada ho sakta hai?",
+      "highlight": "20 din",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐛",
+        "big": "EATING MACHINE!"
+      }
+    },
+    {
+      "text": "Tobacco hornworm caterpillar din raat sirf patte khaata rehta hai.",
+      "highlight": "patte khaata",
+      "scene": {
+        "type": "counter",
+        "emoji": "🍃",
+        "from": 0,
+        "to": 20,
+        "prefix": "",
+        "suffix": " Days",
+        "label": "Hungry Caterpillar"
+      }
+    },
+    {
+      "text": "20 din se bhi kam mein ye vazan 10000 guna badha leta hai!",
+      "highlight": "10000 guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐛",
+          "label": "Start Weight",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐛",
+          "label": "Day 20 Weight",
+          "value": 10000
+        },
+        "unit": "x"
+      }
+    },
+    {
+      "text": "Jaise ek insani baccha 3 hafte mein poora haathi ban jaaye!",
+      "highlight": "haathi ban",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "👶",
+            "label": "Baby"
+          },
+          {
+            "emoji": "🧍",
+            "label": "Human"
+          },
+          {
+            "emoji": "🐘",
+            "label": "Elephant"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Tabhi to is chhote keede ko eating machine kaha jaata hai!",
+      "highlight": "eating machine",
+      "scene": {
+        "type": "fact",
+        "emoji": "⚡",
+        "big": "EATING MACHINE",
+        "small": "10000x Weight Gain"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi itna tez badhne wala jeev dekha hai?",
+      "highlight": "tez badhne",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "10000X GROWTH!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Caterpillar Ka Khaufnaak Sach! 🐛 #shorts",
+    "description": "Caterpillar ka ye sach aapke hosh uda dega! Dekhiye kaise ek chhota sa keeda 20 din mein 10,000 guna bada ho jaata hai.\n\n#caterpillar #facts #nature #amazingfacts #shorts",
+    "tags": [
+      "caterpillar",
+      "caterpillar facts",
+      "tobacco hornworm",
+      "eating machine",
+      "insects",
+      "mindblowing facts",
+      "facts in hinglish",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "A tobacco hornworm caterpillar increases its weight 10,000 times in less than 20 days.",
+      "source": "https://en.wikipedia.org/wiki/Caterpillar"
+    }
+  ]
+}

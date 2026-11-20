@@ -1,0 +1,94 @@
+{
+  "title": "Caterpillar Ka Khaufnaak Sach! 🐛 #shorts",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Ek chhota keeda 20 din mein kitna bada ho sakta hai?",
+      "highlight": "20 din",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐛",
+        "big": "EATING MACHINE!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Tobacco hornworm caterpillar din raat sirf patte khaata rehta hai.",
+      "highlight": "patte khaata",
+      "scene": {
+        "type": "counter",
+        "emoji": "🍃",
+        "from": 0,
+        "to": 20,
+        "prefix": "",
+        "suffix": " Days",
+        "label": "Hungry Caterpillar"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "20 din se bhi kam mein ye vazan 10000 guna badha leta hai!",
+      "highlight": "10000 guna",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐛",
+          "label": "Start Weight",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐛",
+          "label": "Day 20 Weight",
+          "value": 10000
+        },
+        "unit": "x"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Jaise ek insani baccha 3 hafte mein poora haathi ban jaaye!",
+      "highlight": "haathi ban",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "👶",
+            "label": "Baby"
+          },
+          {
+            "emoji": "🧍",
+            "label": "Human"
+          },
+          {
+            "emoji": "🐘",
+            "label": "Elephant"
+          }
+        ]
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Tabhi to is chhote keede ko eating machine kaha jaata hai!",
+      "highlight": "eating machine",
+      "scene": {
+        "type": "fact",
+        "emoji": "⚡",
+        "big": "EATING MACHINE",
+        "small": "10000x Weight Gain"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Kya aapne kabhi itna tez badhne wala jeev dekha hai?",
+      "highlight": "tez badhne",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "10000X GROWTH!"
+      },
+      "durationInFrames": 126
+    }
+  ]
+}
