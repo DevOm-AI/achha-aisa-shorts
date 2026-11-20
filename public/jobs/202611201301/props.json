@@ -1,0 +1,94 @@
+{
+  "title": "Empire State Building's Own ZIP Code",
+  "accent": "#db2777",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Empire State Building itni vishal hai ki iska apna alag ZIP code hai!",
+      "highlight": "ZIP code",
+      "scene": {
+        "type": "hook",
+        "emoji": "🏢",
+        "big": "APNA ZIP CODE!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Is 102 manzila imarat mein kul 73 elevators lage hue hain.",
+      "highlight": "73 elevators",
+      "scene": {
+        "type": "counter",
+        "emoji": "🛗",
+        "from": 0,
+        "to": 73,
+        "prefix": "",
+        "suffix": "",
+        "label": "KUL ELEVATORS"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Poore structure ko banane mein 1 crore se zyada eentein lagi hain!",
+      "highlight": "1 crore eentein",
+      "scene": {
+        "type": "stack",
+        "emoji": "🧱",
+        "count": 10,
+        "label": "1 CRORE EENTEIN"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Aur is ek hi building mein poori 6,514 khidkiyan fit ki gayi hain.",
+      "highlight": "6,514 khidkiyan",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏠",
+          "label": "AAM GHAR",
+          "value": 10
+        },
+        "right": {
+          "emoji": "🏢",
+          "label": "EMPIRE STATE",
+          "value": 6514
+        },
+        "unit": "KHIDKIYAN"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Yeh itni badi hai ki har saal 40 lakh log ise dekhne aate hain!",
+      "highlight": "40 lakh log",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🚶",
+            "label": "LOCAL"
+          },
+          {
+            "emoji": "🚌",
+            "label": "TOURISTS"
+          },
+          {
+            "emoji": "🏙️",
+            "label": "40 LAKH"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Kya aap New York ki is iconic building mein jana chahenge? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "APNA ZIP CODE?"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}

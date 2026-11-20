@@ -1,0 +1,122 @@
+{
+  "title": "Empire State Building's Own ZIP Code",
+  "idea": "The Empire State Building is so massive that it has its own unique ZIP code, 73 elevators, and over 6,500 windows.",
+  "lines": [
+    {
+      "text": "Empire State Building itni vishal hai ki iska apna alag ZIP code hai!",
+      "highlight": "ZIP code",
+      "scene": {
+        "type": "hook",
+        "emoji": "🏢",
+        "big": "APNA ZIP CODE!"
+      }
+    },
+    {
+      "text": "Is 102 manzila imarat mein kul 73 elevators lage hue hain.",
+      "highlight": "73 elevators",
+      "scene": {
+        "type": "counter",
+        "emoji": "🛗",
+        "from": 0,
+        "to": 73,
+        "prefix": "",
+        "suffix": "",
+        "label": "KUL ELEVATORS"
+      }
+    },
+    {
+      "text": "Poore structure ko banane mein 1 crore se zyada eentein lagi hain!",
+      "highlight": "1 crore eentein",
+      "scene": {
+        "type": "stack",
+        "emoji": "🧱",
+        "count": 10,
+        "label": "1 CRORE EENTEIN"
+      }
+    },
+    {
+      "text": "Aur is ek hi building mein poori 6,514 khidkiyan fit ki gayi hain.",
+      "highlight": "6,514 khidkiyan",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏠",
+          "label": "AAM GHAR",
+          "value": 10
+        },
+        "right": {
+          "emoji": "🏢",
+          "label": "EMPIRE STATE",
+          "value": 6514
+        },
+        "unit": "KHIDKIYAN"
+      }
+    },
+    {
+      "text": "Yeh itni badi hai ki har saal 40 lakh log ise dekhne aate hain!",
+      "highlight": "40 lakh log",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🚶",
+            "label": "LOCAL"
+          },
+          {
+            "emoji": "🚌",
+            "label": "TOURISTS"
+          },
+          {
+            "emoji": "🏙️",
+            "label": "40 LAKH"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Kya aap New York ki is iconic building mein jana chahenge? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "APNA ZIP CODE?"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Empire State Building Ka Apna Alag ZIP Code Hai? 🏙️ #shorts",
+    "description": "Kya aapko pata hai New York ki Empire State Building itni vishal hai ki iska apna alag ZIP code 10118 hai? Isme 6,514 khidkiyan aur 73 elevators hain!\n\n#EmpireStateBuilding #NewYork #MindBlowingFacts #HinglishFacts #Shorts",
+    "tags": [
+      "Empire State Building",
+      "Empire State Building facts",
+      "New York skyscraper",
+      "Architecture facts",
+      "Mind blowing facts",
+      "Hinglish facts",
+      "Shorts",
+      "Facts in Hindi"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Empire State Building has its own ZIP Code 10118",
+      "source": "https://en.wikipedia.org/wiki/Empire_State_Building"
+    },
+    {
+      "claim": "Empire State Building has 73 elevators",
+      "source": "https://en.wikipedia.org/wiki/Empire_State_Building"
+    },
+    {
+      "claim": "The building has ten million bricks",
+      "source": "https://en.wikipedia.org/wiki/Empire_State_Building"
+    },
+    {
+      "claim": "The building contains 6,514 windows",
+      "source": "https://en.wikipedia.org/wiki/Empire_State_Building"
+    },
+    {
+      "claim": "Four million tourists visit annually",
+      "source": "https://en.wikipedia.org/wiki/Empire_State_Building"
+    }
+  ]
+}
