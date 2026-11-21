@@ -1,0 +1,83 @@
+{
+  "title": "Chinstrap Penguin Ka 4-Second Sleep Secret! 🐧 #shorts",
+  "accent": "#059669",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya ek jaanwar din mein 10,000 baar so sakta hai?",
+      "highlight": "10,000 baar so",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐧",
+        "big": "10,000 TIMES SLEEP?"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Chinstrap penguin har din 10,000 se zyada baar microsleep leta hai.",
+      "highlight": "10,000 se zyada",
+      "scene": {
+        "type": "counter",
+        "emoji": "💤",
+        "from": 0,
+        "to": 10000,
+        "prefix": "",
+        "suffix": " times",
+        "label": "MICRO SLEEPS PER DAY"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Har neend sirf 4 second ki hoti hai, bilkul ek jhatke ki tarah!",
+      "highlight": "4 second",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "😴",
+          "label": "Normal Sleep",
+          "value": 480
+        },
+        "right": {
+          "emoji": "🐧",
+          "label": "Penguin Sleep",
+          "value": 4
+        },
+        "unit": "sec"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Aise chote nap milakar ye roz poore 11 ghante ki neend lete hain.",
+      "highlight": "11 ghante",
+      "scene": {
+        "type": "stack",
+        "emoji": "⏰",
+        "count": 11,
+        "label": "HOURS TOTAL SLEEP"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Ye andon ki rakhwali karte hue bhi aise hi chote nap leta hai!",
+      "highlight": "andon ki rakhwali",
+      "scene": {
+        "type": "fact",
+        "emoji": "🥚",
+        "big": "NEST GUARDING",
+        "small": "SLEEPS WHILE WATCHING EGGS"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Agar aapko har 4 second mein neend aaye, toh kya hoga?",
+      "highlight": "kya hoga",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "4 SEC NAP SYSTEM"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
