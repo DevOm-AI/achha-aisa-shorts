@@ -1,0 +1,102 @@
+{
+  "title": "Ulloo Ki Gardan Ka Khaufnaak Sach! 🦉 #shorts",
+  "idea": "Owls can rotate their heads up to 270 degrees because they have 14 neck vertebrae compared to 7 in humans.",
+  "lines": [
+    {
+      "text": "Kya aap bina body hilaaye poora peeche dekh sakte ho? Ulloo ye kar sakta hai!",
+      "highlight": "poora peeche",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦉",
+        "big": "360 DEGREE HEAD?"
+      }
+    },
+    {
+      "text": "Insaan thoda mudte hain, par ulloo apni gardan 270 degrees tak ghouma sakta hai!",
+      "highlight": "270 degrees",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🦉",
+          "label": "Ulloo Head"
+        },
+        "orbiter": {
+          "emoji": "🔄",
+          "label": "270 Degree"
+        },
+        "big": "270 DEG ROTATION"
+      }
+    },
+    {
+      "text": "Insanon ki gardan mein sirf 7 neck bones hoti hain.",
+      "highlight": "7 neck bones",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "👤",
+          "label": "Human Bones",
+          "value": 7
+        },
+        "right": {
+          "emoji": "🦉",
+          "label": "Ulloo Bones",
+          "value": 14
+        },
+        "unit": "bones"
+      }
+    },
+    {
+      "text": "Lekin ulloo ke paas poore 14 neck vertebrae hote hain!",
+      "highlight": "14 neck vertebrae",
+      "scene": {
+        "type": "stack",
+        "emoji": "🦴",
+        "count": 14,
+        "label": "14 Neck Vertebrae"
+      }
+    },
+    {
+      "text": "Isiliye ghoomte waqt inki brain ki blood supply kabhi nahi rukti!",
+      "highlight": "blood supply",
+      "scene": {
+        "type": "fact",
+        "emoji": "🧠",
+        "big": "BLOOD FLOW",
+        "small": "Brain blood supply active"
+      }
+    },
+    {
+      "text": "Kya aap apni gardan 180 degree ghouma sakte ho? Comment mein batao!",
+      "highlight": "Comment mein",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER FLEXIBLE!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Ulloo Ki Gardan Ka Khaufnaak Sach! 🦉 #shorts",
+    "description": "Kya aap jaante hain ulloo apni gardan 270 degree tak kaise ghouma sakta hai? Insanon se doguni neck bones hone ka raaz jaaniye is video mein!\n\n#owl #facts #mindblowingfacts #hinglishfacts #shorts",
+    "tags": [
+      "owl facts",
+      "owl neck rotation",
+      "ulloo facts",
+      "science facts in hinglish",
+      "mind blowing facts",
+      "amazing animals",
+      "animal facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Owls can rotate their heads up to 270 degrees.",
+      "source": "https://en.wikipedia.org/wiki/Owl"
+    },
+    {
+      "claim": "Owls have 14 neck vertebrae compared to 7 in humans.",
+      "source": "https://en.wikipedia.org/wiki/Owl"
+    }
+  ]
+}
