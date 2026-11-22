@@ -1,0 +1,109 @@
+{
+  "title": "Colosseum Velarium Fact",
+  "idea": "The ancient Roman Colosseum could hold up to 80,000 spectators and used a massive retractable awning operated entirely by naval sailors.",
+  "lines": [
+    {
+      "text": "Roma ka famous Colosseum 80,000 logon ko ek sath baitha sakta tha!",
+      "highlight": "80,000 logon",
+      "scene": {
+        "type": "hook",
+        "emoji": "🏟️",
+        "big": "80,000 SEATS!"
+      }
+    },
+    {
+      "text": "Yahan itni bheed aati thi ki poora stadium kuch hi min mein khali ho jata tha.",
+      "highlight": "kuch hi min",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 1,
+        "to": 5,
+        "prefix": "",
+        "suffix": " min",
+        "label": "Exit time"
+      }
+    },
+    {
+      "text": "Sochiyega dhoop se bachne ke liye unke paas kya special cheez thi?",
+      "highlight": "dhoop se bachne",
+      "scene": {
+        "type": "fact",
+        "emoji": "☀️",
+        "big": "ROOF?",
+        "small": "Massive shade"
+      }
+    },
+    {
+      "text": "Yahan ek giant retractable awning system tha jiska naam velarium tha.",
+      "highlight": "velarium",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🏟️",
+          "label": "Colosseum"
+        },
+        "orbiter": {
+          "emoji": "⛺",
+          "label": "Velarium"
+        },
+        "big": "Retractable Roof"
+      }
+    },
+    {
+      "text": "Aap maanenge nahi, isko chalane ke liye aam log nahi balki sailors bulaye jaate the!",
+      "highlight": "sailors",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "👨‍💼",
+          "label": "Citizens",
+          "value": 0
+        },
+        "right": {
+          "emoji": "⚓",
+          "label": "Sailors",
+          "value": 100
+        },
+        "unit": "%"
+      }
+    },
+    {
+      "text": "Kya aapne kabhi itna anokha stadium dekha hai?",
+      "highlight": "anokha stadium",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SAILORS OPERATED IT!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Colosseum Ka Ye Raaz Nahi Jaante Honge! 🏟️ #shorts",
+    "description": "Janiye Rome ke iconic Colosseum ke baare mein ek hairatangez sach jo aapko hila dega. \n\n#colosseum #rome #history #facts #shorts",
+    "tags": [
+      "Colosseum",
+      "Rome",
+      "History Facts",
+      "Ancient Rome",
+      "Velarium",
+      "Amazing Facts",
+      "Hinglish Facts",
+      "Shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The Colosseum could hold an estimated 50,000 to 80,000 spectators.",
+      "source": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    {
+      "claim": "A retractable awning system known as the velarium was operated by sailors.",
+      "source": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    {
+      "claim": "The Colosseum had vomitoria that permitted exit within only a few minutes.",
+      "source": "https://en.wikipedia.org/wiki/Colosseum"
+    }
+  ]
+}

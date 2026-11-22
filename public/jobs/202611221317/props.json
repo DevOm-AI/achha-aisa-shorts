@@ -1,0 +1,89 @@
+{
+  "title": "Colosseum Velarium Fact",
+  "accent": "#059669",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Roma ka famous Colosseum 80,000 logon ko ek sath baitha sakta tha!",
+      "highlight": "80,000 logon",
+      "scene": {
+        "type": "hook",
+        "emoji": "🏟️",
+        "big": "80,000 SEATS!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Yahan itni bheed aati thi ki poora stadium kuch hi min mein khali ho jata tha.",
+      "highlight": "kuch hi min",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 1,
+        "to": 5,
+        "prefix": "",
+        "suffix": " min",
+        "label": "Exit time"
+      },
+      "durationInFrames": 191
+    },
+    {
+      "text": "Sochiyega dhoop se bachne ke liye unke paas kya special cheez thi?",
+      "highlight": "dhoop se bachne",
+      "scene": {
+        "type": "fact",
+        "emoji": "☀️",
+        "big": "ROOF?",
+        "small": "Massive shade"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Yahan ek giant retractable awning system tha jiska naam velarium tha.",
+      "highlight": "velarium",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "🏟️",
+          "label": "Colosseum"
+        },
+        "orbiter": {
+          "emoji": "⛺",
+          "label": "Velarium"
+        },
+        "big": "Retractable Roof"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Aap maanenge nahi, isko chalane ke liye aam log nahi balki sailors bulaye jaate the!",
+      "highlight": "sailors",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "👨‍💼",
+          "label": "Citizens",
+          "value": 0
+        },
+        "right": {
+          "emoji": "⚓",
+          "label": "Sailors",
+          "value": 100
+        },
+        "unit": "%"
+      },
+      "durationInFrames": 180
+    },
+    {
+      "text": "Kya aapne kabhi itna anokha stadium dekha hai?",
+      "highlight": "anokha stadium",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SAILORS OPERATED IT!"
+      },
+      "durationInFrames": 104
+    }
+  ]
+}
