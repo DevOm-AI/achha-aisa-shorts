@@ -1,0 +1,125 @@
+{
+  "title": "200 Din Tak Bina Ruke Udne Wala Pakshi! 🐦 #shorts",
+  "idea": "The Alpine swift can stay airborne continuously for over 200 days without landing once.",
+  "lines": [
+    {
+      "text": "Ek aisa pakshi jo 200 din tak bina zameen chhuye udta rehta hai!",
+      "highlight": "200 din",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐦",
+        "big": "200 DAYS FLIGHT!"
+      }
+    },
+    {
+      "text": "Alpine swift bina ruke poore 6 mahine se zyada hawa mein rehta hai.",
+      "highlight": "6 mahine",
+      "scene": {
+        "type": "counter",
+        "emoji": "🗓️",
+        "from": 0,
+        "to": 200,
+        "prefix": "",
+        "suffix": " Days",
+        "label": "Continuous Flight"
+      }
+    },
+    {
+      "text": "Khana khana ho ya sona, ye saare kaam hawa mein hi kar leta hai!",
+      "highlight": "hawa mein",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🦟",
+            "text": "Hawa Mein Khana"
+          },
+          {
+            "emoji": "😴",
+            "text": "Hawa Mein Sona"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Sirf 100 gram vajan wala ye parinda kabhi thakta hi nahi.",
+      "highlight": "100 gram",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐦",
+          "label": "Alpine Swift",
+          "value": 100
+        },
+        "right": {
+          "emoji": "📱",
+          "label": "Mobile Phone",
+          "value": 200
+        },
+        "unit": "g"
+      }
+    },
+    {
+      "text": "Iske 57 cm lambe pankh ise hawa ka sabse bada khiladi banate hain.",
+      "highlight": "57 cm",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🪶",
+            "label": "57cm Wings"
+          },
+          {
+            "emoji": "🐦",
+            "label": "Sky Master"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Kya aap 200 din tak bina soye ya ruke safar kar sakte ho?",
+      "highlight": "200 din",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "200 DAYS IN AIR!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "200 Din Tak Bina Ruke Udne Wala Pakshi! 🐦 #shorts",
+    "description": "Alpine swift ek aisa anokha parinda hai jo bina zameen par utre 200 din se zyada hawa mein ud sakta hai! Jaaniye iske baare mein hosh uda dene wale facts.\n\n#alpineswift #birds #facts #hinglish #shorts",
+    "tags": [
+      "alpine swift",
+      "birds facts",
+      "flying bird 200 days",
+      "amazing animal facts",
+      "hinglish facts",
+      "mindblowing facts",
+      "nature secrets",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "200 days straight flight",
+      "source": "https://en.wikipedia.org/wiki/Alpine_swift"
+    },
+    {
+      "claim": "6 months continuous flight",
+      "source": "https://en.wikipedia.org/wiki/Alpine_swift"
+    },
+    {
+      "claim": "Sleep in air",
+      "source": "https://en.wikipedia.org/wiki/Alpine_swift"
+    },
+    {
+      "claim": "100g weight",
+      "source": "https://en.wikipedia.org/wiki/Alpine_swift"
+    },
+    {
+      "claim": "57cm wingspan",
+      "source": "https://en.wikipedia.org/wiki/Alpine_swift"
+    }
+  ]
+}

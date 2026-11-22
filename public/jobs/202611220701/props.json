@@ -1,0 +1,97 @@
+{
+  "title": "200 Din Tak Bina Ruke Udne Wala Pakshi! 🐦 #shorts",
+  "accent": "#059669",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Ek aisa pakshi jo 200 din tak bina zameen chhuye udta rehta hai!",
+      "highlight": "200 din",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐦",
+        "big": "200 DAYS FLIGHT!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Alpine swift bina ruke poore 6 mahine se zyada hawa mein rehta hai.",
+      "highlight": "6 mahine",
+      "scene": {
+        "type": "counter",
+        "emoji": "🗓️",
+        "from": 0,
+        "to": 200,
+        "prefix": "",
+        "suffix": " Days",
+        "label": "Continuous Flight"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Khana khana ho ya sona, ye saare kaam hawa mein hi kar leta hai!",
+      "highlight": "hawa mein",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🦟",
+            "text": "Hawa Mein Khana"
+          },
+          {
+            "emoji": "😴",
+            "text": "Hawa Mein Sona"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Sirf 100 gram vajan wala ye parinda kabhi thakta hi nahi.",
+      "highlight": "100 gram",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐦",
+          "label": "Alpine Swift",
+          "value": 100
+        },
+        "right": {
+          "emoji": "📱",
+          "label": "Mobile Phone",
+          "value": 200
+        },
+        "unit": "g"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Iske 57 cm lambe pankh ise hawa ka sabse bada khiladi banate hain.",
+      "highlight": "57 cm",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🪶",
+            "label": "57cm Wings"
+          },
+          {
+            "emoji": "🐦",
+            "label": "Sky Master"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Kya aap 200 din tak bina soye ya ruke safar kar sakte ho?",
+      "highlight": "200 din",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "200 DAYS IN AIR!"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}
