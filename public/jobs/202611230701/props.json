@@ -1,0 +1,94 @@
+{
+  "title": "Pangolin Ki Jeebh Ka Khaufnaak Sach! 🦔 #shorts",
+  "accent": "#0891b2",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Iss anokhe jaanwar ki jeebh munh nahi, chhaati se judi hoti hai!",
+      "highlight": "chhaati se judi",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦔",
+        "big": "JEBH CHHAATI MEIN?"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Hum baat kar rahe hain Pangolin ki, jiski jeebh 40 cm lambi hai!",
+      "highlight": "40 cm lambi",
+      "scene": {
+        "type": "counter",
+        "emoji": "👅",
+        "from": 0,
+        "to": 40,
+        "prefix": "",
+        "suffix": " cm",
+        "label": "Jeebh Ki Lambai"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Ye 40 cm jeebh iske 30 cm ke chote sharir se bhi badi hai!",
+      "highlight": "30 cm ke chote sharir",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "👅",
+          "label": "Pangolin Tongue",
+          "value": 40
+        },
+        "right": {
+          "emoji": "🦔",
+          "label": "Small Body",
+          "value": 30
+        },
+        "unit": "cm"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Itni lambi jeebh rakhne ke liye munh mein bilkul jagah nahi!",
+      "highlight": "munh mein jagah nahi",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "👄",
+            "label": "Chota Munh"
+          },
+          {
+            "emoji": "👅",
+            "label": "Lambi Jeebh"
+          },
+          {
+            "emoji": "🫁",
+            "label": "Chest Cavity"
+          }
+        ]
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Isliye iski jeebh ka root seedha chest aur ribcage mein hota hai!",
+      "highlight": "chest aur ribcage",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "ROOT IN CHEST!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapko pehle kabhi Pangolin ka ye secret pata tha?",
+      "highlight": "Pangolin ka secret",
+      "scene": {
+        "type": "fact",
+        "emoji": "🧠",
+        "big": "ANIMAL FACTS",
+        "small": "Tongue anchored in thorax"
+      },
+      "durationInFrames": 126
+    }
+  ]
+}
