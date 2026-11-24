@@ -1,0 +1,105 @@
+{
+  "title": "Star-nosed mole ka ajab sach",
+  "idea": "The star-nosed mole has a unique snout with 22 tentacles and 25,000 sensory receptors, enabling it to eat prey in as little as 120 milliseconds.",
+  "lines": [
+    {
+      "text": "Iss strange janwar ke naak pe hain 22 ajeeb tentacles!",
+      "highlight": "22 ajeeb tentacles",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐭",
+        "big": "22 TENTACLES!"
+      }
+    },
+    {
+      "text": "Iske snout par hote hain 25,000 se zyada sensitive receptors!",
+      "highlight": "25,000",
+      "scene": {
+        "type": "counter",
+        "emoji": "✨",
+        "from": 0,
+        "to": 25000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Sensory receptors"
+      }
+    },
+    {
+      "text": "Ye receptors isko andhere mein khana dhundne mein madad karte hain.",
+      "highlight": "andhere mein khana",
+      "scene": {
+        "type": "fact",
+        "emoji": "🌑",
+        "big": "DARK FORAGING",
+        "small": "No sight needed"
+      }
+    },
+    {
+      "text": "Iska dimaag sirf 8 milliseconds mein decide karta hai ki khana khana hai ya nahi!",
+      "highlight": "8 milliseconds",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 8,
+        "prefix": "",
+        "suffix": "ms",
+        "label": "Brain decision time"
+      }
+    },
+    {
+      "text": "Ye duniya ka sabse fast khane wala mammal hai jo 120 milliseconds mein shikaar kha leta hai.",
+      "highlight": "120 milliseconds",
+      "scene": {
+        "type": "counter",
+        "emoji": "⏱️",
+        "from": 0,
+        "to": 120,
+        "prefix": "",
+        "suffix": "ms",
+        "label": "Fastest-eating mammal"
+      }
+    },
+    {
+      "text": "Kya aapne pehle kabhi is anokhe star-nosed mole ke baare mein suna tha?",
+      "highlight": "star-nosed mole",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "STAR-NOSED MOLE"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Iss Ajab Jaanwar Ka Sach Uda Degi Aapke Hosh! 🤯 #shorts",
+    "description": "Star-nosed mole ke paas hote hain 22 pink tentacles aur 25,000 sensory receptors, jo isko banate hain duniya ka sabse fast forager!\n\n#shorts #facts #animals #amazing #wildlife",
+    "tags": [
+      "star nosed mole",
+      "animal facts",
+      "fastest eating mammal",
+      "weird animals",
+      "biology facts",
+      "nature facts",
+      "amazing facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The star-nosed mole has 25,000 sensory receptors on 22 appendages.",
+      "source": "https://en.wikipedia.org/wiki/Star-nosed_mole"
+    },
+    {
+      "claim": "The nose has 22 appendages and is about 1.5 cm in diameter.",
+      "source": "https://en.wikipedia.org/wiki/Star-nosed_mole"
+    },
+    {
+      "claim": "It takes as little as 120 milliseconds to identify and consume food.",
+      "source": "https://en.wikipedia.org/wiki/Star-nosed_mole"
+    },
+    {
+      "claim": "Its brain decides in approximately eight milliseconds if prey is edible.",
+      "source": "https://en.wikipedia.org/wiki/Star-nosed_mole"
+    }
+  ]
+}
