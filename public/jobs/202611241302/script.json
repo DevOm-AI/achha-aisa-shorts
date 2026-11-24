@@ -1,0 +1,107 @@
+{
+  "title": "Catfish Ki Poori Body Pe Hai Jeebh? 🐟 #shorts",
+  "idea": "Catfish can taste their surroundings through chemoreceptors all over their body skin, and some grow up to 293 kg.",
+  "lines": [
+    {
+      "text": "Kya aap jaante ho Catfish bin munh khole poora paani chat sakti hai?",
+      "highlight": "chat sakti hai",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐟",
+        "big": "BODY SE SWAD!"
+      }
+    },
+    {
+      "text": "Iske poore shareer par taste receptors hote hain jo chhoote hi swad batayein.",
+      "highlight": "taste receptors",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "👅",
+            "text": "Taste Receptors"
+          },
+          {
+            "emoji": "🌊",
+            "text": "Paani Ka Swad"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Yaani ye machhli jis cheez ko chhoo le, use taste kar leti hai!",
+      "highlight": "chhoo le",
+      "scene": {
+        "type": "fact",
+        "emoji": "👅",
+        "big": "TOUCH SE TASTE",
+        "small": "Shareer Se Swad Hota Hai"
+      }
+    },
+    {
+      "text": "Itna hi nahi, lagbhag aadhi catfish species zehreli bhi hoti hain.",
+      "highlight": "zehreli bhi",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐟",
+          "label": "Normal Fish",
+          "value": 50
+        },
+        "right": {
+          "emoji": "🐍",
+          "label": "Venomous Fish",
+          "value": 50
+        },
+        "unit": "%"
+      }
+    },
+    {
+      "text": "Thailand mein ek Mekong catfish ka wazan 293 kilo paya gaya tha!",
+      "highlight": "293 kilo",
+      "scene": {
+        "type": "stack",
+        "emoji": "🐟",
+        "count": 293,
+        "label": "Kg Heavy Mekong Catfish"
+      }
+    },
+    {
+      "text": "Kya aapko pata tha machhli ki body pe jeebh hoti hai? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "COMMENT KARO!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Catfish Ki Poori Body Pe Hai Jeebh? 🐟 #shorts",
+    "description": "Kya aapko pata hai Catfish apne poore shareer se khane ka swad le sakti hai? Iske alawa 293 kg tak ki giant catfish bhi paayi jaati hai! Dekhiye is video mein.\n\n#catfish #animals #facts #hinglish #shorts",
+    "tags": [
+      "catfish",
+      "catfish facts",
+      "animal facts",
+      "amazing facts",
+      "hinglish facts",
+      "mindblowing facts",
+      "ocean life",
+      "fish facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Catfish have taste chemoreceptors across their entire body",
+      "source": "https://en.wikipedia.org/wiki/Catfish"
+    },
+    {
+      "claim": "As many as half of all catfish species may be venomous",
+      "source": "https://en.wikipedia.org/wiki/Catfish"
+    },
+    {
+      "claim": "A Mekong giant catfish weighed 293 kilograms",
+      "source": "https://en.wikipedia.org/wiki/Catfish"
+    }
+  ]
+}

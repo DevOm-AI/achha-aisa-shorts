@@ -1,0 +1,87 @@
+{
+  "title": "Catfish Ki Poori Body Pe Hai Jeebh? 🐟 #shorts",
+  "accent": "#db2777",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aap jaante ho Catfish bin munh khole poora paani chat sakti hai?",
+      "highlight": "chat sakti hai",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐟",
+        "big": "BODY SE SWAD!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Iske poore shareer par taste receptors hote hain jo chhoote hi swad batayein.",
+      "highlight": "taste receptors",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "👅",
+            "text": "Taste Receptors"
+          },
+          {
+            "emoji": "🌊",
+            "text": "Paani Ka Swad"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Yaani ye machhli jis cheez ko chhoo le, use taste kar leti hai!",
+      "highlight": "chhoo le",
+      "scene": {
+        "type": "fact",
+        "emoji": "👅",
+        "big": "TOUCH SE TASTE",
+        "small": "Shareer Se Swad Hota Hai"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Itna hi nahi, lagbhag aadhi catfish species zehreli bhi hoti hain.",
+      "highlight": "zehreli bhi",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐟",
+          "label": "Normal Fish",
+          "value": 50
+        },
+        "right": {
+          "emoji": "🐍",
+          "label": "Venomous Fish",
+          "value": 50
+        },
+        "unit": "%"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Thailand mein ek Mekong catfish ka wazan 293 kilo paya gaya tha!",
+      "highlight": "293 kilo",
+      "scene": {
+        "type": "stack",
+        "emoji": "🐟",
+        "count": 293,
+        "label": "Kg Heavy Mekong Catfish"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapko pata tha machhli ki body pe jeebh hoti hai? Comment karo!",
+      "highlight": "Comment karo",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "COMMENT KARO!"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}
