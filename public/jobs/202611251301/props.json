@@ -1,0 +1,105 @@
+{
+  "title": "Thorny Devil Ka Paani Peene Ka Ajab Sach! 🦎 #shorts",
+  "accent": "#db2777",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya koi jaanwar bina munh khole apni twacha se paani peeta hai?",
+      "highlight": "twacha se paani",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦎",
+        "big": "TWACHA SE PAANI?"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Ye hai Thorny Devil jo 21 cm lamba ek anokha chhapat chipkali hai!",
+      "highlight": "21 cm lamba",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🐜",
+            "label": "Cheenti"
+          },
+          {
+            "emoji": "🦎",
+            "label": "Thorny Devil 21cm"
+          },
+          {
+            "emoji": "🐊",
+            "label": "Magarmach"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Iske sharir par bane microscopic channels paani ko sidhe munh tak kheenchate hain!",
+      "highlight": "microscopic channels",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "💧",
+            "text": "Skin Absorbs Water"
+          },
+          {
+            "emoji": "🌊",
+            "text": "Channels Flow"
+          },
+          {
+            "emoji": "👄",
+            "text": "Direct To Mouth"
+          }
+        ]
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Bas gili ret par khade hone se ye paani peena shuru kar deta hai!",
+      "highlight": "gili ret par",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🏜️",
+          "label": "Gili Ret",
+          "value": 100
+        },
+        "right": {
+          "emoji": "🦎",
+          "label": "Thorny Devil",
+          "value": 100
+        },
+        "unit": "%"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Aur ye ek din mein hazaron cheentiyon ko aaram se kha jaata hai!",
+      "highlight": "hazaron cheentiyon",
+      "scene": {
+        "type": "counter",
+        "emoji": "🐜",
+        "from": 0,
+        "to": 1000,
+        "prefix": "",
+        "suffix": "+",
+        "label": "Daily Ants Eaten"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Kya aapne pehle kabhi twacha se paani peene wala jaanwar dekha tha?",
+      "highlight": "twacha se paani",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "TWACHA SE DRINK!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
