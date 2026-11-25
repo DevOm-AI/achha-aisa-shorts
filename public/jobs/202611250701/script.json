@@ -1,0 +1,99 @@
+{
+  "title": "Narwhal Ka Sach! 🐋 #shorts",
+  "idea": "The narwhal's horn is actually an overgrown 3-meter canine tooth filled with millions of nerve endings.",
+  "lines": [
+    {
+      "text": "Kya samundar mein asli Unicorn ghoomta hai?",
+      "highlight": "asli Unicorn",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐋",
+        "big": "REAL UNICORN?"
+      }
+    },
+    {
+      "text": "Is Narwhal ka seeng asal mein ek 3 meter lamba daant hai!",
+      "highlight": "3 meter lamba",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦷",
+          "label": "Insaan Daant",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐋",
+          "label": "Narwhal Daant",
+          "value": 300
+        },
+        "unit": "cm"
+      }
+    },
+    {
+      "text": "Ye khokhla daant iske oopri jabde se baahar nikalta hai.",
+      "highlight": "oopri jabde",
+      "scene": {
+        "type": "fact",
+        "emoji": "🦴",
+        "big": "3 METER DAANT",
+        "small": "Oopri Jabde Se Baahar"
+      }
+    },
+    {
+      "text": "Is ajeeb daant mein laakho nerve endings hoti hain!",
+      "highlight": "laakho nerve",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 10000000,
+        "prefix": "",
+        "suffix": " Nerves",
+        "label": "Nerve Endings"
+      }
+    },
+    {
+      "text": "Isse ye paani ka taapmaan aur pressure turant samajh leta hai!",
+      "highlight": "taapmaan aur pressure",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER SENSE!"
+      }
+    },
+    {
+      "text": "Kya aapne pehle kabhi aisa daant dekha tha?",
+      "highlight": "aisa daant",
+      "scene": {
+        "type": "stack",
+        "emoji": "📏",
+        "count": 3,
+        "label": "3 Meter Lamba Daant"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Narwhal Ka 3 Meter Lamba Daant! 🐋 #shorts",
+    "description": "Kya aapko pata tha ki Narwhal ka seeng asal mein ek super sensitive daant hai? Dekhiye is anokhe jaanwar ka dhasu sach!\n\n#shorts #narwhal #oceanlife #animalfacts #facts",
+    "tags": [
+      "narwhal",
+      "narwhal tusk",
+      "ocean facts",
+      "animal facts",
+      "hinglish facts",
+      "mindblowing facts",
+      "whales",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The narwhal's tusk is 1.5 to 3.0 m long.",
+      "source": "https://en.wikipedia.org/wiki/Narwhal"
+    },
+    {
+      "claim": "The tusk has millions of nerve endings to sense temperature and water pressure.",
+      "source": "https://en.wikipedia.org/wiki/Narwhal"
+    }
+  ]
+}

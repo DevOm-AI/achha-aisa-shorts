@@ -1,0 +1,83 @@
+{
+  "title": "Narwhal Ka Sach! 🐋 #shorts",
+  "accent": "#0891b2",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya samundar mein asli Unicorn ghoomta hai?",
+      "highlight": "asli Unicorn",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐋",
+        "big": "REAL UNICORN?"
+      },
+      "durationInFrames": 94
+    },
+    {
+      "text": "Is Narwhal ka seeng asal mein ek 3 meter lamba daant hai!",
+      "highlight": "3 meter lamba",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🦷",
+          "label": "Insaan Daant",
+          "value": 1
+        },
+        "right": {
+          "emoji": "🐋",
+          "label": "Narwhal Daant",
+          "value": 300
+        },
+        "unit": "cm"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Ye khokhla daant iske oopri jabde se baahar nikalta hai.",
+      "highlight": "oopri jabde",
+      "scene": {
+        "type": "fact",
+        "emoji": "🦴",
+        "big": "3 METER DAANT",
+        "small": "Oopri Jabde Se Baahar"
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Is ajeeb daant mein laakho nerve endings hoti hain!",
+      "highlight": "laakho nerve",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 10000000,
+        "prefix": "",
+        "suffix": " Nerves",
+        "label": "Nerve Endings"
+      },
+      "durationInFrames": 115
+    },
+    {
+      "text": "Isse ye paani ka taapmaan aur pressure turant samajh leta hai!",
+      "highlight": "taapmaan aur pressure",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "SUPER SENSE!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Kya aapne pehle kabhi aisa daant dekha tha?",
+      "highlight": "aisa daant",
+      "scene": {
+        "type": "stack",
+        "emoji": "📏",
+        "count": 3,
+        "label": "3 Meter Lamba Daant"
+      },
+      "durationInFrames": 104
+    }
+  ]
+}
