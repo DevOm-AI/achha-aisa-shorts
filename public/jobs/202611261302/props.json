@@ -1,0 +1,91 @@
+{
+  "title": "Platypus Ka Ajab Sach",
+  "accent": "#7c3aed",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aapko pata hai is anokhe jaanwar ka pet hi nahi hota?",
+      "highlight": "pet hi nahi hota",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦦",
+        "big": "NO STOMACH!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Socho, agar humara pet na ho toh khana kahan jayega?",
+      "highlight": "khana kahan",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🥣",
+          "label": "Khana",
+          "value": 1
+        },
+        "right": {
+          "emoji": "❌",
+          "label": "Pet",
+          "value": 0
+        },
+        "unit": "- "
+      },
+      "durationInFrames": 126
+    },
+    {
+      "text": "Platypus ka esophagus seedha intestines se juda hota hai!",
+      "highlight": "seedha intestines",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🪱",
+            "label": "Esophagus"
+          },
+          {
+            "emoji": "➡️",
+            "label": "Direct"
+          },
+          {
+            "emoji": "🌀",
+            "label": "Intestines"
+          }
+        ]
+      },
+      "durationInFrames": 115
+    },
+    {
+      "text": "Iska matlab iske paas pepsin paida karne wale genes hi nahi hain.",
+      "highlight": "genes hi nahi",
+      "scene": {
+        "type": "fact",
+        "emoji": "🧬",
+        "big": "NO GENES",
+        "small": "Pepsin missing"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Inke paas bas ek pouch jaisa section hota hai jo khana pachane mein madad karta hai.",
+      "highlight": "pouch jaisa",
+      "scene": {
+        "type": "stack",
+        "emoji": "🎒",
+        "count": 3,
+        "label": "Pouch for digestion"
+      },
+      "durationInFrames": 191
+    },
+    {
+      "text": "Kya aapko is hairan karne wale fact ka pata tha? Comments mein batao!",
+      "highlight": "Comments mein",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "MIND BLOWN!"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}
