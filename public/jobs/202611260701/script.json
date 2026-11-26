@@ -1,0 +1,114 @@
+{
+  "title": "Paani Ke Andar Dive Karne Wala Hiran! 🦌 #shorts",
+  "idea": "Exposing the mind-blowing fact that Moose are the only deer that dive up to 5.5 meters underwater to eat plants with self-sealing nostrils.",
+  "lines": [
+    {
+      "text": "Ek aisa hiran hai jo paani ke andar 5.5 meter gehra dive karta hai!",
+      "highlight": "5.5 meter gehra",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦌",
+        "big": "UNDERWATER DEER!"
+      }
+    },
+    {
+      "text": "Moose duniya ka akela aisa hiran hai jo paani ke andar khana khata hai!",
+      "highlight": "akela aisa hiran",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🦌",
+            "text": "Only Diving Deer"
+          },
+          {
+            "emoji": "🌿",
+            "text": "Eats Lake Plants"
+          }
+        ]
+      }
+    },
+    {
+      "text": "5.5 meter gehrai matlab lagbhag ek do manzila imaarat jitna paani mein jaana!",
+      "highlight": "do manzila imaarat",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🤿",
+          "label": "Human Diver",
+          "value": 2
+        },
+        "right": {
+          "emoji": "🦌",
+          "label": "Moose Dive",
+          "value": 5.5
+        },
+        "unit": "m"
+      }
+    },
+    {
+      "text": "Paani ke pressure se inki naak ke nostrils khud band ho jaate hain!",
+      "highlight": "nostrils khud band",
+      "scene": {
+        "type": "fact",
+        "emoji": "👃",
+        "big": "AUTO SEAL NOSE",
+        "small": "Nostrils close under water"
+      }
+    },
+    {
+      "text": "Ek typical moose har din 32 kg tak khana kha sakta hai!",
+      "highlight": "32 kg tak",
+      "scene": {
+        "type": "counter",
+        "emoji": "🌿",
+        "from": 0,
+        "to": 32,
+        "prefix": "",
+        "suffix": " kg",
+        "label": "Daily Food Intake"
+      }
+    },
+    {
+      "text": "Kya aapne pehle kabhi kisi hiran ko diving karte dekha hai?",
+      "highlight": "diving karte dekha",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "MIND BLOWN!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Paani Ke Andar Dive Karne Wala Hiran! 🦌 #shorts",
+    "description": "Kya aap jaante hain ki Moose duniya ka iklota aisa hiran hai jo 5.5 meter gehre paani mein dive karke aquatic plants khata hai? Inki naak paani ke pressure se khud band ho jaati hai!\n\n#moose #wildlife #amazingfacts #hinglishfacts #shorts",
+    "tags": [
+      "moose facts",
+      "diving deer",
+      "underwater moose",
+      "wildlife facts",
+      "animal facts hinglish",
+      "mindblowing facts",
+      "moose underwater",
+      "random facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Moose can dive over 5.5 meters underwater to reach plants on lake bottoms.",
+      "source": "https://en.wikipedia.org/wiki/Moose"
+    },
+    {
+      "claim": "Moose are the only deer capable of feeding underwater.",
+      "source": "https://en.wikipedia.org/wiki/Moose"
+    },
+    {
+      "claim": "Moose nostrils close automatically when exposed to water pressure.",
+      "source": "https://en.wikipedia.org/wiki/Moose"
+    },
+    {
+      "claim": "A typical moose can eat up to 32 kg of food per day.",
+      "source": "https://en.wikipedia.org/wiki/Moose"
+    }
+  ]
+}

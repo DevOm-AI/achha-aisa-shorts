@@ -1,0 +1,90 @@
+{
+  "title": "Paani Ke Andar Dive Karne Wala Hiran! 🦌 #shorts",
+  "accent": "#dc2626",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Ek aisa hiran hai jo paani ke andar 5.5 meter gehra dive karta hai!",
+      "highlight": "5.5 meter gehra",
+      "scene": {
+        "type": "hook",
+        "emoji": "🦌",
+        "big": "UNDERWATER DEER!"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Moose duniya ka akela aisa hiran hai jo paani ke andar khana khata hai!",
+      "highlight": "akela aisa hiran",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🦌",
+            "text": "Only Diving Deer"
+          },
+          {
+            "emoji": "🌿",
+            "text": "Eats Lake Plants"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "5.5 meter gehrai matlab lagbhag ek do manzila imaarat jitna paani mein jaana!",
+      "highlight": "do manzila imaarat",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🤿",
+          "label": "Human Diver",
+          "value": 2
+        },
+        "right": {
+          "emoji": "🦌",
+          "label": "Moose Dive",
+          "value": 5.5
+        },
+        "unit": "m"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Paani ke pressure se inki naak ke nostrils khud band ho jaate hain!",
+      "highlight": "nostrils khud band",
+      "scene": {
+        "type": "fact",
+        "emoji": "👃",
+        "big": "AUTO SEAL NOSE",
+        "small": "Nostrils close under water"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Ek typical moose har din 32 kg tak khana kha sakta hai!",
+      "highlight": "32 kg tak",
+      "scene": {
+        "type": "counter",
+        "emoji": "🌿",
+        "from": 0,
+        "to": 32,
+        "prefix": "",
+        "suffix": " kg",
+        "label": "Daily Food Intake"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapne pehle kabhi kisi hiran ko diving karte dekha hai?",
+      "highlight": "diving karte dekha",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "MIND BLOWN!"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
