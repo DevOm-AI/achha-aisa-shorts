@@ -1,0 +1,115 @@
+{
+  "title": "Box Jellyfish Ki 24 Aankhon Ka Khaufnaak Sach! 🪼 #shorts",
+  "idea": "Box jellyfish possess 24 eyes in four clusters, swim up to 7.4 km/h, and deliver lethal stings with 500,000 stinging cells per tentacle.",
+  "lines": [
+    {
+      "text": "Iss samundari jeev ke paas ek ya do nahi, poore 24 aankhein hain!",
+      "highlight": "24 aankhein",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪼",
+        "big": "24 AANKHEIN!"
+      }
+    },
+    {
+      "text": "Box jellyfish ki ye aankhein char alag clusters mein bati hoti hain.",
+      "highlight": "char alag clusters",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐟",
+          "label": "Aam Machhli",
+          "value": 2
+        },
+        "right": {
+          "emoji": "🪼",
+          "label": "Box Jellyfish",
+          "value": 24
+        },
+        "unit": "aankhein"
+      }
+    },
+    {
+      "text": "Ye normal jellyfish jaise behti nahi, 7 km/h ki speed se tairti hain!",
+      "highlight": "7 km/h ki speed",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🏊",
+          "label": "Insaan",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🪼",
+          "label": "Box Jellyfish",
+          "value": 7
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Inke har tentacle mein lagbhag 5 lakh zaharile stinging cells hote hain!",
+      "highlight": "5 lakh zaharile",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 500000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Stinging Cells"
+      }
+    },
+    {
+      "text": "Inka zahar itna khaufnaak hai ki cardiac arrest sirf 2 minute mein ho sakta hai!",
+      "highlight": "2 minute mein",
+      "scene": {
+        "type": "fact",
+        "emoji": "💔",
+        "big": "2 MINUTE",
+        "small": "Mein Cardiac Arrest"
+      }
+    },
+    {
+      "text": "Kya aap aise 24 aankhon wale shikari se samundar mein milna chahoge?",
+      "highlight": "24 aankhon wale",
+      "scene": {
+        "type": "reveal",
+        "emoji": "😱",
+        "big": "KHAUFNAAK SHIKARI!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Box Jellyfish Ki 24 Aankhon Ka Khaufnaak Sach! 🪼 #shorts",
+    "description": "Kya aap jaante hain ki Box Jellyfish ke paas 24 aankhein hoti hain? Ye samundar ki sabse tezz aur zaharili machhliyon mein se ek hai. Dekhiye iska hairan kar dene wala sach!\n\n#shorts #boxjellyfish #oceanfacts #mindblowingfacts #sciencefacts",
+    "tags": [
+      "box jellyfish",
+      "jellyfish facts",
+      "ocean creatures",
+      "hinglish facts",
+      "shorts",
+      "scary sea creatures",
+      "animal facts",
+      "science shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Box jellyfish have 24 eyes grouped into clusters.",
+      "source": "https://en.wikipedia.org/wiki/Box_jellyfish"
+    },
+    {
+      "claim": "They can swim at speeds around 7.4 km/h.",
+      "source": "https://en.wikipedia.org/wiki/Box_jellyfish"
+    },
+    {
+      "claim": "Each tentacle has about 500,000 stinging cells (cnidocytes).",
+      "source": "https://en.wikipedia.org/wiki/Box_jellyfish"
+    },
+    {
+      "claim": "Severe stings can cause cardiac arrest within two minutes.",
+      "source": "https://en.wikipedia.org/wiki/Box_jellyfish"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Box Jellyfish Ki 24 Aankhon Ka Khaufnaak Sach! 🪼 #shorts",
+  "accent": "#ea580c",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Iss samundari jeev ke paas ek ya do nahi, poore 24 aankhein hain!",
+      "highlight": "24 aankhein",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪼",
+        "big": "24 AANKHEIN!"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Box jellyfish ki ye aankhein char alag clusters mein bati hoti hain.",
+      "highlight": "char alag clusters",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🐟",
+          "label": "Aam Machhli",
+          "value": 2
+        },
+        "right": {
+          "emoji": "🪼",
+          "label": "Box Jellyfish",
+          "value": 24
+        },
+        "unit": "aankhein"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Ye normal jellyfish jaise behti nahi, 7 km/h ki speed se tairti hain!",
+      "highlight": "7 km/h ki speed",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🏊",
+          "label": "Insaan",
+          "value": 5
+        },
+        "right": {
+          "emoji": "🪼",
+          "label": "Box Jellyfish",
+          "value": 7
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 158
+    },
+    {
+      "text": "Inke har tentacle mein lagbhag 5 lakh zaharile stinging cells hote hain!",
+      "highlight": "5 lakh zaharile",
+      "scene": {
+        "type": "counter",
+        "emoji": "⚡",
+        "from": 0,
+        "to": 500000,
+        "prefix": "",
+        "suffix": "",
+        "label": "Stinging Cells"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Inka zahar itna khaufnaak hai ki cardiac arrest sirf 2 minute mein ho sakta hai!",
+      "highlight": "2 minute mein",
+      "scene": {
+        "type": "fact",
+        "emoji": "💔",
+        "big": "2 MINUTE",
+        "small": "Mein Cardiac Arrest"
+      },
+      "durationInFrames": 180
+    },
+    {
+      "text": "Kya aap aise 24 aankhon wale shikari se samundar mein milna chahoge?",
+      "highlight": "24 aankhon wale",
+      "scene": {
+        "type": "reveal",
+        "emoji": "😱",
+        "big": "KHAUFNAAK SHIKARI!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
