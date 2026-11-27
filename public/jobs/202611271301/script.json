@@ -1,0 +1,114 @@
+{
+  "title": "Sailfish Ki Dhasu Speed Ka Sach! 🐟 #shorts",
+  "idea": "Unveiling how the Sailfish holds the speed record in oceans and uses color-changing stealth to hunt.",
+  "lines": [
+    {
+      "text": "Samundar ki sabse tez machhli Sailfish ke paas ek anokhi superpower hai!",
+      "highlight": "Sailfish",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐟",
+        "big": "SPEED KING SAIL"
+      }
+    },
+    {
+      "text": "Ye paani mein sabhi marine animals se zyada tez tairne ka record rakhti hai!",
+      "highlight": "record",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🐢",
+          "label": "Kachhua",
+          "value": 10
+        },
+        "right": {
+          "emoji": "🐟",
+          "label": "Sailfish",
+          "value": 55
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Sirf ek hi saal mein ye machhli 1.5 meter tak badi ho jaati hai!",
+      "highlight": "1.5 meter",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🐣",
+            "label": "Janm"
+          },
+          {
+            "emoji": "🐟",
+            "label": "1.5 Meter"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Shikaar ko confuse karne ke liye ye apna sharir ka rang badal sakti hai!",
+      "highlight": "rang badal",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🎨",
+            "text": "Rang Badalna"
+          },
+          {
+            "emoji": "⚡",
+            "text": "Super Speed"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Attack karte waqt ye apna bada sail pankh upar utha leti hai!",
+      "highlight": "sail pankh",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🦈",
+        "big": "SECRET WEAPON!"
+      }
+    },
+    {
+      "text": "Kya aapko Sailfish ki iss speed ke baare mein pata tha? Comment karo!",
+      "highlight": "Comment",
+      "scene": {
+        "type": "fact",
+        "emoji": "💬",
+        "big": "COMMENT NOW",
+        "small": "Kya pehle pata tha?"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Sailfish Ki Dhasu Speed Ka Sach! 🐟 #shorts",
+    "description": "Dunia ki sabse tez machhli Sailfish ke baare mein ye mind-blowing facts sunke aap dang reh jaoge! 🌊\n\n#sailfish #oceanfacts #hindifacts #animalfacts #shorts",
+    "tags": [
+      "sailfish",
+      "fastest fish",
+      "ocean facts",
+      "hinglish facts",
+      "amazing animal facts",
+      "sea creatures",
+      "shorts",
+      "viral facts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "Sailfish holds the record for the highest speed of any marine animal.",
+      "source": "https://en.wikipedia.org/wiki/Sailfish"
+    },
+    {
+      "claim": "Sailfish grow quickly to 1.2–1.5 meters in a single year.",
+      "source": "https://en.wikipedia.org/wiki/Sailfish"
+    },
+    {
+      "claim": "Sailfish are capable of changing colors to confuse prey.",
+      "source": "https://en.wikipedia.org/wiki/Sailfish"
+    }
+  ]
+}

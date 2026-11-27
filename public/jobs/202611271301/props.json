@@ -1,0 +1,94 @@
+{
+  "title": "Sailfish Ki Dhasu Speed Ka Sach! 🐟 #shorts",
+  "accent": "#2563eb",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Samundar ki sabse tez machhli Sailfish ke paas ek anokhi superpower hai!",
+      "highlight": "Sailfish",
+      "scene": {
+        "type": "hook",
+        "emoji": "🐟",
+        "big": "SPEED KING SAIL"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Ye paani mein sabhi marine animals se zyada tez tairne ka record rakhti hai!",
+      "highlight": "record",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "🐢",
+          "label": "Kachhua",
+          "value": 10
+        },
+        "right": {
+          "emoji": "🐟",
+          "label": "Sailfish",
+          "value": 55
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Sirf ek hi saal mein ye machhli 1.5 meter tak badi ho jaati hai!",
+      "highlight": "1.5 meter",
+      "scene": {
+        "type": "grow",
+        "items": [
+          {
+            "emoji": "🐣",
+            "label": "Janm"
+          },
+          {
+            "emoji": "🐟",
+            "label": "1.5 Meter"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Shikaar ko confuse karne ke liye ye apna sharir ka rang badal sakti hai!",
+      "highlight": "rang badal",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🎨",
+            "text": "Rang Badalna"
+          },
+          {
+            "emoji": "⚡",
+            "text": "Super Speed"
+          }
+        ]
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Attack karte waqt ye apna bada sail pankh upar utha leti hai!",
+      "highlight": "sail pankh",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🦈",
+        "big": "SECRET WEAPON!"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya aapko Sailfish ki iss speed ke baare mein pata tha? Comment karo!",
+      "highlight": "Comment",
+      "scene": {
+        "type": "fact",
+        "emoji": "💬",
+        "big": "COMMENT NOW",
+        "small": "Kya pehle pata tha?"
+      },
+      "durationInFrames": 158
+    }
+  ]
+}
