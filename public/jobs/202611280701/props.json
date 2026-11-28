@@ -1,0 +1,90 @@
+{
+  "title": "Mercury Planet Ka Khaufnaak Weather! 🪐 #shorts",
+  "accent": "#db2777",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Mercury planet par ek hi din mein blasting fire aur freezing cold hota hai!",
+      "highlight": "blasting fire",
+      "scene": {
+        "type": "hook",
+        "emoji": "🪐",
+        "big": "EXTREME PLANET"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Din mein yahan ka temperature 427 °C tak khaufnaak garam hota hai!",
+      "highlight": "427 °C",
+      "scene": {
+        "type": "counter",
+        "emoji": "🔥",
+        "from": 0,
+        "to": 427,
+        "prefix": "",
+        "suffix": "°C",
+        "label": "Day Temp"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Lekin raat hote hi temperature -173 °C tak drop ho jaata hai!",
+      "highlight": "-173 °C",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "🔥",
+          "label": "Day Temp",
+          "value": 427
+        },
+        "right": {
+          "emoji": "❄️",
+          "label": "Night Temp",
+          "value": -173
+        },
+        "unit": "°C"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Iska core poore volume ka 57% hai jabki Prithvi ka sirf 17%!",
+      "highlight": "57%",
+      "scene": {
+        "type": "list",
+        "items": [
+          {
+            "emoji": "🪐",
+            "text": "Mercury Core: 57%"
+          },
+          {
+            "emoji": "🌍",
+            "text": "Earth Core: 17%"
+          }
+        ]
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Atmosphere na hone se yahan extreme surface temperature swing milta hai!",
+      "highlight": "extreme temperature",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "NO ATMOSPHERE!"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Kya aap aise dangerous planet par ek din bhi bita sakte ho?",
+      "highlight": "bita sakte ho",
+      "scene": {
+        "type": "fact",
+        "emoji": "❓",
+        "big": "SURVIVE THERE?",
+        "small": "Comment your thoughts below!"
+      },
+      "durationInFrames": 148
+    }
+  ]
+}
