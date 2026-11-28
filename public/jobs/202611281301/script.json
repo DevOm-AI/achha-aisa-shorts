@@ -1,0 +1,121 @@
+{
+  "title": "Large Hadron Collider Ka Sabse Bada Sach! 🔬 #shorts",
+  "idea": "Mind-blowing facts about the Large Hadron Collider's extreme underground depth, freezing temperature, and near-light-speed particle collisions.",
+  "lines": [
+    {
+      "text": "Kya aap jaante ho duniya ki sabse badi machine zameen ke neeche chupi hai?",
+      "highlight": "sabse badi machine",
+      "scene": {
+        "type": "hook",
+        "emoji": "🔬",
+        "big": "SABSE BADI MACHINE"
+      }
+    },
+    {
+      "text": "Ye 27 kilometer lambi tunnel zameen se 175 metre neeche bani hai.",
+      "highlight": "175 metre neeche",
+      "scene": {
+        "type": "counter",
+        "emoji": "⛏️",
+        "from": 0,
+        "to": 175,
+        "prefix": "",
+        "suffix": "m",
+        "label": "Zameen Ke Neeche Depth"
+      }
+    },
+    {
+      "text": "Is machine ke magnets ko minus 271 degree Celsius par thanda rakha jaata hai.",
+      "highlight": "minus 271 degree",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "❄️",
+          "label": "LHC Temp",
+          "value": -271
+        },
+        "right": {
+          "emoji": "🧊",
+          "label": "Ice Temp",
+          "value": 0
+        },
+        "unit": "°C"
+      }
+    },
+    {
+      "text": "Yahan protons har ek second mein 11,245 chakkar poore karte hain!",
+      "highlight": "11,245 chakkar",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "⚛️",
+          "label": "Accelerator"
+        },
+        "orbiter": {
+          "emoji": "⚡",
+          "label": "Proton"
+        },
+        "big": "11,245 CHAKKAR/SEC"
+      }
+    },
+    {
+      "text": "Inki speed light ki speed se sirf 11 km/h kam hoti hai!",
+      "highlight": "11 km/h kam",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "⚡",
+          "label": "Proton Speed",
+          "value": 1079252837
+        },
+        "right": {
+          "emoji": "💡",
+          "label": "Light Speed",
+          "value": 1079252848
+        },
+        "unit": "km/h"
+      }
+    },
+    {
+      "text": "Kya insaan kabhi light ki exact speed ko match kar paayega?",
+      "highlight": "exact speed",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "LIGHT SPEED RACE!"
+      }
+    }
+  ],
+  "youtube": {
+    "title": "Large Hadron Collider Ka Sabse Bada Sach! 🔬 #shorts",
+    "description": "Duniya ki sabse badi machine Large Hadron Collider ki speed aur temperature sunkar aap dang reh jaoge! Jaaniye iska sabse anokha sach.\n\n#largehadroncollider #sciencefacts #physics #mindblowingfacts #shorts",
+    "tags": [
+      "large hadron collider",
+      "lhc facts",
+      "cern",
+      "science facts hinglish",
+      "physics facts",
+      "speed of light",
+      "mind blowing facts",
+      "shorts"
+    ]
+  },
+  "facts": [
+    {
+      "claim": "The tunnel is 27 km in circumference and 175 m deep underground.",
+      "source": "https://en.wikipedia.org/wiki/Large_Hadron_Collider"
+    },
+    {
+      "claim": "Magnets operate at minus 271.25 degrees Celsius.",
+      "source": "https://en.wikipedia.org/wiki/Large_Hadron_Collider"
+    },
+    {
+      "claim": "Protons make 11,245 revolutions per second.",
+      "source": "https://en.wikipedia.org/wiki/Large_Hadron_Collider"
+    },
+    {
+      "claim": "Protons move only 11 km/h slower than the speed of light.",
+      "source": "https://en.wikipedia.org/wiki/Large_Hadron_Collider"
+    }
+  ]
+}

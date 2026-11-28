@@ -1,0 +1,97 @@
+{
+  "title": "Large Hadron Collider Ka Sabse Bada Sach! 🔬 #shorts",
+  "accent": "#059669",
+  "voice": null,
+  "voiceTrimBefore": 0,
+  "lines": [
+    {
+      "text": "Kya aap jaante ho duniya ki sabse badi machine zameen ke neeche chupi hai?",
+      "highlight": "sabse badi machine",
+      "scene": {
+        "type": "hook",
+        "emoji": "🔬",
+        "big": "SABSE BADI MACHINE"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Ye 27 kilometer lambi tunnel zameen se 175 metre neeche bani hai.",
+      "highlight": "175 metre neeche",
+      "scene": {
+        "type": "counter",
+        "emoji": "⛏️",
+        "from": 0,
+        "to": 175,
+        "prefix": "",
+        "suffix": "m",
+        "label": "Zameen Ke Neeche Depth"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Is machine ke magnets ko minus 271 degree Celsius par thanda rakha jaata hai.",
+      "highlight": "minus 271 degree",
+      "scene": {
+        "type": "compare",
+        "left": {
+          "emoji": "❄️",
+          "label": "LHC Temp",
+          "value": -271
+        },
+        "right": {
+          "emoji": "🧊",
+          "label": "Ice Temp",
+          "value": 0
+        },
+        "unit": "°C"
+      },
+      "durationInFrames": 169
+    },
+    {
+      "text": "Yahan protons har ek second mein 11,245 chakkar poore karte hain!",
+      "highlight": "11,245 chakkar",
+      "scene": {
+        "type": "orbit",
+        "center": {
+          "emoji": "⚛️",
+          "label": "Accelerator"
+        },
+        "orbiter": {
+          "emoji": "⚡",
+          "label": "Proton"
+        },
+        "big": "11,245 CHAKKAR/SEC"
+      },
+      "durationInFrames": 137
+    },
+    {
+      "text": "Inki speed light ki speed se sirf 11 km/h kam hoti hai!",
+      "highlight": "11 km/h kam",
+      "scene": {
+        "type": "race",
+        "left": {
+          "emoji": "⚡",
+          "label": "Proton Speed",
+          "value": 1079252837
+        },
+        "right": {
+          "emoji": "💡",
+          "label": "Light Speed",
+          "value": 1079252848
+        },
+        "unit": "km/h"
+      },
+      "durationInFrames": 148
+    },
+    {
+      "text": "Kya insaan kabhi light ki exact speed ko match kar paayega?",
+      "highlight": "exact speed",
+      "scene": {
+        "type": "reveal",
+        "emoji": "🤯",
+        "big": "LIGHT SPEED RACE!"
+      },
+      "durationInFrames": 137
+    }
+  ]
+}
